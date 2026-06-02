@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>identifier_app</title>
+    <script>
+      // SPA-on-GitHub-Pages encode-and-redirect.
+      // Captures the deep-link path (e.g. /identifier3-web/people),
+      // rewrites it to /identifier3-web/?/people, and bounces to it.
+      // index.html's matching decode script unwinds the query back into
+      // the real path via history.replaceState before Flutter boots.
+      // pathSegmentsToKeep = 1 because the site is served from
+      // /identifier3-web/ (one segment to preserve).
+      var pathSegmentsToKeep = 1;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+          l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') +
+          '/?/' +
+          l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+          (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+          l.hash
+      );
+    </script>
+  </head>
+  <body></body>
+</html>
