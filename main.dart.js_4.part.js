@@ -1,19 +1,19 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c0J(){return new B.x_(null)},
-x_:function x_(d){this.a=d},
-azx:function azx(d){this.a=d},
-azy:function azy(d,e){this.a=d
+cbd(){return new B.yv(null)},
+yv:function yv(d){this.a=d},
+aFt:function aFt(d){this.a=d},
+aFu:function aFu(d,e){this.a=d
 this.b=e},
-azz:function azz(d,e){this.a=d
+aFv:function aFv(d,e){this.a=d
 this.b=e},
-aho:function aho(d,e,f,g,h){var _=this
+am3:function am3(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.f=g
 _.a=h},
-k9:function k9(d,e,f,g){var _=this
+l2:function l2(d,e,f,g){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -24,62 +24,62 @@ E=c[16]
 B=a.updateHolder(c[4],B)
 D=c[29]
 F=c[15]
-B.x_.prototype={
-p(d){var x,w,v,u,t,s,r=null,q=y.i.a(A.h(d).c.h(0,A.l(y.n)))
+B.yv.prototype={
+p(d){var x,w,v,u,t,s,r=null,q=y.i.a(A.i(d).c.h(0,A.n(y.n)))
 q.toString
-x=A.as(d).a
+x=A.aD(d).a
 w=y.e
-v=A.a([A.DX(C.ab,new B.azx(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.f(r,q.z,r)],w)
+v=A.a([A.FX(C.ab,new B.aFt(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.h(r,q.z,r)],w)
 for(q=q.x,u=0;u<12;++u){t=A.a([],w)
-if(u>0)t.push(new A.b_(r,q,r,r))
-s=D.ww[u]
-t.push(new B.aho(s,!x.f.n(0,s.a),new B.azy(x,u),new B.azz(x,u),r))
-C.h.B(v,t)}return A.r(v,C.v,C.m,C.p,0,C.q)}}
-B.aho.prototype={
-p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.p.a(A.h(d).c.h(0,A.l(y.m)))
+if(u>0)t.push(new A.bc(r,q,r,r))
+s=D.wS[u]
+t.push(new B.am3(s,!x.f.n(0,s.a),new B.aFu(x,u),new B.aFv(x,u),r))
+C.f.u(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
+B.am3.prototype={
+p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.p.a(A.i(d).c.h(0,A.n(y.m)))
 o.toString
-x=y.i.a(A.h(d).c.h(0,A.l(y.n)))
+x=y.i.a(A.i(d).c.h(0,A.n(y.n)))
 x.toString
 w=x.z
-v=A.ab(x.c)
-u=A.aE(o.ch,1)
+v=A.ad(x.c)
+u=A.aM(o.ch,1)
 t=q.c
 s=t.a
-s=A.p5(A.n5(d,s),F.XR(d,s),t.d,x.fy,p,40)
+s=A.qm(A.o9(d,s),F.a_w(d,s),t.d,x.fy,p,40)
 r=q.d
-x=A.f(p,x.x,p)
-return A.Z(p,A.r(A.a([new E.ja(s,t.b,t.c,r,q.e,p),x,new A.cM(C.eq,p,p,A.ar(!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a5,p,C.ab,120),p)],y.e),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.a7(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.R(w,w,w,w),p,p,p)}}
-B.k9.prototype={}
+x=A.h(p,x.x,p)
+return A.a2(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cX(C.eu,p,p,A.az(!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a5,p,C.ab,120),p)],y.e),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.U(w,w,w,w),p,p,p)}}
+B.l2.prototype={}
 var z=a.updateTypes([])
-B.azx.prototype={
-$0(){return this.a.hp("settings")},
+B.aFt.prototype={
+$0(){return this.a.hD(0,"settings")},
 $S:0}
-B.azy.prototype={
-$1(d){return this.a.aiC(D.ww[this.b].a,!d)},
+B.aFu.prototype={
+$1(d){return this.a.akS(D.wS[this.b].a,!d)},
 $S:3}
-B.azz.prototype={
-$0(){var x=this.a,w=D.ww[this.b],v=x.y
-if(v!=null)v.tf("/settings/entity-management/"+w.a)
+B.aFv.prototype={
+$0(){var x=this.a,w=D.wS[this.b],v=x.y
+if(v!=null)v.tV(0,"/settings/entity-management/"+w.a)
 else{x.c="settings-entity-configure"
-x.h2()}return null},
+x.hf()}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.H,[B.x_,B.aho])
-x(A.kj,[B.azx,B.azz])
-w(B.azy,A.il)
-w(B.k9,A.M)})()
-A.mU(b.typeUniverse,JSON.parse('{"x_":{"H":[],"c":[]},"aho":{"H":[],"c":[]}}'))
-var y={m:A.a3("dW"),n:A.a3("eh"),e:A.a3("u<c>"),p:A.a3("dW?"),i:A.a3("eh?")};(function constants(){var x=a.makeConstList
-D.bBc=new B.k9("people","People","Track employees, contractors, and visitors in your factory",C.dO)
-D.bB9=new B.k9("machines","Machines","Monitor and manage industrial equipment and machinery",C.j7)
-D.bB7=new B.k9("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.j4)
-D.bB6=new B.k9("materials","Materials","Manage raw materials, components, and finished goods inventory",C.eE)
-D.bBd=new B.k9("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kU)
-D.bB5=new B.k9("locations","Locations","Define physical locations and facilities within your factory",C.h2)
-D.bBe=new B.k9("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kW)
-D.bBb=new B.k9("clients","Clients","Track client accounts, contacts, and engagement history",C.nG)
-D.bB8=new B.k9("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kV)
-D.bB4=new B.k9("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kT)
-D.bBa=new B.k9("software","Software","Manage software licenses, applications, and tooling",C.dD)
-D.bB3=new B.k9("products","Products","Catalog finished products, variants, and SKUs",C.eE)
-D.ww=x([D.bBc,D.bB9,D.bB7,D.bB6,D.bBd,D.bB5,D.bBe,D.bBb,D.bB8,D.bB4,D.bBa,D.bB3],A.a3("u<k9>"))})()};
-(a=>{a["D5LJg2u7yac+nSRsMxSGqRGbhVM="]=a.current})($__dart_deferred_initializers__);
+x(A.M,[B.yv,B.am3])
+x(A.ld,[B.aFt,B.aFv])
+w(B.aFu,A.iQ)
+w(B.l2,A.O)})()
+A.nT(b.typeUniverse,JSON.parse('{"yv":{"M":[],"d":[],"f":[]},"am3":{"M":[],"d":[],"f":[]}}'))
+var y={m:A.a6("ef"),n:A.a6("eB"),e:A.a6("v<d>"),p:A.a6("ef?"),i:A.a6("eB?")};(function constants(){var x=a.makeConstList
+D.bBV=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dR)
+D.bBS=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.jd)
+D.bBQ=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.ja)
+D.bBP=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.eG)
+D.bBW=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.l3)
+D.bBO=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.h7)
+D.bBX=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.l5)
+D.bBU=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
+D.bBR=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.l4)
+D.bBN=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.l2)
+D.bBT=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dF)
+D.bBM=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eG)
+D.wS=x([D.bBV,D.bBS,D.bBQ,D.bBP,D.bBW,D.bBO,D.bBX,D.bBU,D.bBR,D.bBN,D.bBT,D.bBM],A.a6("v<l2>"))})()};
+(a=>{a["AtzGK+65cnDqX9qvXxKLTS3J5o0="]=a.current})($__dart_deferred_initializers__);
