@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-c0F(d){return new B.tv(d,null)},
+c0G(d){return new B.tv(d,null)},
 tv:function tv(d,e){this.c=d
 this.a=e},
 Sq:function Sq(){var _=this
@@ -44,7 +44,7 @@ _.c=d
 _.d=e
 _.e=f
 _.a=g},
-bZH(d,e){return A.t3(null,C.aS,!0,null,new B.aua(e),d,null,!0,y.N)},
+bZI(d,e){return A.t3(null,C.aS,!0,null,new B.aua(e),d,null,!0,y.N)},
 ws:function ws(d,e){this.c=d
 this.a=e},
 aua:function aua(d){this.a=d},
@@ -55,7 +55,7 @@ b1c:function b1c(d){this.a=d},
 b1e:function b1e(d,e){this.a=d
 this.b=e},
 b1d:function b1d(d){this.a=d},
-bMj(d,e){return A.t3(null,C.aS,!0,null,new B.avu(e),d,null,!0,y.I)},
+bMk(d,e){return A.t3(null,C.aS,!0,null,new B.avu(e),d,null,!0,y.I)},
 wK:function wK(d,e){this.c=d
 this.a=e},
 avu:function avu(d){this.a=d},
@@ -149,7 +149,7 @@ _.d=e
 _.e=f
 _.f=g
 _.a=h},
-bGo(d){switch(d.a){case 0:return"Single-line Text"
+bGp(d){switch(d.a){case 0:return"Single-line Text"
 case 1:return"Multi-line Text"
 case 2:return"Number"
 case 3:return"Date"
@@ -239,7 +239,7 @@ v=w.a+w.b
 u=this.c
 t=w.f
 w=w.r
-s=u.v===C.v7?A.bMh(v,w,t,"Full Name","Job Title","Department"):A.og(q,C.e5,C.eZ,C.ey,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
+s=u.v===C.v7?A.bMi(v,w,t,"Full Name","Job Title","Department"):A.og(q,C.e5,C.eZ,C.ey,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
 w=A.ac("Label Preview",q,q,A.q(q,q,p.d,q,q,q,q,q,q,q,q,A.o(C.X),q,q,A.p(C.C),q,q,!0,q,q,q,q,q,q,q,q).X(C.N),q)
 u=A.f(q,x.x,q)
 t=x.z
@@ -270,7 +270,7 @@ B.afF.prototype={
 ga_M(){var x=this.d
 return x===$?this.d=this.a.c:x},
 p(d){var x=null
-return A.bGn(A.b6(x,!1,x,"New name",!1,!1,"Category",new B.b1b(this),new B.b1c(d),C.af,C.ac,x,C.a6,this.ga_M()),"Cancel","Save",C.aK,x,480,new B.b1d(d),new B.b1e(this,d),!0,"Rename category")}}
+return A.bGo(A.b6(x,!1,x,"New name",!1,!1,"Category",new B.b1b(this),new B.b1c(d),C.af,C.ac,x,C.a6,this.ga_M()),"Cancel","Save",C.aK,x,480,new B.b1d(d),new B.b1e(this,d),!0,"Rename category")}}
 B.wK.prototype={
 U(){return new B.RQ()}}
 B.RQ.prototype={
@@ -332,9 +332,9 @@ l=A.ab(l.b)
 q=A.aE(v.ch,1)
 p=n.ga19()
 o=y.p
-o=A.O(A.a([w,j,A.a2(A.r(A.a([k,u,t,r,A.Z(m,A.bMi(p.eF(C.n.a0(n.gwZ()).length===0?"Field Label":C.n.a0(n.gwZ())),m,m,m,!0,n.gp_()),C.y,m,m,new A.a7(v.r,m,q,l,m,m,C.I),m,m,m,m,new A.R(s,s,s,s),m,m,m),A.f(m,s,m),A.av9(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bGo(n.gnR()))],o),C.v,C.m,C.M,0,C.q),1)],o),C.S,C.m,C.p,0,m)
+o=A.O(A.a([w,j,A.a2(A.r(A.a([k,u,t,r,A.Z(m,A.bMj(p.eF(C.n.a0(n.gwZ()).length===0?"Field Label":C.n.a0(n.gwZ())),m,m,m,!0,n.gp_()),C.y,m,m,new A.a7(v.r,m,q,l,m,m,C.I),m,m,m,m,new A.R(s,s,s,s),m,m,m),A.f(m,s,m),A.av9(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bGp(n.gnR()))],o),C.v,C.m,C.M,0,C.q),1)],o),C.S,C.m,C.p,0,m)
 l=n.a.c==null?"Add Field":"Save"
-return A.bGn(new A.lk(o,m),"Cancel",l,C.aK,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.b3w(d),n.gath(),!0,x)},
+return A.bGo(new A.lk(o,m),"Cancel",l,C.aK,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.b3w(d),n.gath(),!0,x)},
 aqN(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.h(d).c.h(0,A.l(y.S)))
 i.toString
 x=y.r.a(A.h(d).c.h(0,A.l(y.K)))
@@ -351,7 +351,7 @@ q=A.f(j,x,j)
 p=k.gnR()
 o=A.a([],y.d)
 for(n=y.z,m=0;m<9;++m){l=C.Nk[m]
-o.push(new A.aX(l,new A.bk(B.bGo(l),j,j,j,j,j),C.a1,j,n))}n=y.p
+o.push(new A.aX(l,new A.bk(B.bGp(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cx(j,"Single-line Text",!0,o,"Field Type",new B.b3j(k),C.aC,p,y.T),A.f(j,x,j),new A.jG(k.ga5F(),new B.b3k(k),"Required",j,!1,j),A.f(j,x,j),A.cx(j,"Select group or leave ungrouped",!1,D.b4N,"Group Assignment",j,C.aC,j,y.N),A.f(j,v,j),A.ac("Currently set to: Individual Field",j,j,A.q(j,j,i,j,j,j,j,j,j,j,j,A.o(C.E),j,j,A.p(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
 if(k.gnR()===C.kC)C.h.B(i,A.a([A.f(j,x,j),A.b6(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.b3l(k),j,C.af,C.ac,j,C.a6,k.ga4y())],n))
 i.push(A.f(j,x,j))
@@ -402,7 +402,7 @@ q=A.a([A.Q(s.b,n,n,n,n,n,n,A.q(n,n,m.d,n,n,n,n,n,n,n,n,A.o(C.X),n,n,A.p(C.C),n,n
 if(s.e)C.h.B(q,A.a([C.rd,A.ac("*",n,n,A.q(n,n,m.db,n,n,n,n,n,n,n,n,A.o(C.X),n,n,A.p(C.C),n,n,!0,n,n,n,n,n,n,n,n),n)],r))
 q.push(A.f(n,n,x.r))
 p=s.c
-q.push(new A.d4(B.bGo(p),C.bo,C.fs,n,n))
+q.push(new A.d4(B.bGp(p),C.bo,C.fs,n,n))
 q=A.a([A.O(q,C.z,C.m,C.p,0,n)],r)
 if(p===C.kC&&s.d.length!==0)C.h.B(q,A.a([A.f(n,x.d,n),A.Q(A.d(d,"Options: "+C.h.bv(s.d,", ")),n,n,n,n,n,n,A.q(n,n,m.f,n,n,n,n,n,n,n,n,A.o(C.E),n,n,A.p(C.A),n,n,!0,n,n,n,n,n,n,n,n),n,n,n,n,n)],r))
 x=x.fx
@@ -413,7 +413,7 @@ Fn(d){return this.apI(d)},
 apI(d){var x=0,w=A.E(y.H),v,u=this,t,s,r
 var $async$Fn=A.A(function(e,f){if(e===1)return A.B(f,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.bMj(d,null),$async$Fn)
+return A.x(B.bMk(d,null),$async$Fn)
 case 3:r=f
 if(r==null){x=1
 break}t=u.d
@@ -426,7 +426,7 @@ FW(d,e){return this.aui(d,e)},
 aui(d,e){var x=0,w=A.E(y.H),v,u=this,t,s,r,q,p,o,n,m
 var $async$FW=A.A(function(f,g){if(f===1)return A.B(g,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.bMj(d,e),$async$FW)
+return A.x(B.bMk(d,e),$async$FW)
 case 3:m=g
 if(m==null){x=1
 break}t=u.d
@@ -480,7 +480,7 @@ FV(d,e){return this.auh(d,e)},
 auh(d,e){var x=0,w=A.E(y.H),v,u=this,t,s,r,q,p,o,n
 var $async$FV=A.A(function(f,g){if(f===1)return A.B(g,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.bZH(d,e),$async$FV)
+return A.x(B.bZI(d,e),$async$FV)
 case 3:n=g
 if(n==null||n===e){x=1
 break}t=A.a([],y.s)
@@ -577,7 +577,7 @@ $1(d){return new B.wK(this.a,null)},
 $S:z+3}
 B.b3u.prototype={
 $1(d){return C.n.a0(d)},
-$S:43}
+$S:41}
 B.b3v.prototype={
 $1(d){return d.length!==0},
 $S:21}
@@ -690,7 +690,7 @@ $0(){return this.a.atD(this.b[this.c])},
 $S:0}
 B.azb.prototype={
 $1(d){return C.n.a0(d)},
-$S:43}
+$S:41}
 B.azc.prototype={
 $1(d){return d.length!==0},
 $S:21}
@@ -737,4 +737,4 @@ D.a8L=new A.aX(C.Dd,D.b9V,C.a1,null,y.q)
 D.ba8=new A.bk("Detailed",null,null,null,null,null)
 D.a99=new A.aX(C.De,D.ba8,C.a1,null,y.q)
 D.b5T=x([D.a90,D.a8L,D.a99],A.a3("u<aX<jS>>"))})()};
-(a=>{a["9bEQSc1cj5nVdMtC9/7dcl3Iv6g="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["eEPiGWlP/zlkUrFHKtAza3uzJ7c="]=a.current})($__dart_deferred_initializers__);

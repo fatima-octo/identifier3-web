@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,E,C={
-c1X(){return new C.tY(null)},
+c1Y(){return new C.tY(null)},
 tY:function tY(d){this.a=d},
 Ta:function Ta(d){var _=this
 _.d=0
@@ -190,7 +190,7 @@ _.e=f
 _.f=g
 _.a=h},
 Yu:function Yu(d){this.a=d},
-c_6(d){return A.t3(null,B.aS,!0,null,new C.auZ(),d,null,!0,y.J)},
+c_7(d){return A.t3(null,B.aS,!0,null,new C.auZ(),d,null,!0,y.J)},
 wE:function wE(d){this.a=d},
 auZ:function auZ(){},
 agc:function agc(){var _=this
@@ -347,7 +347,7 @@ var $async$H5=A.A(function(d,e){if(d===1)return A.B(e,w)
 for(;;)switch(x){case 0:s=u.c
 s.toString
 x=3
-return A.x(C.c_6(s),$async$H5)
+return A.x(C.c_7(s),$async$H5)
 case 3:t=e
 if(t==null||u.c==null){x=1
 break}u.C(new C.bbN(u,t))
@@ -404,7 +404,7 @@ if(o==null)o=""
 n=A.L(r.h(0,k))
 if(n==null)n=""
 r=A.L(r.h(0,"status"))
-u.push(A.ai(["Name",q,"Model",p,"IP",o,"Location",n,"Status",r==null?"Offline":r],s,s))}u=A.bGq(l,D.aZx,l,new C.b9M(m),l,l,new C.b9N(m),u)
+u.push(A.ai(["Name",q,"Model",p,"IP",o,"Location",n,"Status",r==null?"Offline":r],s,s))}u=A.bGr(l,D.aZx,l,new C.b9M(m),l,l,new C.b9N(m),u)
 j=A.f(l,j.z,l)
 x=A.f(l,x,l)
 v=A.a([],v)
@@ -420,7 +420,7 @@ else{o=A.L(r.h(0,"ip"))
 if(o==null)o=""}n=A.L(r.h(0,k))
 if(n==null)n=""
 r=A.L(r.h(0,"status"))
-v.push(A.ai(["Name",q,"Model",p,"Serial / IP",o,"Location",n,"Status",r==null?"Offline":r],s,s))}return A.r(A.a([new C.UO("Printers","Network and USB printers available to the print-label Edge Function.",new C.b9O(m),l),w,u,j,new C.UO("Scanners","Handheld and fixed-mount scanners. Workstation routing lands in v2.",new C.b9P(m),l),x,A.bGq(l,D.b72,l,new C.b9Q(m),l,l,new C.b9R(m),v)],y.p),B.v,B.m,B.p,0,B.q)},
+v.push(A.ai(["Name",q,"Model",p,"Serial / IP",o,"Location",n,"Status",r==null?"Offline":r],s,s))}return A.r(A.a([new C.UO("Printers","Network and USB printers available to the print-label Edge Function.",new C.b9O(m),l),w,u,j,new C.UO("Scanners","Handheld and fixed-mount scanners. Workstation routing lands in v2.",new C.b9P(m),l),x,A.bGr(l,D.b72,l,new C.b9Q(m),l,l,new C.b9R(m),v)],y.p),B.v,B.m,B.p,0,B.q)},
 mU(d,e){return this.aEQ(d,e)},
 a4x(d){return this.mU(d,null)},
 aEQ(a5,a6){var x=0,w=A.E(y.H),v,u=2,t=[],s=this,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4
@@ -1014,7 +1014,7 @@ C.aMm.prototype={
 $2(d,e){var x=null,w=this.a,v=new C.a7F(w.c,w.d,w.e,w.f,w.r,w.w,w.x,w.y,w.z,w.Q,w.as,w.at,w.ax,w.ay,w.ch,w.CW,w.cx,w.cy,w.db,w.dx,x),u=new C.a7H(w.dy,w.fr,x)
 if(!(e.b>=900))return A.r(A.a([v,A.f(x,this.b.x,x),u],y.p),B.v,B.m,B.p,0,B.q)
 return A.O(A.a([A.a2(v,2),A.f(x,x,this.b.x),A.a2(u,1)],y.p),B.S,B.m,B.p,0,x)},
-$S:99}
+$S:101}
 C.aMp.prototype={
 $2(d,e){var x,w,v,u,t,s,r,q,p,o=null,n=e.b,m=this.b.x
 if(n>=1100)x=3
@@ -1024,7 +1024,7 @@ v=y.p
 u=A.a([],v)
 for(t=this.a,s=t.c,r=s.length,q=0;q<s.length;s.length===r||(0,A.G)(s),++q){p=s[q]
 u.push(new A.b_(w,320,new C.a7K(p,new C.aMn(t,p),new C.aMo(t,p),o),o))}return A.r(A.a([A.fD(B.bH,u,B.cb,m,m),A.f(o,m,o),new C.XE(t.d,t.e,t.f,t.r,t.w,t.x,t.y,t.z,o)],v),B.v,B.m,B.p,0,B.q)},
-$S:78}
+$S:81}
 C.aMn.prototype={
 $0(){return this.a.Q.$1(this.b)},
 $S:0}
@@ -1039,7 +1039,7 @@ w=(p-o*(x-1))/x
 v=A.a([],y.p)
 for(u=this.a,t=u.c,s=t.length,r=0;r<t.length;t.length===s||(0,A.G)(t),++r){q=t[r]
 v.push(new A.b_(w,null,new C.ab7(q,new C.aVs(u,q),new C.aVt(u,q),null),null))}return A.fD(B.bH,v,B.cb,o,o)},
-$S:118}
+$S:127}
 C.aVs.prototype={
 $0(){return this.a.e.$1(this.b)},
 $S:0}
@@ -1053,7 +1053,7 @@ o.push(new A.aX(u,new A.bk(u,s,s,s,s,s),B.a1,s,w))}t=A.cx(s,"Select type",!1,o,"
 if(!(e.b>=720)){r=this.b.x
 return A.r(A.a([q,A.f(s,r,s),p,A.f(s,r,s),t],y.p),B.v,B.m,B.p,0,B.q)}r=this.b.x
 return A.O(A.a([A.a2(q,1),A.f(s,s,r),A.a2(p,1),A.f(s,s,r),A.a2(t,1)],y.p),B.S,B.m,B.p,0,s)},
-$S:99}
+$S:101}
 C.auZ.prototype={
 $1(d){return D.a7c},
 $S:z+6}
@@ -1212,4 +1212,4 @@ D.rp=new A.I(!0,B.aS,null,null,null,null,7,null,null,null,null,null,null,null,nu
 D.btt=new A.I(!0,B.aS,null,null,null,null,8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bty=new A.I(!0,B.Y,null,null,null,null,7,B.N,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.buW=new A.I(!0,B.aL,null,null,null,null,8,B.N,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["/f0Hksk6X1sEgqkvu9AFqanu0rk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["RQ4fiCKCZhTal1efGhBrdD9BhgY="]=a.current})($__dart_deferred_initializers__);
