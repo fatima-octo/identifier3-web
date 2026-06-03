@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c0K(){return new B.x_(null)},
+c0J(){return new B.x_(null)},
 x_:function x_(d){this.a=d},
 azx:function azx(d){this.a=d},
 azy:function azy(d,e){this.a=d
@@ -48,7 +48,7 @@ s=t.a
 s=A.p5(A.n5(d,s),F.XR(d,s),t.d,x.fy,p,40)
 r=q.d
 x=A.f(p,x.x,p)
-return A.Z(p,A.r(A.a([new E.ja(s,t.b,t.c,r,q.e,p),x,new A.cM(C.eq,p,p,A.aq(!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a5,p,C.ab,120),p)],y.e),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.a7(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.R(w,w,w,w),p,p,p)}}
+return A.Z(p,A.r(A.a([new E.ja(s,t.b,t.c,r,q.e,p),x,new A.cM(C.eq,p,p,A.ar(!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a5,p,C.ab,120),p)],y.e),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.a7(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.R(w,w,w,w),p,p,p)}}
 B.k9.prototype={}
 var z=a.updateTypes([])
 B.azx.prototype={
@@ -82,4 +82,4 @@ D.bB4=new B.k9("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBa=new B.k9("software","Software","Manage software licenses, applications, and tooling",C.dD)
 D.bB3=new B.k9("products","Products","Catalog finished products, variants, and SKUs",C.eE)
 D.ww=x([D.bBc,D.bB9,D.bB7,D.bB6,D.bBd,D.bB5,D.bBe,D.bBb,D.bB8,D.bB4,D.bBa,D.bB3],A.a3("u<k9>"))})()};
-(a=>{a["vVM0nwFjXICh1K0qAmJpIqj+6vk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["D5LJg2u7yac+nSRsMxSGqRGbhVM="]=a.current})($__dart_deferred_initializers__);

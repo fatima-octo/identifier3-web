@@ -1,21 +1,21 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={CK:function CK(d,e){this.a=d
 this.b=e},aYH:function aYH(){},atz:function atz(){},
-ceU(d){switch(d.a){case 0:return D.xC
+ceT(d){switch(d.a){case 0:return D.xC
 case 2:return D.Z5
 case 1:return D.Z4
 case 3:return C.bl2
 case 4:return D.Z6}},
-bx6(d,e){var x=0,w=B.E(y.a),v,u
-var $async$bx6=B.A(function(f,g){if(f===1)return B.B(g,w)
+bx5(d,e){var x=0,w=B.E(y.a),v,u
+var $async$bx5=B.A(function(f,g){if(f===1)return B.B(g,w)
 for(;;)switch(x){case 0:if(e===C.aeH||e===C.aeI)u=!(d.gfk()==="https"||d.gfk()==="http")
 else u=!1
 if(u)throw B.n(B.hW(d,"url","To use an in-app web view, you must provide an http(s) URL."))
-v=$.bKw().Dj(d.j(0),new B.a3O(A.ceU(e),new B.a3r(!0,!0,D.a7),null))
+v=$.bKv().Dj(d.j(0),new B.a3O(A.ceT(e),new B.a3r(!0,!0,D.a7),null))
 x=1
 break
 case 1:return B.C(v,w)}})
-return B.D($async$bx6,w)}},C
+return B.D($async$bx5,w)}},C
 B=c[0]
 D=c[2]
 A=a.updateHolder(c[14],A)
@@ -36,4 +36,4 @@ C.Df=new A.CK(3,"externalApplication")
 C.a9x=new B.aY(864e8)
 C.bl2=new B.yp(3,"externalApplication")
 C.yB=new B.I(!0,D.Y,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["AYoo5zC/n1HWc8SVkzlZV0xH+ew="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["iFuK+cQsAxEQCui0fpns0iF1JUg="]=a.current})($__dart_deferred_initializers__);
