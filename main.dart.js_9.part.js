@@ -209,7 +209,7 @@ A.aau.prototype={
 p(d){var x,w,v,u,t,s,r,q,p=null,o="beginner",n=y.y.a(B.i(d).c.h(0,B.n(y.D)))
 n.toString
 x=[new A.Fx("Getting Started with Identifier","1240 views",o,new A.aQH(d),p),new A.Fx("Entity Management Best Practices","980 views","intermediate",new A.aQI(this),p),new A.Fx("Label Printing & QR Code Setup","756 views",o,new A.aQJ(this),p)]
-w=B.bA(B.cP(new A.aQK(B.a([new A.vR(D.Dh,C.u5,"Getting Started Guide","Complete setup guide",new A.aQL(d),p),new A.vR(D.adn,C.Bv,"Platform Overview","Interactive guided tour",new A.aQM(d),p),new A.vR(D.nX,C.Bc,"Interactive Tutorialllllll","Hands-on walkthrough",new A.aQN(d),p)],y.c))),p,"Get up and running with Identifier in minutes","Quick Start",p,C.da)
+w=B.bA(B.cP(new A.aQK(B.a([new A.vR(D.Dh,C.u5,"Getting Started Guide","Complete setup guide",new A.aQL(d),p),new A.vR(D.adn,C.Bv,"Platform Overview","Interactive guided tour",new A.aQM(d),p),new A.vR(D.nX,C.Bc,"Interactive Tutorial","Hands-on walkthrough",new A.aQN(d),p)],y.c))),p,"Get up and running with Identifier in minutes","Quick Start",p,C.da)
 v=n.x
 u=B.h(p,v,p)
 t=y.u
@@ -519,4 +519,4 @@ D.Uc=new B.aA(D.bfO,["All levels","Beginner","Intermediate","Advanced"],y.p)
 D.bg3={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
 D.lO=new B.aA(D.bg3,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)
 D.a_I=new B.bc(null,14,null,null)})()};
-(a=>{a["RLmeI55vTFbCwY0cDdM8UT1mU9A="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["3WSTetHlOpmnhSHhWU+I54MqFo0="]=a.current})($__dart_deferred_initializers__);
