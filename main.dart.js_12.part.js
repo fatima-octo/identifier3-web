@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-cbL(){return new B.uY(null)},
+cbM(){return new B.uY(null)},
 uY:function uY(d){this.a=d},
 V7:function V7(d){var _=this
 _.d=0
@@ -52,7 +52,7 @@ this.a=f},
 eI:function eI(d,e){this.c=d
 this.a=e},
 bQg(d,e,f){return new B.PV(d,e,f)},
-clG(d){switch(d){case"beginner":return C.hN
+clH(d){switch(d){case"beginner":return C.hN
 case"intermediate":return C.iS
 case"advanced":return C.kH}return C.bn},
 PV:function PV(d,e,f){this.a=d
@@ -86,7 +86,7 @@ _.d=e
 _.e=f
 _.f=g
 _.a=h},
-cs9(d,e,f){var x,w,v,u,t,s,r,q,p,o=null,n=A.a([],y.l)
+csa(d,e,f){var x,w,v,u,t,s,r,q,p,o=null,n=A.a([],y.l)
 for(x=0;x<3;x=w){w=x+d
 n.push(C.f.cA(e,x,C.t.b8(w,0,3)))}v=y.u
 u=A.a([],v)
@@ -212,7 +212,7 @@ o=A.R(A.a([A.aQ(C.dF,o,p,18),A.h(p,p,x),A.a8(A.T(q.a.c.a,p,p,p,p,p,p,A.r(p,p,o,p
 x=A.h(p,x,p)
 s=q.a.c
 r=s.c
-return A.i9(A.o8(p,A.t(A.a([o,x,A.h6(C.bG,A.a([new A.dh(s.b,C.bn,C.aX,p,p),new A.dh(r,B.clG(r),C.aX,p,p)],t),C.ca,6,6)],t),C.S,C.n,C.p,0,C.q),p,p,C.b6,new A.ab(w,p,u,v,p,p,C.H),C.iV,p,C.dO,p),C.fg,p,new B.bpq(q),new B.bpr(q),p)}}
+return A.i9(A.o8(p,A.t(A.a([o,x,A.h6(C.bG,A.a([new A.dh(s.b,C.bn,C.aX,p,p),new A.dh(r,B.clH(r),C.aX,p,p)],t),C.ca,6,6)],t),C.S,C.n,C.p,0,C.q),p,p,C.b6,new A.ab(w,p,u,v,p,p,C.H),C.iV,p,C.dO,p),C.fg,p,new B.bpq(q),new B.bpr(q),p)}}
 B.abX.prototype={
 p(d){var x,w,v,u=null,t=y.F.a(A.i(d).c.h(0,A.n(y.C)))
 t.toString
@@ -321,7 +321,7 @@ B.aUK.prototype={
 $2(d,e){var x,w=e.b
 if(w>=880)x=3
 else x=w>=560?2:1
-return B.cs9(x,$.c4C(),16)},
+return B.csa(x,$.c4C(),16)},
 $S:24}
 B.b1P.prototype={
 $0(){return this.a.f.$1(this.b)},
@@ -342,7 +342,7 @@ D.a2I=new B.a0n(null)
 D.a8i=new A.dh("beginner",C.hN,C.aX,null,null)
 D.acz=new B.a5U(null)
 D.acB=new B.a64(null)
-D.aec=new A.hR(C.dF,24,C.u6,null,null)
+D.aec=new A.hS(C.dF,24,C.u6,null,null)
 D.acE=new B.yX("overview","Overview")
 D.acC=new B.yX("getting-started","Getting Started")
 D.acD=new B.yX("best-practices","Best Practices")
@@ -351,5 +351,5 @@ D.L3=x([D.acE,D.acC,D.acD,D.acF],A.a6("v<yX>"))
 D.bkd=new B.aat(null)
 D.bni=new B.abX(null)
 D.bx5=new B.ag7(null)})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"cAR","c4C",()=>A.a([B.bQg("Entity Management Guide","entity-management","intermediate"),B.bQg("User Roles & Permissions","user-management","beginner"),B.bQg("Advanced Reporting Features","compliance","advanced")],A.a6("v<PV>")))})()};
-(a=>{a["OxsM5aVGnPfB7R0/ZBpaZQOSFeE="]=a.current})($__dart_deferred_initializers__);
+x($,"cAS","c4C",()=>A.a([B.bQg("Entity Management Guide","entity-management","intermediate"),B.bQg("User Roles & Permissions","user-management","beginner"),B.bQg("Advanced Reporting Features","compliance","advanced")],A.a6("v<PV>")))})()};
+(a=>{a["y3wqBxzQTZUFOJ30zwFkMp4UE70="]=a.current})($__dart_deferred_initializers__);
