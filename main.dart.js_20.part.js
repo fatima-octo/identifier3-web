@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-cff(){return new C.w3(null)},
+cfg(){return new C.w3(null)},
 w3:function w3(d){this.a=d},
 WV:function WV(d){var _=this
 _.d=$
@@ -40,7 +40,7 @@ _.r=h
 _.a=i},
 bmG:function bmG(d,e){this.a=d
 this.b=e},
-c9v(d){return A.uj(null,B.aS,!0,null,new C.aAR(),d,null,!0,y.w)},
+c9w(d){return A.uj(null,B.aS,!0,null,new C.aAR(),d,null,!0,y.w)},
 a1r:function a1r(d,e,f){this.a=d
 this.b=e
 this.c=f},
@@ -103,7 +103,7 @@ var $async$HY=A.y(function(d,e){if(d===1)return A.z(e,w)
 for(;;)switch(x){case 0:s=u.c
 s.toString
 x=3
-return A.v(C.c9v(s),$async$HY)
+return A.v(C.c9w(s),$async$HY)
 case 3:t=e
 if(t==null){x=1
 break}u.E(new C.bqC(u,t))
@@ -112,7 +112,7 @@ return A.B($async$HY,w)},
 p(d){var x,w,v,u,t=this,s=null,r=y.r.a(A.i(d).c.h(0,A.n(y.K)))
 r.toString
 x=y.p
-w=A.bP6("Configure user roles and permissions",B.dT,s,s,B.kw,B.kC,"Roles & Permissions",A.a([A.aC(!1,B.G,s,s,!1,"Create Role",B.ed,s,t.gaHE(),B.a6,s,B.aM,s)],x))
+w=A.bP7("Configure user roles and permissions",B.dT,s,s,B.kw,B.kC,"Roles & Permissions",A.a([A.aD(!1,B.G,s,s,!1,"Create Role",B.ed,s,t.gaHE(),B.a6,s,B.aM,s)],x))
 r=r.x
 v=A.h(s,r,s)
 u=t.gIt()
@@ -128,8 +128,8 @@ u=A.aM(v,1)
 t=y.p
 s=A.a([A.a8(A.ae("Access Control Matrix",m,m,A.r(m,m,l.d,m,m,m,m,m,m,m,m,A.p(B.az),m,m,A.q(B.C),m,m,!0,m,m,m,m,m,m,m,m).a_(B.N),m),1)],t)
 r=n.d
-if(!r)s.push(A.aC(!1,B.G,m,m,!1,"Edit Roles",B.eF,m,n.f,B.b7,m,B.ab,m))
-else B.f.v(s,A.a([A.aC(!1,B.G,m,m,!1,"Cancel",m,m,n.r,B.b7,m,B.ab,m),A.h(m,m,x.r),A.aC(!1,B.G,m,m,!1,"Save Changes",m,m,n.w,B.b7,m,B.aM,m)],t))
+if(!r)s.push(A.aD(!1,B.G,m,m,!1,"Edit Roles",B.eF,m,n.f,B.b7,m,B.ab,m))
+else B.f.v(s,A.a([A.aD(!1,B.G,m,m,!1,"Cancel",m,m,n.r,B.b7,m,B.ab,m),A.h(m,m,x.r),A.aD(!1,B.G,m,m,!1,"Save Changes",m,m,n.w,B.b7,m,B.aM,m)],t))
 q=n.c
 x=A.a([A.R(s,B.z,B.n,B.p,0,m),A.h(m,x.x,m),new C.aom(q,m)],t)
 for(s=n.e,p=n.x,o=0;o<11;++o)B.f.v(x,A.a([new A.iU(1,v,m),new C.aon(D.qv[o],q,r,s,p,m)],t))
@@ -195,11 +195,11 @@ r=A.ae("Select the permissions this role should have",f,f,A.r(f,f,r,f,f,f,f,f,f,
 i=A.h(f,p,f)
 h=A.ad(x.a)
 t=A.aM(t,1)
-h=A.a2(f,A.QW(A.bX6(new C.baq(g,x),11,new A.U(o,p,o,p),!1),f,!0),B.y,f,f,new A.ab(v,f,t,h,f,f,B.H),f,240,f,f,f,f,f,f)
+h=A.a2(f,A.QW(A.bX7(new C.baq(g,x),11,new A.U(o,p,o,p),!1),f,!0),B.y,f,f,new A.ab(v,f,t,h,f,f,B.H),f,240,f,f,f,f,f,f)
 x=A.h(f,x.z,f)
-t=A.aC(!1,B.G,f,f,!1,"Cancel",f,f,new C.bar(a1),B.a6,f,B.ab,f)
+t=A.aD(!1,B.G,f,f,!1,"Cancel",f,f,new C.bar(a1),B.a6,f,B.ab,f)
 p=A.h(f,f,p)
-return A.yq(B.Z,new A.dG(D.a3e,A.a2(f,new A.at(B.f5,A.t(A.a([e,n,m,l,k,j,a0,d,r,i,h,x,A.R(A.a([t,p,A.aC(!1,B.G,f,f,!1,"Create Role",f,f,w.length!==0?g.gaMG():f,B.a6,f,B.aM,f)],q),B.z,B.em,B.p,0,f)],q),B.v,B.n,B.M,0,B.q),f),B.y,f,f,new A.ab(v,f,s,u,f,f,B.H),f,f,f,f,f,f,f,f),f),f,f,B.f5,f,f,f)}}
+return A.yq(B.Z,new A.dG(D.a3e,A.a2(f,new A.at(B.f5,A.t(A.a([e,n,m,l,k,j,a0,d,r,i,h,x,A.R(A.a([t,p,A.aD(!1,B.G,f,f,!1,"Create Role",f,f,w.length!==0?g.gaMG():f,B.a6,f,B.aM,f)],q),B.z,B.em,B.p,0,f)],q),B.v,B.n,B.M,0,B.q),f),B.y,f,f,new A.ab(v,f,s,u,f,f,B.H),f,f,f,f,f,f,f,f),f),f,f,B.f5,f,f,f)}}
 C.acM.prototype={
 p(d){var x,w,v,u=null,t=y.a.a(A.i(d).c.h(0,A.n(y.S)))
 t.toString
@@ -371,4 +371,4 @@ D.ac6=new C.hO("system_configuration","System Configuration")
 D.acd=new C.hO("audit_logs","Audit Logs")
 D.qv=x([D.ace,D.acf,D.ac8,D.acg,D.aca,D.ac9,D.ac7,D.acc,D.acb,D.ac6,D.acd],A.a6("w<hO>"))
 D.xC=new A.az(B.cP,[],A.a6("az<c,cm<c>>"))})()};
-(a=>{a["n08BXlECLsLUTPlrylHp+SotkBk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["aOc4sv+ZHQxDeoUSLzcpQcdxgx4="]=a.current})($__dart_deferred_initializers__);
