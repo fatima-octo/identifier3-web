@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-cbd(){return new B.yw(null)},
+cbe(){return new B.yw(null)},
 yw:function yw(d){this.a=d},
 aFu:function aFu(d){this.a=d},
 aFv:function aFv(d,e){this.a=d
@@ -45,7 +45,7 @@ v=A.ad(x.c)
 u=A.aM(o.ch,1)
 t=q.c
 s=t.a
-s=A.ql(A.o9(d,s),F.a_x(d,s),t.d,x.fy,p,40)
+s=A.ql(A.o9(d,s),F.a_y(d,s),t.d,x.fy,p,40)
 r=q.d
 x=A.h(p,x.x,p)
 return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cW(C.eu,p,p,A.aD(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a6,p,C.ab,120),p)],y.e),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.U(w,w,w,w),p,p,p)}}
@@ -55,7 +55,7 @@ B.aFu.prototype={
 $0(){return this.a.hD(0,"settings")},
 $S:0}
 B.aFv.prototype={
-$1(d){return this.a.akR(D.wR[this.b].a,!d)},
+$1(d){return this.a.akS(D.wR[this.b].a,!d)},
 $S:3}
 B.aFw.prototype={
 $0(){var x=this.a,w=D.wR[this.b],v=x.y
@@ -82,4 +82,4 @@ D.bBK=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBQ=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dF)
 D.bBJ=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
 D.wR=x([D.bBS,D.bBP,D.bBN,D.bBM,D.bBT,D.bBL,D.bBU,D.bBR,D.bBO,D.bBK,D.bBQ,D.bBJ],A.a6("w<l2>"))})()};
-(a=>{a["PKQaXasluxbCJAwL9OubaBhq/hs="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["5pJVTJjVVWHJl0Gk9xWhpSo3Lzg="]=a.current})($__dart_deferred_initializers__);
