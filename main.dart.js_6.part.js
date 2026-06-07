@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-cb9(d){return new B.uT(d,null)},
+cba(d){return new B.uT(d,null)},
 uT:function uT(d,e){this.c=d
 this.a=e},
 UM:function UM(){var _=this
@@ -44,7 +44,7 @@ _.c=d
 _.d=e
 _.e=f
 _.a=g},
-c9a(d,e){return A.uj(null,C.aS,!0,null,new B.azQ(e),d,null,!0,y.N)},
+c9b(d,e){return A.uj(null,C.aS,!0,null,new B.azQ(e),d,null,!0,y.N)},
 xU:function xU(d,e){this.c=d
 this.a=e},
 azQ:function azQ(d){this.a=d},
@@ -55,7 +55,7 @@ b96:function b96(d){this.a=d},
 b98:function b98(d,e){this.a=d
 this.b=e},
 b97:function b97(d){this.a=d},
-bVo(d,e){return A.uj(null,C.aS,!0,null,new B.aBo(e),d,null,!0,y.I)},
+bVp(d,e){return A.uj(null,C.aS,!0,null,new B.aBo(e),d,null,!0,y.I)},
 ye:function ye(d,e){this.c=d
 this.a=e},
 aBo:function aBo(d){this.a=d},
@@ -239,13 +239,13 @@ v=w.a+w.b
 u=this.c
 t=w.f
 w=w.r
-s=u.D===C.vr?A.bVm(v,w,t,"Full Name","Job Title","Department"):A.pp(q,C.e8,C.f0,C.eB,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
+s=u.D===C.vr?A.bVn(v,w,t,"Full Name","Job Title","Department"):A.pp(q,C.e8,C.f0,C.eB,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
 w=A.ae("Label Preview",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.Y),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a2(C.P),q)
 u=A.h(q,x.x,q)
 t=x.z
 x=A.ad(x.b)
 r=A.aM(p.ch,1)
-return A.t(A.a([w,u,A.a2(q,A.c1(new A.dG(D.a38,s,q),q,q),C.y,q,q,new A.ab(p.e,q,r,x,q,q,C.I),q,q,q,q,new A.V(t,t,t,t),q,q,q)],y.p),C.v,C.n,C.p,0,C.q)}}
+return A.t(A.a([w,u,A.a2(q,A.c1(new A.dG(D.a39,s,q),q,q),C.y,q,q,new A.ab(p.e,q,r,x,q,q,C.I),q,q,q,q,new A.V(t,t,t,t),q,q,q)],y.p),C.v,C.n,C.p,0,C.q)}}
 B.JZ.prototype={
 p(d){var x,w,v,u=null,t=y.a.a(A.i(d).c.h(0,A.n(y.S)))
 t.toString
@@ -263,7 +263,7 @@ x.toString
 w=A.ad(999)
 v=A.aM(s.ch,1)
 u=s.f
-return A.a2(t,A.R(A.a([A.T(this.c,t,t,t,t,t,t,A.r(t,t,s.d,t,t,t,t,t,t,t,t,A.p(C.E),t,t,A.q(C.D),t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t,t),A.h(t,t,x.d),A.et(!1,A.ad(999),!0,new A.at(C.nB,A.aR(C.eG,u,t,14),t),t,!0,t,t,t,t,t,t,t,t,t,t,this.d,t,t,t,t),A.et(!1,A.ad(999),!0,new A.at(C.nB,A.aR(C.d3,u,t,14),t),t,!0,t,t,t,t,t,t,t,t,t,t,this.e,t,t,t,t)],y.p),C.z,C.n,C.M,0,t),C.y,t,t,new A.ab(s.e,t,v,w,t,t,C.I),t,t,t,t,D.aaA,t,t,t)}}
+return A.a2(t,A.R(A.a([A.T(this.c,t,t,t,t,t,t,A.r(t,t,s.d,t,t,t,t,t,t,t,t,A.p(C.E),t,t,A.q(C.D),t,t,!0,t,t,t,t,t,t,t,t),t,t,t,t,t),A.h(t,t,x.d),A.et(!1,A.ad(999),!0,new A.at(C.nB,A.aR(C.eG,u,t,14),t),t,!0,t,t,t,t,t,t,t,t,t,t,this.d,t,t,t,t),A.et(!1,A.ad(999),!0,new A.at(C.nB,A.aR(C.d3,u,t,14),t),t,!0,t,t,t,t,t,t,t,t,t,t,this.e,t,t,t,t)],y.p),C.z,C.n,C.M,0,t),C.y,t,t,new A.ab(s.e,t,v,w,t,t,C.I),t,t,t,t,D.aaB,t,t,t)}}
 B.xU.prototype={
 U(){return new B.akf()}}
 B.akf.prototype={
@@ -332,7 +332,7 @@ l=A.ad(l.b)
 q=A.aM(v.ch,1)
 p=n.ga2H()
 o=y.p
-o=A.R(A.a([w,j,A.a8(A.t(A.a([k,u,t,r,A.a2(m,A.bVn(p.eO(C.m.Z(n.gxJ()).length===0?"Field Label":C.m.Z(n.gxJ())),m,m,m,!0,n.gpC()),C.y,m,m,new A.ab(v.r,m,q,l,m,m,C.I),m,m,m,m,new A.V(s,s,s,s),m,m,m),A.h(m,s,m),A.bOL(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bOP(n.gor()))],o),C.v,C.n,C.M,0,C.q),1)],o),C.S,C.n,C.p,0,m)
+o=A.R(A.a([w,j,A.a8(A.t(A.a([k,u,t,r,A.a2(m,A.bVo(p.eO(C.m.Z(n.gxJ()).length===0?"Field Label":C.m.Z(n.gxJ())),m,m,m,!0,n.gpC()),C.y,m,m,new A.ab(v.r,m,q,l,m,m,C.I),m,m,m,m,new A.V(s,s,s,s),m,m,m),A.h(m,s,m),A.bOL(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bOP(n.gor()))],o),C.v,C.n,C.M,0,C.q),1)],o),C.S,C.n,C.p,0,m)
 l=n.a.c==null?"Add Field":"Save"
 return A.bOO(new A.mj(o,m),"Cancel",l,C.aM,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.bbr(d),n.gavE(),!0,x)},
 at9(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.i(d).c.h(0,A.n(y.S)))
@@ -350,7 +350,7 @@ r=A.bh(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.bbd(k
 q=A.h(j,x,j)
 p=k.gor()
 o=A.a([],y.d)
-for(n=y.z,m=0;m<9;++m){l=C.NM[m]
+for(n=y.z,m=0;m<9;++m){l=C.NN[m]
 o.push(new A.b9(l,new A.bt(B.bOP(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cK(j,"Single-line Text",!0,o,"Field Type",new B.bbe(k),C.aC,p,y.T),A.h(j,x,j),new A.ko(k.ga7f(),new B.bbf(k),"Required",j,!1,j),A.h(j,x,j),A.cK(j,"Select group or leave ungrouped",!1,D.b5q,"Group Assignment",j,C.aC,j,y.N),A.h(j,v,j),A.ae("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
 if(k.gor()===C.kK)C.f.v(i,A.a([A.h(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bbg(k),j,C.af,C.ac,j,C.a7,k.ga6a())],n))
@@ -413,7 +413,7 @@ Gf(d){return this.as8(d)},
 as8(d){var x=0,w=A.C(y.H),v,u=this,t,s,r
 var $async$Gf=A.y(function(e,f){if(e===1)return A.z(f,w)
 for(;;)switch(x){case 0:x=3
-return A.v(B.bVo(d,null),$async$Gf)
+return A.v(B.bVp(d,null),$async$Gf)
 case 3:r=f
 if(r==null){x=1
 break}t=u.d
@@ -426,7 +426,7 @@ GT(d,e){return this.awN(d,e)},
 awN(d,e){var x=0,w=A.C(y.H),v,u=this,t,s,r,q,p,o,n,m
 var $async$GT=A.y(function(f,g){if(f===1)return A.z(g,w)
 for(;;)switch(x){case 0:x=3
-return A.v(B.bVo(d,e),$async$GT)
+return A.v(B.bVp(d,e),$async$GT)
 case 3:m=g
 if(m==null){x=1
 break}t=u.d
@@ -457,7 +457,7 @@ r=y.p
 q=x.r
 p=x.x
 o=k.dx
-p=A.a([A.R(A.a([A.a8(A.t(A.a([A.ae("Custom Fields",l,l,A.r(l,l,k.d,l,l,l,l,l,l,l,l,A.p(C.Y),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l).a2(C.P),l),A.h(l,x.d,l),A.ae("Add metadata fields and organize them into groups",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l)],r),C.S,C.n,C.p,0,C.q),1),A.aD(l,!1,C.G,l,l,!1,"Create Group",C.De,l,l,C.a6,l,C.ab,l),A.h(l,l,q),A.aD(l,!1,C.G,l,l,!1,"Add Field",C.ec,l,new B.aBr(m,d),C.a6,l,C.aM,l)],r),C.S,C.n,C.p,0,l),A.h(l,p,l),A.a2(l,A.R(A.a([A.T(A.e(d,"Individual Fields ("+w.length+")"),l,l,l,l,l,l,A.r(l,l,o,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l),l,l,l,l,l)],r),C.z,C.n,C.p,0,l),C.y,l,l,new A.ab(l,l,new A.dj(C.a2,C.a2,new A.bl(o,2,C.ae,-1),C.a2),l,l,l,C.I),l,l,l,l,C.nA,l,l,l),A.h(l,p,l)],r)
+p=A.a([A.R(A.a([A.a8(A.t(A.a([A.ae("Custom Fields",l,l,A.r(l,l,k.d,l,l,l,l,l,l,l,l,A.p(C.Y),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l).a2(C.P),l),A.h(l,x.d,l),A.ae("Add metadata fields and organize them into groups",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l)],r),C.S,C.n,C.p,0,C.q),1),A.aD(l,!1,C.G,l,l,!1,"Create Group",C.Df,l,l,C.a6,l,C.ab,l),A.h(l,l,q),A.aD(l,!1,C.G,l,l,!1,"Add Field",C.ec,l,new B.aBr(m,d),C.a6,l,C.aM,l)],r),C.S,C.n,C.p,0,l),A.h(l,p,l),A.a2(l,A.R(A.a([A.T(A.e(d,"Individual Fields ("+w.length+")"),l,l,l,l,l,l,A.r(l,l,o,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l),l,l,l,l,l)],r),C.z,C.n,C.p,0,l),C.y,l,l,new A.ab(l,l,new A.dj(C.a2,C.a2,new A.bl(o,2,C.ae,-1),C.a2),l,l,l,C.I),l,l,l,l,C.nA,l,l,l),A.h(l,p,l)],r)
 if(w.length===0)p.push(A.ae("No custom fields yet \u2014 add one with the button above.",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l))
 else{x=A.a([],r)
 for(n=0;n<w.length;++n){s=A.a([],r)
@@ -480,7 +480,7 @@ GS(d,e){return this.awM(d,e)},
 awM(d,e){var x=0,w=A.C(y.H),v,u=this,t,s,r,q,p,o,n
 var $async$GS=A.y(function(f,g){if(f===1)return A.z(g,w)
 for(;;)switch(x){case 0:x=3
-return A.v(B.c9a(d,e),$async$GS)
+return A.v(B.c9b(d,e),$async$GS)
 case 3:n=g
 if(n==null||n===e){x=1
 break}t=A.a([],y.s)
@@ -723,18 +723,18 @@ x(A.M,[B.anQ,B.anu,B.anR,B.JZ,B.a0P,B.a3w,B.a3x,B.Mr,B.acx])})()
 A.nT(b.typeUniverse,JSON.parse('{"uT":{"aa":[],"d":[],"f":[]},"UM":{"ac":["uT"]},"anQ":{"M":[],"d":[],"f":[]},"anu":{"M":[],"d":[],"f":[]},"anR":{"M":[],"d":[],"f":[]},"JZ":{"M":[],"d":[],"f":[]},"a0P":{"M":[],"d":[],"f":[]},"xU":{"aa":[],"d":[],"f":[]},"akf":{"ac":["xU"]},"ye":{"aa":[],"d":[],"f":[]},"Uc":{"ac":["ye"]},"a3w":{"M":[],"d":[],"f":[]},"a3x":{"M":[],"d":[],"f":[]},"Mr":{"M":[],"d":[],"f":[]},"acx":{"M":[],"d":[],"f":[]}}'))
 var y=(function rtii(){var x=A.a6
 return{S:x("ef"),K:x("eA"),I:x("i8"),T:x("hL"),z:x("b9<hL>"),q:x("b9<kC>"),O:x("b9<c>"),A:x("w<i8>"),d:x("w<b9<hL>>"),t:x("w<b9<c>>"),s:x("w<c>"),p:x("w<d>"),L:x("kC"),e:x("a_<c,c>"),N:x("c"),a:x("ef?"),r:x("eA?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-D.a38=new A.aJ(0,280,0,1/0)
-D.aaA=new A.V(12,6,8,6)
+D.a39=new A.aJ(0,280,0,1/0)
+D.aaB=new A.V(12,6,8,6)
 D.adH=new A.aE(61311,"MaterialIcons",null,!1)
 D.bad=new A.bt("Default Printer",null,null,null,null,null)
-D.a98=new A.b9("Default Printer",D.bad,C.a1,null,y.O)
-D.aZv=x([D.a98],y.t)
+D.a99=new A.b9("Default Printer",D.bad,C.a1,null,y.O)
+D.aZv=x([D.a99],y.t)
 D.b5q=x([],y.t)
 D.baq=new A.bt("Standard",null,null,null,null,null)
-D.a9A=new A.b9(C.d4,D.baq,C.a1,null,y.q)
+D.a9B=new A.b9(C.d4,D.baq,C.a1,null,y.q)
 D.bax=new A.bt("Compact",null,null,null,null,null)
-D.a9k=new A.b9(C.DF,D.bax,C.a1,null,y.q)
+D.a9l=new A.b9(C.DG,D.bax,C.a1,null,y.q)
 D.baL=new A.bt("Detailed",null,null,null,null,null)
-D.a9J=new A.b9(C.DG,D.baL,C.a1,null,y.q)
-D.b6v=x([D.a9A,D.a9k,D.a9J],A.a6("w<b9<kC>>"))})()};
-(a=>{a["57+dKaE/Hw/TjHIE+eHqCC4G9mU="]=a.current})($__dart_deferred_initializers__);
+D.a9K=new A.b9(C.DH,D.baL,C.a1,null,y.q)
+D.b6v=x([D.a9B,D.a9l,D.a9K],A.a6("w<b9<kC>>"))})()};
+(a=>{a["SsMmO9bNdZEoAtCo6pLZ3xm0BQg="]=a.current})($__dart_deferred_initializers__);
