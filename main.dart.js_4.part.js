@@ -48,7 +48,7 @@ s=t.a
 s=A.ql(A.o9(d,s),F.a_x(d,s),t.d,x.fy,p,40)
 r=q.d
 x=A.h(p,x.x,p)
-return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cW(C.eu,p,p,A.aD(!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a6,p,C.ab,120),p)],y.e),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.V(w,w,w,w),p,p,p)}}
+return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cW(C.eu,p,p,A.aD(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,C.a6,p,C.ab,120),p)],y.e),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.I),p,p,p,p,new A.V(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
 B.aFt.prototype={
@@ -82,4 +82,4 @@ D.bBK=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBQ=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dF)
 D.bBJ=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
 D.wR=x([D.bBS,D.bBP,D.bBN,D.bBM,D.bBT,D.bBL,D.bBU,D.bBR,D.bBO,D.bBK,D.bBQ,D.bBJ],A.a6("w<l2>"))})()};
-(a=>{a["VNcUulrWpnJGH0gtiD0NRa6j/84="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["uYNivaRqwUyizlVC8zDo7knOn9U="]=a.current})($__dart_deferred_initializers__);

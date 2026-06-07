@@ -1373,7 +1373,7 @@ if(l){l=j.a.e
 k=B.dA(d,C.b3,h)
 k.toString
 l=k.gbv()
-m.push(new B.kt(!0,B.c8(l,i,1,C.ao,i,i,i,i,v.ok.Q,i,i,i,i,i),i))}m=B.a8(B.t(m,C.v,C.n,C.p,0,C.q),1)
+m.push(new B.kt(!0,B.c8(l,i,1,C.ap,i,i,i,i,v.ok.Q,i,i,i,i,i),i))}m=B.a8(B.t(m,C.v,C.n,C.p,0,C.q),1)
 l=o.y
 o=l==null?B.u(o).i("aT.T").a(l):l
 l=j.a
@@ -1386,7 +1386,7 @@ if(o){o=j.a.f
 k=B.dA(d,C.b3,h)
 k.toString
 o=k.gbr()
-l.push(new B.kt(!0,B.c8(o,i,1,C.ao,i,i,i,i,v.ok.Q,i,i,i,i,i),i))}p.push(B.a8(new B.at(new B.dH(0,u,0,0),B.R(B.a([m,new A.IW(w,i),B.a8(B.t(l,C.v,C.n,C.p,0,C.q),1)],t),C.S,C.n,C.p,0,C.U),i),1))
+l.push(new B.kt(!0,B.c8(o,i,1,C.ap,i,i,i,i,v.ok.Q,i,i,i,i,i),i))}p.push(B.a8(new B.at(new B.dH(0,u,0,0),B.R(B.a([m,new A.IW(w,i),B.a8(B.t(l,C.v,C.n,C.p,0,C.q),1)],t),C.S,C.n,C.p,0,C.U),i),1))
 if(g&&w!==C.it)C.f.v(p,B.a([new B.at(D.aae,new A.HC(j.ga4a(),i),i)],t))
 g=B.a([new B.at(new B.dH(0,0,0,20-u),x,i),B.R(p,C.S,C.n,C.p,0,i)],t)
 x=n.y
@@ -1975,7 +1975,7 @@ s=B.cK(o,"YYYY-MM-DD",!1,D.aV0,"Date Format",new A.b8a(u),C.aC,v.fx,t)
 r=x.e.ge5(0)==="ar"?"Arabic":"English"
 n=n.x
 q=y.p
-return B.t(B.a([B.bA(B.t(B.a([B.aZ(!1,12,s,B.bh(o,!1,"Use the translate icon in the top bar to switch between English and Arabic.","",!1,!1,"Language",new A.b8b(),o,C.bY,C.ac,o,C.a7,r)),B.h(o,n,o),B.aZ(!1,12,B.cK(o,"Kilograms (kg)",!1,D.b88,"Weight Units",new A.b8c(u),C.aC,v.go,t),B.cK(o,"Celsius (\xb0C)",!1,D.b3Y,"Temperature Units",new A.b8d(u),C.aC,v.id,t))],q),C.v,C.n,C.p,0,C.q),o,"Configure date formats, language, and measurement units","Regional Settings",o,C.an),B.h(o,n,o),D.bAU,B.h(o,n,o),new A.tg(new A.b8e(x,v),new A.b8f(p,w),!v.k(0,w),o)],q),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([B.bA(B.t(B.a([B.aZ(!1,12,s,B.bh(o,!1,"Use the translate icon in the top bar to switch between English and Arabic.","",!1,!1,"Language",new A.b8b(),o,C.bY,C.ac,o,C.a7,r)),B.h(o,n,o),B.aZ(!1,12,B.cK(o,"Kilograms (kg)",!1,D.b88,"Weight Units",new A.b8c(u),C.aC,v.go,t),B.cK(o,"Celsius (\xb0C)",!1,D.b3Y,"Temperature Units",new A.b8d(u),C.aC,v.id,t))],q),C.v,C.n,C.p,0,C.q),o,"Configure date formats, language, and measurement units","Regional Settings",o,C.ao),B.h(o,n,o),D.bAU,B.h(o,n,o),new A.tg(new A.b8e(x,v),new A.b8f(p,w),!v.k(0,w),o)],q),C.v,C.n,C.p,0,C.q)}}
 A.ajw.prototype={
 p(d){var x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
 x.toString
@@ -2015,7 +2015,7 @@ a1=B.h7(C.bG,B.a([g,B.R(B.a([B.ae("End:",a0,a0,B.r(a0,a0,e.d,a0,a0,a0,a0,a0,a0,a
 i=B.h(a0,r,a0)
 e=k.a(B.i(a2).c.h(0,B.n(l)))
 e.toString
-e=B.bA(B.t(B.a([s,q,p,o,n,m,j,h,a1,i,B.fy(e.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),C.vL,"Configure basic company information and factory settings","Company Profile",a0,C.an)
+e=B.bA(B.t(B.a([s,q,p,o,n,m,j,h,a1,i,B.fy(e.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),C.vL,"Configure basic company information and factory settings","Company Profile",a0,C.ao)
 i=B.h(a0,r,a0)
 a1=B.aZ(!1,12,B.bh(a0,!1,a0,"+1 (555) 123-4567",!1,!1,"Business Phone",new A.ba3(u),a0,C.af,C.ac,a0,C.a7,v.f),B.bh(a0,!1,a0,"contact@example.com",!1,!1,"Business Email",new A.ba4(u),a0,C.af,C.ac,a0,C.a7,v.r))
 h=B.h(a0,r,a0)
@@ -2025,7 +2025,7 @@ u=B.aZ(!1,12,B.bh(a0,!1,a0,"https://www.example.com",!1,!1,"Website URL",new A.b
 n=B.h(a0,r,a0)
 l=k.a(B.i(a2).c.h(0,B.n(l)))
 l.toString
-return B.t(B.a([e,i,B.bA(B.t(B.a([a1,h,j,m,u,n,B.fy(l.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),D.adG,"Configure business contact details and emergency information","Company Contact Information",a0,C.an)],f),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([e,i,B.bA(B.t(B.a([a1,h,j,m,u,n,B.fy(l.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),D.adG,"Configure business contact details and emergency information","Company Contact Information",a0,C.ao)],f),C.v,C.n,C.p,0,C.q)}}
 A.LH.prototype={
 U(){return new A.al9()}}
 A.al9.prototype={
@@ -2045,7 +2045,7 @@ p=B.h(k,j,k)
 o=q?C.aC:C.kJ
 n=q?new A.bck(u):k
 m=y.p
-return B.t(B.a([B.bA(B.t(B.a([s,r,new E.jR(k,"Automatic Archiving","Automatically archive old data instead of deleting it",q,new A.bcl(u),k),p,B.cK(k,"Monthly",!1,D.b_2,"Archiving Schedule",n,o,v.db,t)],m),C.v,C.n,C.p,0,C.q),D.Dk,"Control how long data is retained before archiving or deletion","Data Retention Policy",k,C.an),B.h(k,j,k),B.bA(B.t(B.a([B.aZ(!1,12,B.cK(k,"Daily",!1,D.b44,"Backup Frequency",new A.bcm(u),C.aC,v.dx,t),A.bOS("02:00 AM","Backup Time",new A.bcn(u),v.dy))],m),C.v,C.n,C.p,0,C.q),k,"Configure automatic data backup and export settings","Export & Backup Schedule",k,C.an),B.h(k,j,k),new A.tg(new A.bco(x,v),new A.bcp(l,w),!v.k(0,w),k)],m),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([B.bA(B.t(B.a([s,r,new E.jR(k,"Automatic Archiving","Automatically archive old data instead of deleting it",q,new A.bcl(u),k),p,B.cK(k,"Monthly",!1,D.b_2,"Archiving Schedule",n,o,v.db,t)],m),C.v,C.n,C.p,0,C.q),D.Dk,"Control how long data is retained before archiving or deletion","Data Retention Policy",k,C.ao),B.h(k,j,k),B.bA(B.t(B.a([B.aZ(!1,12,B.cK(k,"Daily",!1,D.b44,"Backup Frequency",new A.bcm(u),C.aC,v.dx,t),A.bOS("02:00 AM","Backup Time",new A.bcn(u),v.dy))],m),C.v,C.n,C.p,0,C.q),k,"Configure automatic data backup and export settings","Export & Backup Schedule",k,C.ao),B.h(k,j,k),new A.tg(new A.bco(x,v),new A.bcp(l,w),!v.k(0,w),k)],m),C.v,C.n,C.p,0,C.q)}}
 A.NK.prototype={
 U(){return new A.anH()}}
 A.anH.prototype={
@@ -2061,7 +2061,7 @@ u=v}t=new A.bjr(p,u)
 s=x.r
 r=y.p
 q=x.x
-return B.t(B.a([B.bA(B.t(B.a([B.R(B.a([B.a8(B.bh(o,!1,o,"https://api.example.com/v1",!1,!1,"API Endpoint",new A.bjl(t),o,C.af,C.ac,o,C.a7,u.k1),1),B.h(o,o,s),new B.at(C.nz,B.aD(!1,C.G,o,o,!1,"Test",C.ed,o,new A.bjm(),C.a6,o,C.ab,o),o)],r),C.eC,C.n,C.p,0,o),B.h(o,q,o),B.ae("API Token",o,o,B.r(o,o,n.d,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),B.h(o,s,o),new B.cW(C.a1,o,o,B.aD(!1,C.G,o,o,!1,"Generate Token",C.ec,o,new A.bjn(),C.a6,o,C.ab,170),o),B.h(o,x.d,o),B.ae("Generate a new API token for secure access to external services",o,o,B.r(o,o,n.f,o,o,o,o,o,o,o,o,B.p(C.E),o,o,B.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],r),C.v,C.n,C.p,0,C.q),o,"Configure connections to external systems and services","External APIs",o,C.an),B.h(o,q,o),B.bA(new E.jR(o,"Enable SSO","Allow users to sign in with their corporate accounts",u.k2,new A.bjo(t),o),o,"Configure SSO integration for user authentication","Single Sign-On (SSO)",o,C.an),B.h(o,q,o),new A.tg(new A.bjp(w,u),new A.bjq(p,v),!u.k(0,v),o)],r),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([B.bA(B.t(B.a([B.R(B.a([B.a8(B.bh(o,!1,o,"https://api.example.com/v1",!1,!1,"API Endpoint",new A.bjl(t),o,C.af,C.ac,o,C.a7,u.k1),1),B.h(o,o,s),new B.at(C.nz,B.aD(o,!1,C.G,o,o,!1,"Test",C.ed,o,new A.bjm(),C.a6,o,C.ab,o),o)],r),C.eC,C.n,C.p,0,o),B.h(o,q,o),B.ae("API Token",o,o,B.r(o,o,n.d,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),B.h(o,s,o),new B.cW(C.a1,o,o,B.aD(o,!1,C.G,o,o,!1,"Generate Token",C.ec,o,new A.bjn(),C.a6,o,C.ab,170),o),B.h(o,x.d,o),B.ae("Generate a new API token for secure access to external services",o,o,B.r(o,o,n.f,o,o,o,o,o,o,o,o,B.p(C.E),o,o,B.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],r),C.v,C.n,C.p,0,C.q),o,"Configure connections to external systems and services","External APIs",o,C.ao),B.h(o,q,o),B.bA(new E.jR(o,"Enable SSO","Allow users to sign in with their corporate accounts",u.k2,new A.bjo(t),o),o,"Configure SSO integration for user authentication","Single Sign-On (SSO)",o,C.ao),B.h(o,q,o),new A.tg(new A.bjp(w,u),new A.bjq(p,v),!u.k(0,v),o)],r),C.v,C.n,C.p,0,C.q)}}
 A.P0.prototype={
 U(){return new A.aoT()}}
 A.aoT.prototype={
@@ -2085,10 +2085,10 @@ if(u==null){a2.d=v
 u=v}t=new A.bnR(a2,u)
 s=x.r
 r=y.p
-q=B.bA(B.t(B.a([new E.jR(a3,"Email","Send notifications to user email addresses",u.z,new A.bnH(t),a3),B.h(a3,s,a3),new E.jR(a3,"Sms","Send critical alerts via SMS text messages",u.Q,new A.bnI(t),a3),B.h(a3,s,a3),new E.jR(a3,"In-App","Show notifications within the application",u.as,new A.bnJ(t),a3),B.h(a3,s,a3),new E.jR(a3,"Push","Send browser push notifications",u.at,new A.bnK(t),a3)],r),C.v,C.n,C.p,0,C.q),C.jc,"Choose how system notifications are delivered to users","Notification Delivery Channels",a3,C.an)
+q=B.bA(B.t(B.a([new E.jR(a3,"Email","Send notifications to user email addresses",u.z,new A.bnH(t),a3),B.h(a3,s,a3),new E.jR(a3,"Sms","Send critical alerts via SMS text messages",u.Q,new A.bnI(t),a3),B.h(a3,s,a3),new E.jR(a3,"In-App","Show notifications within the application",u.as,new A.bnJ(t),a3),B.h(a3,s,a3),new E.jR(a3,"Push","Send browser push notifications",u.at,new A.bnK(t),a3)],r),C.v,C.n,C.p,0,C.q),C.jc,"Choose how system notifications are delivered to users","Notification Delivery Channels",a3,C.ao)
 p=x.x
 o=B.h(a3,p,a3)
-n=B.bA(B.t(B.a([new E.jR(D.a8f,"Info","General system information and updates",u.ax,new A.bnL(t),a3),B.h(a3,s,a3),new E.jR(D.a8e,"Warning","Important alerts that require attention",u.ay,new A.bnM(t),a3),B.h(a3,s,a3),new E.jR(D.a8h,"Critical","Urgent issues requiring immediate action",u.ch,new A.bnN(t),a3)],r),C.v,C.n,C.p,0,C.q),a3,"Configure which notification severity levels are active","Severity Levels",a3,C.an)
+n=B.bA(B.t(B.a([new E.jR(D.a8f,"Info","General system information and updates",u.ax,new A.bnL(t),a3),B.h(a3,s,a3),new E.jR(D.a8e,"Warning","Important alerts that require attention",u.ay,new A.bnM(t),a3),B.h(a3,s,a3),new E.jR(D.a8h,"Critical","Urgent issues requiring immediate action",u.ch,new A.bnN(t),a3)],r),C.v,C.n,C.p,0,C.q),a3,"Configure which notification severity levels are active","Severity Levels",a3,C.ao)
 m=B.h(a3,p,a3)
 l=B.a([],r)
 for(k=u.CW,j=J.b7(k.gd0(k)),i=x.d,x=x.e,h=a4.d;j.A();){g=j.gP(j)
@@ -2099,7 +2099,7 @@ e=B.a([],r)
 for(d=0;d<3;++d){a0=D.b_D[d]
 a1=k.h(0,g)
 a1.toString
-e.push(new B.mX(a0,J.ki(a1,a0),new A.bnO(a2,u,g,a0),C.bq,a3))}C.f.v(l,B.a([new B.cl(g,f,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3),new B.bc(a3,i,a3,a3),new B.wC(C.bG,p,x,C.ca,e,a3),new B.bc(a3,s,a3,a3)],r))}return B.t(B.a([q,o,n,m,B.bA(B.t(l,C.v,C.n,C.p,0,C.q),a3,"Set default notification recipients by user role","Global Notification Rules",a3,C.an),B.h(a3,p,a3),B.fy(a4.ch,1),B.h(a3,p,a3),new A.tg(new A.bnP(w,u),new A.bnQ(a2,v),!u.k(0,v),a3)],r),C.v,C.n,C.p,0,C.q)}}
+e.push(new B.mX(a0,J.ki(a1,a0),new A.bnO(a2,u,g,a0),C.bq,a3))}C.f.v(l,B.a([new B.cl(g,f,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3),new B.bc(a3,i,a3,a3),new B.wC(C.bG,p,x,C.ca,e,a3),new B.bc(a3,s,a3,a3)],r))}return B.t(B.a([q,o,n,m,B.bA(B.t(l,C.v,C.n,C.p,0,C.q),a3,"Set default notification recipients by user role","Global Notification Rules",a3,C.ao),B.h(a3,p,a3),B.fy(a4.ch,1),B.h(a3,p,a3),new A.tg(new A.bnP(w,u),new A.bnQ(a2,v),!u.k(0,v),a3)],r),C.v,C.n,C.p,0,C.q)}}
 A.R0.prototype={
 U(){return new A.arL()}}
 A.arL.prototype={
@@ -2113,14 +2113,14 @@ v=w}u=new A.brs(r,v)
 t=p.x
 p=p.r
 s=y.p
-return B.t(B.a([B.bA(B.cK(q,"3 Years",!1,D.afu,"Audit Log Retention",new A.brm(u),C.aC,v.k3,y.R),C.dS,"Configure audit trail and security logging settings","Audit & Logging",q,C.an),B.h(q,t,q),B.bA(B.t(B.a([new E.jR(q,"GDPR","General Data Protection Regulation compliance",v.k4,new A.brn(u),q),B.h(q,p,q),new E.jR(q,"ISO","ISO 9001 quality management standards",v.ok,new A.bro(u),q),B.h(q,p,q),new E.jR(q,"OSHA","Occupational Safety and Health Administration",v.p1,new A.brp(u),q)],s),C.v,C.n,C.p,0,C.q),q,"Enable compliance frameworks relevant to your operations","Compliance Mode",q,C.an),B.h(q,t,q),new A.tg(new A.brq(x,v),new A.brr(r,w),!v.k(0,w),q)],s),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([B.bA(B.cK(q,"3 Years",!1,D.afu,"Audit Log Retention",new A.brm(u),C.aC,v.k3,y.R),C.dS,"Configure audit trail and security logging settings","Audit & Logging",q,C.ao),B.h(q,t,q),B.bA(B.t(B.a([new E.jR(q,"GDPR","General Data Protection Regulation compliance",v.k4,new A.brn(u),q),B.h(q,p,q),new E.jR(q,"ISO","ISO 9001 quality management standards",v.ok,new A.bro(u),q),B.h(q,p,q),new E.jR(q,"OSHA","Occupational Safety and Health Administration",v.p1,new A.brp(u),q)],s),C.v,C.n,C.p,0,C.q),q,"Enable compliance frameworks relevant to your operations","Compliance Mode",q,C.ao),B.h(q,t,q),new A.tg(new A.brq(x,v),new A.brr(r,w),!v.k(0,w),q)],s),C.v,C.n,C.p,0,C.q)}}
 A.tg.prototype={
 p(d){var x,w,v=null,u=y.N.a(B.i(d).c.h(0,B.n(y.K)))
 u.toString
 x=this.e
-w=B.aD(!1,C.G,v,v,!1,"Cancel",v,v,x?this.d:v,C.a6,v,C.ab,v)
+w=B.aD(v,!1,C.G,v,v,!1,"Cancel",v,v,x?this.d:v,C.a6,v,C.ab,v)
 u=B.h(v,v,u.r)
-return B.R(B.a([w,u,B.aD(!1,C.G,v,v,!1,"Save Changes",D.adR,v,x?this.c:v,C.a6,v,C.aM,v)],y.p),C.z,C.en,C.p,0,v)}}
+return B.R(B.a([w,u,B.aD(v,!1,C.G,v,v,!1,"Save Changes",D.adR,v,x?this.c:v,C.a6,v,C.aM,v)],y.p),C.z,C.en,C.p,0,v)}}
 A.a3E.prototype={
 GK(d,e){return this.aHB(0,e)},
 aHB(d,e){var x=0,w=B.C(y.n),v=this,u,t,s
@@ -2158,7 +2158,7 @@ o=B.ad(o)
 m=v.length===0
 l=m?B.e(d,k.d):v
 if(m)u=i.f.c_(0.6)
-r.push(B.eH(!1,C.aw,!0,j,B.et(!1,n,!0,B.a2(j,B.R(B.a([B.a8(B.T(l,j,1,C.ao,j,j,j,B.r(j,j,u,j,j,j,j,j,j,j,j,B.p(C.Y),j,j,B.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j,j,j,j,j),1),C.bc,B.aR(D.adx,i.f,j,x.fx)],s),C.z,C.n,C.p,0,j),C.y,j,j,new B.ab(i.ax,j,j,o,j,j,C.I),j,44,j,j,C.fA,j,j,j),j,!0,j,j,j,C.Z,j,j,j,j,j,j,new A.aBF(k,d),j,j,j,j),C.y,C.Z,0,j,j,j,j,j,C.bB))
+r.push(B.eH(!1,C.aw,!0,j,B.et(!1,n,!0,B.a2(j,B.R(B.a([B.a8(B.T(l,j,1,C.ap,j,j,j,B.r(j,j,u,j,j,j,j,j,j,j,j,B.p(C.Y),j,j,B.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j,j,j,j,j),1),C.bc,B.aR(D.adx,i.f,j,x.fx)],s),C.z,C.n,C.p,0,j),C.y,j,j,new B.ab(i.ax,j,j,o,j,j,C.I),j,44,j,j,C.fA,j,j,j),j,!0,j,j,j,C.Z,j,j,j,j,j,j,new A.aBF(k,d),j,j,j,j),C.y,C.Z,0,j,j,j,j,j,C.bB))
 return B.t(r,C.S,C.n,C.p,0,C.q)}}
 var z=a.updateTypes(["~()","S(S)","~(cJ)","J(nR)","~(c?)","c?(c?)","~(I<nR>,S)","~(I<nR>?)","~(jn)","~(n_)","~(iX)","~(nx)","~(c)","~(oV)","~(qv)"])
 A.b2S.prototype={
@@ -2533,7 +2533,7 @@ $0(){return this.a.d=this.b},
 $S:0}
 A.b7I.prototype={
 $2(d,e){var x=null,w=$.Cd(),v=w.f,u=this.a,t=u.r,s=B.h(x,t,x),r=B.a8(B.ae("Translation cache",x,x,x,x),1),q=w.c.a,p=B.T(""+q,x,x,x,x,x,x,x,x,x,x,x,x),o=y.p
-return B.bA(B.t(B.a([new B.ko(v,new A.b7F(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dH(0,0,u.x,0),p,x),B.aD(!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7G(w,d),C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cW(C.eu,x,x,B.aD(!1,C.G,x,x,!1,"Retry failed translations",C.vF,x,new A.b7H(w,d),C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"When viewing in Arabic, translate operator-entered text (names, descriptions, custom fields) via MyMemory. Results are cached locally.","Auto-Translate",x,C.an)},
+return B.bA(B.t(B.a([new B.ko(v,new A.b7F(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dH(0,0,u.x,0),p,x),B.aD(x,!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7G(w,d),C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cW(C.eu,x,x,B.aD(x,!1,C.G,x,x,!1,"Retry failed translations",C.vF,x,new A.b7H(w,d),C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"When viewing in Arabic, translate operator-entered text (names, descriptions, custom fields) via MyMemory. Results are cached locally.","Auto-Translate",x,C.ao)},
 $S:1058}
 A.b7F.prototype={
 $1(d){this.a.soG(0,d)
@@ -3056,4 +3056,4 @@ D.a1N=new A.jL(6,"onMinuteDoubleTapped")
 D.zN=new A.jL(7,"hourDialType")
 D.hA=new A.jL(8,"selectedTime")
 D.fS=new A.jL(9,"onSelectedTimeChanged")})()};
-(a=>{a["VIJvUeqSGEk72AhusqdGRF+KuK4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["GSCF/9AHZXyIX/Ry2xGo1C/BXN0="]=a.current})($__dart_deferred_initializers__);
