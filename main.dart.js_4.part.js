@@ -70,16 +70,16 @@ w(B.l2,A.O)})()
 A.nT(b.typeUniverse,JSON.parse('{"yw":{"M":[],"d":[],"f":[]},"am4":{"M":[],"d":[],"f":[]}}'))
 var y={m:A.a6("ef"),n:A.a6("eA"),e:A.a6("w<d>"),p:A.a6("ef?"),i:A.a6("eA?")};(function constants(){var x=a.makeConstList
 D.bBS=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dQ)
-D.bBP=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.je)
-D.bBN=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.jb)
+D.bBP=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.jf)
+D.bBN=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.jc)
 D.bBM=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.eH)
-D.bBT=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.l2)
+D.bBT=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.l3)
 D.bBL=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.h7)
-D.bBU=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.l4)
+D.bBU=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.l5)
 D.bBR=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nY)
-D.bBO=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.l3)
-D.bBK=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.l1)
+D.bBO=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.l4)
+D.bBK=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.l2)
 D.bBQ=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dF)
 D.bBJ=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
 D.wR=x([D.bBS,D.bBP,D.bBN,D.bBM,D.bBT,D.bBL,D.bBU,D.bBR,D.bBO,D.bBK,D.bBQ,D.bBJ],A.a6("w<l2>"))})()};
-(a=>{a["Ogx6EgoDtN234Q8Y6CV6/QA83Kk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["PKQaXasluxbCJAwL9OubaBhq/hs="]=a.current})($__dart_deferred_initializers__);

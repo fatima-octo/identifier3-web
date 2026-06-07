@@ -168,15 +168,15 @@ B.UM.prototype={
 aI(){this.be()},
 bM(){var x,w,v=this
 v.cM()
-x=v.d=v.aKd()
+x=v.d=v.aKe()
 if(x==null)return
 w=v.c
 w.toString
 v.f=v.e=A.aC(w).a.d1(x)},
-aKd(){var x,w,v,u
+aKe(){var x,w,v,u
 for(x=$.xs(),w=this.a,v=0;v<13;++v){u=x[v]
 if(u.a===w.c)return u}return null},
-aOc(d){this.E(new B.bdM(this,d))},
+aOd(d){this.E(new B.bdM(this,d))},
 Q5(){var x=0,w=A.C(y.H),v,u=this,t,s,r
 var $async$Q5=A.y(function(d,e){if(d===1)return A.z(e,w)
 for(;;)switch(x){case 0:r=u.f
@@ -307,7 +307,7 @@ t=t==null?null:t.a
 if(t==null)t="fld-"+Date.now()
 x=u.gxJ()
 w=u.gor()
-v=u.gor()===C.kK?u.ga6v():C.Q
+v=u.gor()===C.kL?u.ga6v():C.Q
 return new A.i8(t,x,w,v,u.ga7f(),u.gpC(),u.ga4T())},
 avF(){var x,w=this
 if(C.m.Z(w.gxJ()).length===0)return
@@ -350,15 +350,15 @@ r=A.bh(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.bbd(k
 q=A.h(j,x,j)
 p=k.gor()
 o=A.a([],y.d)
-for(n=y.z,m=0;m<9;++m){l=C.NN[m]
+for(n=y.z,m=0;m<9;++m){l=C.NO[m]
 o.push(new A.b9(l,new A.bt(B.bOQ(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cK(j,"Single-line Text",!0,o,"Field Type",new B.bbe(k),C.aC,p,y.T),A.h(j,x,j),new A.ko(k.ga7f(),new B.bbf(k),"Required",j,!1,j),A.h(j,x,j),A.cK(j,"Select group or leave ungrouped",!1,D.b5q,"Group Assignment",j,C.aC,j,y.N),A.h(j,v,j),A.ae("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
-if(k.gor()===C.kK)C.f.v(i,A.a([A.h(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bbg(k),j,C.af,C.ac,j,C.a7,k.ga6a())],n))
+if(k.gor()===C.kL)C.f.v(i,A.a([A.h(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bbg(k),j,C.af,C.ac,j,C.a7,k.ga6a())],n))
 i.push(A.h(j,x,j))
-if(k.gor()===C.kK)i.push(k.atb(d))
-else if(k.gor()===C.BM)i.push(k.at8(d))
-else if(k.gor()===C.BN)i.push(k.atu(d))
-else if(k.gor()===C.uA||k.gor()===C.kL)i.push(C.aG)
+if(k.gor()===C.kL)i.push(k.atb(d))
+else if(k.gor()===C.BN)i.push(k.at8(d))
+else if(k.gor()===C.BO)i.push(k.atu(d))
+else if(k.gor()===C.uA||k.gor()===C.kM)i.push(C.aG)
 else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.bbh(k),j,C.af,C.ac,j,C.a7,k.gpC()))
 i.push(A.h(j,x,j))
 i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.bbi(k),j,C.af,C.ac,j,C.a7,k.ga4T()))
@@ -379,7 +379,7 @@ x=n.ga6v()
 w=n.gpC().length!==0&&C.f.n(x,n.gpC())?n.gpC():m
 v=x.length===0
 u=v?"Add options above to enable":"Select a default option"
-v=v?C.kJ:C.aC
+v=v?C.kK:C.aC
 t=A.a([],y.t)
 for(s=x.length,r=y.O,q=0;p=x.length,q<p;x.length===s||(0,A.L)(x),++q){o=x[q]
 t.push(new A.b9(o,new A.bt(o,m,m,m,m,m),C.a1,m,r))}s=p===0?m:new B.bbl(n)
@@ -404,7 +404,7 @@ q.push(A.h(n,n,x.r))
 p=s.c
 q.push(new A.dh(B.bOQ(p),C.bn,C.fy,n,n))
 q=A.a([A.R(q,C.z,C.n,C.p,0,n)],r)
-if(p===C.kK&&s.d.length!==0)C.f.v(q,A.a([A.h(n,x.d,n),A.T(A.e(d,"Options: "+C.f.bl(s.d,", ")),n,n,n,n,n,n,A.r(n,n,m.f,n,n,n,n,n,n,n,n,A.p(C.E),n,n,A.q(C.A),n,n,!0,n,n,n,n,n,n,n,n),n,n,n,n,n)],r))
+if(p===C.kL&&s.d.length!==0)C.f.v(q,A.a([A.h(n,x.d,n),A.T(A.e(d,"Options: "+C.f.bl(s.d,", ")),n,n,n,n,n,n,A.r(n,n,m.f,n,n,n,n,n,n,n,n,A.p(C.E),n,n,A.q(C.A),n,n,!0,n,n,n,n,n,n,n,n),n,n,n,n,n)],r))
 x=x.fx
 s=m.f
 return A.a2(n,A.R(A.a([new B.acy(o.d,o.e,o.f,o.r,n),t,A.a8(A.t(q,C.S,C.n,C.p,0,C.q),1),A.hV(n,n,A.aR(C.eG,s,n,x),n,n,o.w,n,n,n,n,n),A.hV(n,n,A.aR(D.adH,s,n,x),n,n,o.x,n,n,n,n,n),A.hV(n,n,A.aR(C.h6,m.db,n,x),n,n,o.y,n,n,n,n,n)],r),C.z,C.n,C.p,0,n),C.y,n,n,new A.ab(m.r,n,u,v,n,n,C.I),n,n,n,n,new A.U(w,w,w,w),n,n,n)}}
@@ -457,7 +457,7 @@ r=y.p
 q=x.r
 p=x.x
 o=k.dx
-p=A.a([A.R(A.a([A.a8(A.t(A.a([A.ae("Custom Fields",l,l,A.r(l,l,k.d,l,l,l,l,l,l,l,l,A.p(C.Y),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l).a2(C.P),l),A.h(l,x.d,l),A.ae("Add metadata fields and organize them into groups",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l)],r),C.S,C.n,C.p,0,C.q),1),A.aD(l,!1,C.G,l,l,!1,"Create Group",C.Df,l,l,C.a6,l,C.ab,l),A.h(l,l,q),A.aD(l,!1,C.G,l,l,!1,"Add Field",C.ec,l,new B.aBs(m,d),C.a6,l,C.aM,l)],r),C.S,C.n,C.p,0,l),A.h(l,p,l),A.a2(l,A.R(A.a([A.T(A.e(d,"Individual Fields ("+w.length+")"),l,l,l,l,l,l,A.r(l,l,o,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l),l,l,l,l,l)],r),C.z,C.n,C.p,0,l),C.y,l,l,new A.ab(l,l,new A.dj(C.a2,C.a2,new A.bl(o,2,C.ae,-1),C.a2),l,l,l,C.I),l,l,l,l,C.nA,l,l,l),A.h(l,p,l)],r)
+p=A.a([A.R(A.a([A.a8(A.t(A.a([A.ae("Custom Fields",l,l,A.r(l,l,k.d,l,l,l,l,l,l,l,l,A.p(C.Y),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l).a2(C.P),l),A.h(l,x.d,l),A.ae("Add metadata fields and organize them into groups",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l)],r),C.S,C.n,C.p,0,C.q),1),A.aD(l,!1,C.G,l,l,!1,"Create Group",C.Dg,l,l,C.a6,l,C.ab,l),A.h(l,l,q),A.aD(l,!1,C.G,l,l,!1,"Add Field",C.ec,l,new B.aBs(m,d),C.a6,l,C.aM,l)],r),C.S,C.n,C.p,0,l),A.h(l,p,l),A.a2(l,A.R(A.a([A.T(A.e(d,"Individual Fields ("+w.length+")"),l,l,l,l,l,l,A.r(l,l,o,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.D),l,l,!0,l,l,l,l,l,l,l,l),l,l,l,l,l)],r),C.z,C.n,C.p,0,l),C.y,l,l,new A.ab(l,l,new A.dj(C.a2,C.a2,new A.bl(o,2,C.ae,-1),C.a2),l,l,l,C.I),l,l,l,l,C.nA,l,l,l),A.h(l,p,l)],r)
 if(w.length===0)p.push(A.ae("No custom fields yet \u2014 add one with the button above.",l,l,A.r(l,l,s,l,l,l,l,l,l,l,l,A.p(C.E),l,l,A.q(C.A),l,l,!0,l,l,l,l,l,l,l,l),l))
 else{x=A.a([],r)
 for(n=0;n<w.length;++n){s=A.a([],r)
@@ -473,7 +473,7 @@ v=A.V(w.w,y.N)
 C.f.v(v,u)
 x.e.$1(w.ys(v))
 x.w.$0()},
-aJQ(d){var x=this.d,w=x.w,v=A.a3(w).i("ay<1>")
+aJR(d){var x=this.d,w=x.w,v=A.a3(w).i("ay<1>")
 w=A.V(new A.ay(w,new B.aF8(d),v),v.i("K.E"))
 this.e.$1(x.ys(w))},
 GS(d,e){return this.awM(d,e)},
@@ -495,7 +495,7 @@ x.toString
 w=x.r
 v=y.p
 u=p.f
-p=A.a([A.R(A.a([A.a8(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaMH(),C.af,C.ac,q,C.a7,r.f),1),A.h(q,q,w),new A.at(C.nz,A.aD(q,!1,C.G,q,q,!1,"Add",q,q,new B.aFc(r),C.a6,q,C.aM,q),q)],v),C.eC,C.n,C.p,0,q),A.h(q,x.d,q),A.ae("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.h(q,x.x,q),A.ae("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.h(q,w,q)],v)
+p=A.a([A.R(A.a([A.a8(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaMI(),C.af,C.ac,q,C.a7,r.f),1),A.h(q,q,w),new A.at(C.nz,A.aD(q,!1,C.G,q,q,!1,"Add",q,q,new B.aFc(r),C.a6,q,C.aM,q),q)],v),C.eC,C.n,C.p,0,q),A.h(q,x.d,q),A.ae("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.h(q,x.x,q),A.ae("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.h(q,w,q)],v)
 x=r.d.w
 if(x.length===0)p.push(A.ae("No categories yet \u2014 add one above.",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q))
 else{v=A.a([],v)
@@ -503,7 +503,7 @@ for(u=x.length,t=0;t<x.length;x.length===u||(0,A.L)(x),++t){s=x[t]
 v.push(new B.a0P(s,new B.aFd(r,d,s),new B.aFe(r,s),q))}p.push(A.h7(C.bG,v,C.ca,w,w))}return A.bA(A.t(p,C.v,C.n,C.p,0,C.q),q,"Define categories to organize your "+r.c.c.toLowerCase(),"Entity Categories",q,C.ao)}}
 B.acy.prototype={
 p(d){var x=this
-return A.t(A.a([new B.JZ(C.D6,x.c,x.e,null),new B.JZ(C.vD,x.d,x.f,null)],y.p),C.z,C.n,C.M,0,C.q)}}
+return A.t(A.a([new B.JZ(C.D7,x.c,x.e,null),new B.JZ(C.vD,x.d,x.f,null)],y.p),C.z,C.n,C.M,0,C.q)}}
 var z=a.updateTypes(["~(dm)","an<~>()","xU(F)","ye(F)","~()","~(c)"])
 B.bdM.prototype={
 $0(){return this.a.f=this.b},
@@ -532,30 +532,30 @@ $0(){return this.a.r=""},
 $S:0}
 B.biq.prototype={
 $1(d){var x=this.a
-return x.e.$1(x.d.aTj(d))},
+return x.e.$1(x.d.aTk(d))},
 $S:1}
 B.bir.prototype={
 $1(d){var x,w=A.e2(d,null)
 if(w!=null){x=this.a
-x.e.$1(x.d.aTG(w))}},
+x.e.$1(x.d.aTH(w))}},
 $S:1}
 B.bis.prototype={
 $1(d){var x
 if(d!=null){x=this.a
-x.e.$1(x.d.aT2(d))}},
+x.e.$1(x.d.aT3(d))}},
 $S:1065}
 B.bit.prototype={
 $1(d){var x
 if(d!=null){x=this.a
-x.e.$1(x.d.aTk(d))}},
+x.e.$1(x.d.aTl(d))}},
 $S:7}
 B.biu.prototype={
 $1(d){var x=this.a
-return x.e.$1(x.d.aSH(d))},
+return x.e.$1(x.d.aSI(d))},
 $S:3}
 B.biv.prototype={
 $1(d){var x=this.a
-return x.e.$1(x.d.aSG(d))},
+return x.e.$1(x.d.aSH(d))},
 $S:3}
 B.azR.prototype={
 $1(d){return new B.xU(this.a,null)},
@@ -708,13 +708,13 @@ B.aFd.prototype={
 $0(){return this.a.GS(this.b,this.c)},
 $S:0}
 B.aFe.prototype={
-$0(){return this.a.aJQ(this.b)},
+$0(){return this.a.aJR(this.b)},
 $S:0};(function installTearOffs(){var x=a._instance_1u,w=a._instance_0u
 var v
-x(v=B.UM.prototype,"ga9R","aOc",0)
+x(v=B.UM.prototype,"ga9R","aOd",0)
 w(v,"gaxb","Q5",1)
 w(B.Uc.prototype,"gavE","avF",4)
-x(B.Mr.prototype,"gaMH","a8D",5)})();(function inheritance(){var x=a.inheritMany
+x(B.Mr.prototype,"gaMI","a8D",5)})();(function inheritance(){var x=a.inheritMany
 x(A.aa,[B.uT,B.xU,B.ye])
 x(A.ac,[B.UM,B.akg,B.Uc])
 x(A.ld,[B.bdM,B.bdL,B.bdP,B.bdO,B.bdR,B.bdN,B.b98,B.b97,B.bbr,B.bbc,B.bbb,B.bba,B.bb9,B.bb8,B.bb7,B.bb5,B.bbn,B.bbk,B.bbm,B.bbj,B.aBs,B.aBt,B.aBu,B.aBv,B.aBw,B.aBx,B.aFc,B.aFd,B.aFe])
@@ -733,8 +733,8 @@ D.b5q=x([],y.t)
 D.baq=new A.bt("Standard",null,null,null,null,null)
 D.a9B=new A.b9(C.d4,D.baq,C.a1,null,y.q)
 D.bax=new A.bt("Compact",null,null,null,null,null)
-D.a9l=new A.b9(C.DG,D.bax,C.a1,null,y.q)
+D.a9l=new A.b9(C.DH,D.bax,C.a1,null,y.q)
 D.baL=new A.bt("Detailed",null,null,null,null,null)
-D.a9K=new A.b9(C.DH,D.baL,C.a1,null,y.q)
+D.a9K=new A.b9(C.DI,D.baL,C.a1,null,y.q)
 D.b6v=x([D.a9B,D.a9l,D.a9K],A.a6("w<b9<kC>>"))})()};
-(a=>{a["8Uq0sYj8T00wKRtlPq/APRrxrQ0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["x0IETIcQTZ2jLG7IuA4Sw6BjL+4="]=a.current})($__dart_deferred_initializers__);

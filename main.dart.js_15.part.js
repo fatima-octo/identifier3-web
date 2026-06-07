@@ -2,10 +2,10 @@
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={ED:function ED(d,e){this.a=d
 this.b=e},b5x:function b5x(){},azf:function azf(){},
 cqE(d){switch(d.a){case 0:return D.xX
-case 2:return D.Zw
-case 1:return D.Zv
+case 2:return D.Zx
+case 1:return D.Zw
 case 3:return C.blH
-case 4:return D.Zx}},
+case 4:return D.Zy}},
 bFm(d,e){var x=0,w=B.C(y.a),v,u
 var $async$bFm=B.y(function(f,g){if(f===1)return B.z(g,w)
 for(;;)switch(x){case 0:if(e===C.afg||e===C.afh)u=!(d.gdL()==="https"||d.gdL()==="http")
@@ -32,8 +32,8 @@ C.bDV=new A.b5x()
 C.bE7=new A.ED(0,"platformDefault")
 C.afg=new A.ED(1,"inAppWebView")
 C.afh=new A.ED(2,"inAppBrowserView")
-C.DI=new A.ED(3,"externalApplication")
+C.DJ=new A.ED(3,"externalApplication")
 C.aa8=new B.ba(864e8)
 C.blH=new B.A2(3,"externalApplication")
 C.yX=new B.N(!0,D.X,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["vrgIU6RGaqXNkp7mUEG2upGcKIc="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Hy1pQfm9gMq8DlD8thpNuKVCgjo="]=a.current})($__dart_deferred_initializers__);
