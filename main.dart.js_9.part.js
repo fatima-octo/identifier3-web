@@ -120,7 +120,7 @@ b4e:function b4e(){},
 b4f:function b4f(){},
 b4g:function b4g(){},
 cpQ(d,e,f){var x=null,w=B.e(d,e.a),v=B.e(d,e.b),u=B.e(d,f),t=y.u,s=B.t(B.a([B.R(B.a([B.a8(A.EE(C.vG,e.e),1),B.a8(A.EE(D.Db,e.r+" ("+e.w+")"),1)],t),C.z,C.n,C.p,0,x),C.is,B.R(B.a([B.a8(A.EE(C.dR,e.x),1),B.a8(A.EE(C.ef,e.y),1)],t),C.z,C.n,C.p,0,x)],t),C.S,C.n,C.p,0,C.q)
-return A.bWA(B.R(B.a([B.a8(B.aD(x,!1,C.G,x,x,!1,B.e(d,"View Document"),C.dF,x,new A.bzb(),C.a6,x,C.aM,1/0),1),C.bc,B.aD(x,!1,C.G,x,x,!1,"",C.vN,x,new A.bzc(),C.bT,x,C.ab,x)],t),C.z,C.n,C.p,0,x),u,v,e.d,x,s,w,e.f)},
+return A.bWA(B.R(B.a([B.a8(B.aD(x,!1,C.G,x,x,!1,B.e(d,"View Document"),C.dF,x,new A.bzb(),x,C.a6,x,C.aM,1/0),1),C.bc,B.aD(x,!1,C.G,x,x,!1,"",C.vN,x,new A.bzc(),"Download",C.bT,x,C.ab,x)],t),C.z,C.n,C.p,0,x),u,v,e.d,x,s,w,e.f)},
 bzb:function bzb(){},
 bzc:function bzc(){},
 Pc:function Pc(d,e,f,g,h){var _=this
@@ -171,7 +171,7 @@ aXY:function aXY(d){this.a=d},
 aXZ:function aXZ(d,e){this.a=d
 this.b=e},
 cq6(d,e,f){var x=null,w=B.e(d,e.a),v=B.e(d,e.b),u=e.f,t=B.e(d,f),s=B.R(B.a([A.EE(D.Db,e.r),C.bP,new B.hR(1,C.cY,A.EE(C.vS,e.w),x),C.bL,A.EE(C.ef,e.x)],y.u),C.z,C.n,C.p,0,x)
-return A.bWA(B.aD(x,!1,C.G,x,x,!1,B.e(d,"Watch Video"),D.nZ,x,new A.bCc(),C.a6,x,C.aM,1/0),t,v,e.d,new A.agE(u,e.e,x),s,w,u)},
+return A.bWA(B.aD(x,!1,C.G,x,x,!1,B.e(d,"Watch Video"),D.nZ,x,new A.bCc(),x,C.a6,x,C.aM,1/0),t,v,e.d,new A.agE(u,e.e,x),s,w,u)},
 bCc:function bCc(){},
 agE:function agE(d,e,f){this.c=d
 this.d=e
@@ -380,7 +380,7 @@ for(x=this.a.c,w=0;w<3;++w){v=D.b3k[w]
 u=v.e
 t=x.h(0,u)
 u=t==null?u:t
-p.push(new A.Np(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cw(1,C.aD,new A.ED(C.vG,v.f,s),s),new B.cw(1,C.aD,new A.ED(D.Dk,v.r,s),s)],q),C.z,C.n,C.p,0,s),new B.oj("Start Tutorial",new A.aKa(),C.aM,C.a6,D.nZ,s,s,!1,!1,s,s,1/0,C.G,s,s),s,s))}return new E.my(r,16,p,!0,s)},
+p.push(new A.Np(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cw(1,C.aD,new A.ED(C.vG,v.f,s),s),new B.cw(1,C.aD,new A.ED(D.Dk,v.r,s),s)],q),C.z,C.n,C.p,0,s),new B.oj("Start Tutorial",new A.aKa(),C.aM,C.a6,D.nZ,s,s,!1,!1,s,s,1/0,C.G,s,s,s),s,s))}return new E.my(r,16,p,!0,s)},
 $S:z+0}
 A.aKa.prototype={
 $0(){},
@@ -519,4 +519,4 @@ D.Ue=new B.az(D.bfO,["All levels","Beginner","Intermediate","Advanced"],y.p)
 D.bg3={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
 D.lP=new B.az(D.bg3,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)
 D.a_K=new B.bc(null,14,null,null)})()};
-(a=>{a["gVCLHzRBv3mixJ0mQh+1Xt71Akw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Saj5hoJKkGDPGO+104/hrvhQUks="]=a.current})($__dart_deferred_initializers__);

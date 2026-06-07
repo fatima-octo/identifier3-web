@@ -697,7 +697,7 @@ l.toString
 x=B.aF(d,D.hA,x)
 x.toString
 B.aF(d,C.fn,y.w).toString
-return B.cB(m,m,k,!1,m,m,m,!1,!1,m,m,m,m,m,m,m,m,m,m,l.aeD(x.as,!1),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,C.ax,m)}}
+return B.cz(m,m,k,!1,m,m,m,!1,!1,m,m,m,m,m,m,m,m,m,m,l.aeD(x.as,!1),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,C.ax,m)}}
 A.Ux.prototype={
 p(d){var x,w,v,u,t,s,r,q,p=this,o=null,n=y.z,m=B.aF(d,D.fR,n)
 m.toString
@@ -747,7 +747,7 @@ t=B.aF(d,D.zN,x)
 t.toString
 x=B.aF(d,D.a1N,x)
 x.toString
-return B.cB(o,o,new A.Ux(u,new A.bdg(d),x.z,t.x===D.kd,o),!1,o,p,o,!0,!1,o,o,o,o,o,o,o,o,r,o,o,o,o,o,o,o,o,o,o,new A.bdh(d,q),o,o,o,o,new A.bdi(d,s),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,C.ax,w+" "+u)}}
+return B.cz(o,o,new A.Ux(u,new A.bdg(d),x.z,t.x===D.kd,o),!1,o,p,o,!0,!1,o,o,o,o,o,o,o,o,r,o,o,o,o,o,o,o,o,o,o,new A.bdh(d,q),o,o,o,o,new A.bdi(d,s),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,C.ax,w+" "+u)}}
 A.IX.prototype={
 aNx(d){switch(d.a){case 4:case 5:case 3:case 0:return":"
 case 1:return"."
@@ -796,7 +796,7 @@ w=B.aF(d,D.zN,x)
 w.toString
 x=B.aF(d,D.a1O,x)
 x.toString
-return B.cB(p,p,new A.Ux(u,new A.bdk(d),x.Q,w.x===D.t8,p),!1,p,q,p,!0,!1,p,p,p,p,p,p,p,p,s,p,p,p,p,p,p,p,p,p,p,new A.bdl(d,r),p,p,p,p,new A.bdm(d,t),p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,C.ax,o+" "+u)}}
+return B.cz(p,p,new A.Ux(u,new A.bdk(d),x.Q,w.x===D.t8,p),!1,p,q,p,!0,!1,p,p,p,p,p,p,p,p,s,p,p,p,p,p,p,p,p,p,p,new A.bdl(d,r),p,p,p,p,new A.bdm(d,t),p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,C.ax,o+" "+u)}}
 A.HD.prototype={
 a9j(d){var x,w,v=y.z,u=B.aF(d,D.hA,v)
 u.toString
@@ -894,7 +894,7 @@ n=n==null?o:n.gd7()
 q=(n==null?C.bp:n).j4(0,2)
 n=B.bG()===C.b2?m:o
 if(B.bG()===C.b2)m=o
-return B.cB(!0,m,new B.at(p.f,B.ev(!1,C.aw,!0,o,B.et(!1,o,!0,B.c1(B.c8(p.e,o,o,o,o,o,o,o,r,o,o,o,q,o),o,o),o,!0,o,o,o,o,o,o,o,o,o,o,p.d,o,o,o,o),C.cG,t,0,o,o,p.r,o,o,C.bB),o),!1,o,o,o,!1,!1,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,n,o,o,o,o,o,o,o,o,C.ax,o)}}
+return B.cz(!0,m,new B.at(p.f,B.ev(!1,C.aw,!0,o,B.et(!1,o,!0,B.c1(B.c8(p.e,o,o,o,o,o,o,o,r,o,o,o,q,o),o,o),o,!0,o,o,o,o,o,o,o,o,o,o,p.d,o,o,o,o),C.cG,t,0,o,o,p.r,o,o,C.bB),o),!1,o,o,o,!1,!1,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,n,o,o,o,o,o,o,o,o,C.ax,o)}}
 A.Uo.prototype={
 bn(d){var x=new A.WJ(this.e,this.f,null,new B.bD(),B.b4(y.v))
 x.bm()
@@ -1493,7 +1493,7 @@ g=d.d.y
 g.toString
 f=i.x
 e=i.y
-return B.AC(B.cdr(B.Ha(q,B.cB(a0,a0,B.bZo(m===!0,g,u,!0,j,k,C.a0f,a0,i.z,new A.bin(d),e,e,"hour_minute_text_form_field",n,C.aP,h,f),!1,a0,a0,a0,!1,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,l,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,C.ax,a0))),t)}}
+return B.AC(B.cdr(B.Ha(q,B.cz(a0,a0,B.bZo(m===!0,g,u,!0,j,k,C.a0f,a0,i.z,new A.bin(d),e,e,"hour_minute_text_form_field",n,C.aP,h,f),!1,a0,a0,a0,!1,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,l,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,C.ax,a0))),t)}}
 A.Sx.prototype={
 U(){var x=null
 return new A.Y4(new B.bJ(x,y.B),new A.tc(C.hC,B.eR(C.On,y.D),$.aG(),y.F),x,B.H(y.T,y.M),x,!0,x)}}
@@ -2061,7 +2061,7 @@ u=v}t=new A.bjw(p,u)
 s=x.r
 r=y.p
 q=x.x
-return B.t(B.a([B.bA(B.t(B.a([B.R(B.a([B.a8(B.bh(o,!1,o,"https://api.example.com/v1",!1,!1,"API Endpoint",new A.bjq(t),o,C.af,C.ac,o,C.a7,u.k1),1),B.h(o,o,s),new B.at(C.nz,B.aD(o,!1,C.G,o,o,!1,"Test",C.ee,o,new A.bjr(),C.a6,o,C.ab,o),o)],r),C.eC,C.n,C.p,0,o),B.h(o,q,o),B.ae("API Token",o,o,B.r(o,o,n.d,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),B.h(o,s,o),new B.cU(C.a1,o,o,B.aD(o,!1,C.G,o,o,!1,"Generate Token",C.ed,o,new A.bjs(),C.a6,o,C.ab,170),o),B.h(o,x.d,o),B.ae("Generate a new API token for secure access to external services",o,o,B.r(o,o,n.f,o,o,o,o,o,o,o,o,B.p(C.E),o,o,B.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],r),C.v,C.n,C.p,0,C.q),o,"Configure connections to external systems and services","External APIs",o,C.ao),B.h(o,q,o),B.bA(new E.jR(o,"Enable SSO","Allow users to sign in with their corporate accounts",u.k2,new A.bjt(t),o),o,"Configure SSO integration for user authentication","Single Sign-On (SSO)",o,C.ao),B.h(o,q,o),new A.tg(new A.bju(w,u),new A.bjv(p,v),!u.k(0,v),o)],r),C.v,C.n,C.p,0,C.q)}}
+return B.t(B.a([B.bA(B.t(B.a([B.R(B.a([B.a8(B.bh(o,!1,o,"https://api.example.com/v1",!1,!1,"API Endpoint",new A.bjq(t),o,C.af,C.ac,o,C.a7,u.k1),1),B.h(o,o,s),new B.at(C.nz,B.aD(o,!1,C.G,o,o,!1,"Test",C.ee,o,new A.bjr(),o,C.a6,o,C.ab,o),o)],r),C.eC,C.n,C.p,0,o),B.h(o,q,o),B.ae("API Token",o,o,B.r(o,o,n.d,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),B.h(o,s,o),new B.cU(C.a1,o,o,B.aD(o,!1,C.G,o,o,!1,"Generate Token",C.ed,o,new A.bjs(),o,C.a6,o,C.ab,170),o),B.h(o,x.d,o),B.ae("Generate a new API token for secure access to external services",o,o,B.r(o,o,n.f,o,o,o,o,o,o,o,o,B.p(C.E),o,o,B.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],r),C.v,C.n,C.p,0,C.q),o,"Configure connections to external systems and services","External APIs",o,C.ao),B.h(o,q,o),B.bA(new E.jR(o,"Enable SSO","Allow users to sign in with their corporate accounts",u.k2,new A.bjt(t),o),o,"Configure SSO integration for user authentication","Single Sign-On (SSO)",o,C.ao),B.h(o,q,o),new A.tg(new A.bju(w,u),new A.bjv(p,v),!u.k(0,v),o)],r),C.v,C.n,C.p,0,C.q)}}
 A.P1.prototype={
 U(){return new A.aoX()}}
 A.aoX.prototype={
@@ -2099,7 +2099,7 @@ e=B.a([],r)
 for(d=0;d<3;++d){a0=D.b_F[d]
 a1=k.h(0,g)
 a1.toString
-e.push(new B.mX(a0,J.kj(a1,a0),new A.bnT(a2,u,g,a0),C.br,a3))}C.f.v(l,B.a([new B.cl(g,f,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3),new B.bc(a3,i,a3,a3),new B.wC(C.bG,p,x,C.ca,e,a3),new B.bc(a3,s,a3,a3)],r))}return B.t(B.a([q,o,n,m,B.bA(B.t(l,C.v,C.n,C.p,0,C.q),a3,"Set default notification recipients by user role","Global Notification Rules",a3,C.ao),B.h(a3,p,a3),B.fy(a4.ch,1),B.h(a3,p,a3),new A.tg(new A.bnU(w,u),new A.bnV(a2,v),!u.k(0,v),a3)],r),C.v,C.n,C.p,0,C.q)}}
+e.push(new B.mX(a0,a3,J.kj(a1,a0),new A.bnT(a2,u,g,a0),C.br,a3))}C.f.v(l,B.a([new B.cl(g,f,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3),new B.bc(a3,i,a3,a3),new B.wC(C.bG,p,x,C.ca,e,a3),new B.bc(a3,s,a3,a3)],r))}return B.t(B.a([q,o,n,m,B.bA(B.t(l,C.v,C.n,C.p,0,C.q),a3,"Set default notification recipients by user role","Global Notification Rules",a3,C.ao),B.h(a3,p,a3),B.fy(a4.ch,1),B.h(a3,p,a3),new A.tg(new A.bnU(w,u),new A.bnV(a2,v),!u.k(0,v),a3)],r),C.v,C.n,C.p,0,C.q)}}
 A.R1.prototype={
 U(){return new A.arP()}}
 A.arP.prototype={
@@ -2118,9 +2118,9 @@ A.tg.prototype={
 p(d){var x,w,v=null,u=y.N.a(B.i(d).c.h(0,B.n(y.K)))
 u.toString
 x=this.e
-w=B.aD(v,!1,C.G,v,v,!1,"Cancel",v,v,x?this.d:v,C.a6,v,C.ab,v)
+w=B.aD(v,!1,C.G,v,v,!1,"Cancel",v,v,x?this.d:v,v,C.a6,v,C.ab,v)
 u=B.h(v,v,u.r)
-return B.R(B.a([w,u,B.aD(v,!1,C.G,v,v,!1,"Save Changes",D.adT,v,x?this.c:v,C.a6,v,C.aM,v)],y.p),C.z,C.eo,C.p,0,v)}}
+return B.R(B.a([w,u,B.aD(v,!1,C.G,v,v,!1,"Save Changes",D.adT,v,x?this.c:v,v,C.a6,v,C.aM,v)],y.p),C.z,C.eo,C.p,0,v)}}
 A.a3I.prototype={
 GK(d,e){return this.aHJ(0,e)},
 aHJ(d,e){var x=0,w=B.C(y.n),v=this,u,t,s
@@ -2533,7 +2533,7 @@ $0(){return this.a.d=this.b},
 $S:0}
 A.b7M.prototype={
 $2(d,e){var x=null,w=$.Cf(),v=w.f,u=this.a,t=u.r,s=B.h(x,t,x),r=B.a8(B.ae("Translation cache",x,x,x,x),1),q=w.c.a,p=B.T(""+q,x,x,x,x,x,x,x,x,x,x,x,x),o=y.p
-return B.bA(B.t(B.a([new B.kp(v,new A.b7J(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dH(0,0,u.x,0),p,x),B.aD(x,!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7K(w,d),C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cU(C.ev,x,x,B.aD(x,!1,C.G,x,x,!1,"Retry failed translations",C.vF,x,new A.b7L(w,d),C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"When viewing in Arabic, translate operator-entered text (names, descriptions, custom fields) via MyMemory. Results are cached locally.","Auto-Translate",x,C.ao)},
+return B.bA(B.t(B.a([new B.kp(v,new A.b7J(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dH(0,0,u.x,0),p,x),B.aD(x,!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7K(w,d),x,C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cU(C.ev,x,x,B.aD(x,!1,C.G,x,x,!1,"Retry failed translations",C.vF,x,new A.b7L(w,d),x,C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"When viewing in Arabic, translate operator-entered text (names, descriptions, custom fields) via MyMemory. Results are cached locally.","Auto-Translate",x,C.ao)},
 $S:1059}
 A.b7J.prototype={
 $1(d){this.a.soG(0,d)
@@ -3056,4 +3056,4 @@ D.a1O=new A.jL(6,"onMinuteDoubleTapped")
 D.zP=new A.jL(7,"hourDialType")
 D.hA=new A.jL(8,"selectedTime")
 D.fS=new A.jL(9,"onSelectedTimeChanged")})()};
-(a=>{a["deSr5JnM9EIIASXT9FwPJXd1NoA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["NwIV86+/o1gUOzCxPjtvW+iIOmg="]=a.current})($__dart_deferred_initializers__);
