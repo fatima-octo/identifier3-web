@@ -967,13 +967,13 @@ v=w?"Workshop floor printer":"Warehouse handheld scanner"
 x=A.bh(o,!1,o,v,!1,!0,"Name",new C.bhz(m),o,B.af,B.ac,o,B.a7,x)
 v=m.c
 u=w?"Zebra ZD420":"Honeywell Voyager 1450g"
-v=A.a([k,B.bs,A.aZ(!1,12,x,A.bh(o,!1,o,u,!1,!1,"Model",new C.bhA(m),o,B.af,B.ac,o,B.a7,v)),B.bs],y.p)
+v=A.a([k,B.bt,A.aZ(!1,12,x,A.bh(o,!1,o,u,!1,!1,"Model",new C.bhA(m),o,B.af,B.ac,o,B.a7,v)),B.bt],y.p)
 k=m.d
 if(w)v.push(A.aZ(!1,12,A.bh(o,!1,o,"10.0.0.42",!1,!1,n,new C.bhB(m),o,B.af,B.ac,o,B.a7,k),A.bh(o,!1,o,"9100",!1,!1,"Port",new C.bhC(m),o,B.af,B.ac,o,B.a7,m.e)))
 else v.push(A.aZ(!1,12,A.bh(o,!1,o,"SN-12345",!1,!1,"Serial",new C.bhD(m),o,B.af,B.ac,o,B.a7,m.f),A.bh(o,!1,o,"10.0.0.42 (optional)",!1,!1,n,new C.bhE(m),o,B.af,B.ac,o,B.a7,k)))
-v.push(B.bs)
+v.push(B.bt)
 v.push(A.bh(o,!1,o,"LOC-WH-001 or free-text",!1,!1,"Location",new C.bhF(m),o,B.af,B.ac,o,B.a7,m.r))
-v.push(B.bs)
+v.push(B.bt)
 v.push(A.bh(o,!1,o,"Optional",!0,!1,"Notes",new C.bhG(m),o,B.af,B.ac,o,B.a7,m.x))
 return A.t(v,B.v,B.n,B.M,0,B.q)},
 $S:1064}
@@ -1214,4 +1214,4 @@ D.rI=new A.N(!0,B.aS,null,null,null,null,7,null,null,null,null,null,null,null,nu
 D.bu8=new A.N(!0,B.aS,null,null,null,null,8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bud=new A.N(!0,B.X,null,null,null,null,7,B.P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bvB=new A.N(!0,B.aK,null,null,null,null,8,B.P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["BQVu5V1ykWWPgdcTLssFni2KpDg="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["LtyFWt0d6QQuQ4hH1YlautIidNU="]=a.current})($__dart_deferred_initializers__);
