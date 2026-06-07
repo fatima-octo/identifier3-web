@@ -45,7 +45,7 @@ v=A.ad(x.c)
 u=A.aM(o.ch,1)
 t=q.c
 s=t.a
-s=A.qn(A.oa(d,s),F.a03(d,s),t.d,x.fy,p,40)
+s=A.qn(A.o9(d,s),F.a03(d,s),t.d,x.fy,p,40)
 r=q.d
 x=A.h(p,x.x,p)
 return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cU(C.ev,p,p,A.aD(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.U(w,w,w,w),p,p,p)}}
@@ -55,12 +55,12 @@ B.aFF.prototype={
 $0(){return this.a.hD(0,"settings")},
 $S:0}
 B.aFG.prototype={
-$1(d){return this.a.al1(D.wQ[this.b].a,!d)},
+$1(d){return this.a.al2(D.wQ[this.b].a,!d)},
 $S:3}
 B.aFH.prototype={
 $0(){var x,w=D.wQ[this.b],v=this.a.x
 if(v!=null){x=y.w
-v.akd("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
+v.ake("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.M,[B.yy,B.amc])
 x(A.lg,[B.aFF,B.aFH])
@@ -81,4 +81,4 @@ D.bBM=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBS=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dG)
 D.bBL=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
 D.wQ=x([D.bBU,D.bBR,D.bBP,D.bBO,D.bBV,D.bBN,D.bBW,D.bBT,D.bBQ,D.bBM,D.bBS,D.bBL],A.a6("w<l2>"))})()};
-(a=>{a["Rnmmr4akN0Gs+rZac6fb69YzVAc="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["WjQF/Ir6WSHCgWqJwPFr2ob/IKo="]=a.current})($__dart_deferred_initializers__);
