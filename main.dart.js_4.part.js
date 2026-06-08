@@ -72,13 +72,13 @@ D.bBe=new B.l2("people","People","Track employees, contractors, and visitors in 
 D.bBb=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iZ)
 D.bB9=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iW)
 D.bB8=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.ew)
-D.bBf=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kK)
+D.bBf=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kL)
 D.bB7=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fS)
-D.bBg=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kM)
+D.bBg=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kN)
 D.bBd=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nD)
-D.bBa=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kL)
-D.bB6=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kJ)
+D.bBa=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kM)
+D.bB6=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kK)
 D.bBc=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dz)
 D.bB5=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ew)
 D.wu=x([D.bBe,D.bBb,D.bB9,D.bB8,D.bBf,D.bB7,D.bBg,D.bBd,D.bBa,D.bB6,D.bBc,D.bB5],A.a6("w<l2>"))})()};
-(a=>{a["LVHpPbT1ZEf7u7td+p9VAZIgKPA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["XUXwU7XZ3XjbQDYwQYwzrveTOhI="]=a.current})($__dart_deferred_initializers__);

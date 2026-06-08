@@ -54,7 +54,7 @@ this.a=e},
 bQe(d,e,f){return new B.Qq(d,e,f)},
 cm7(d){switch(d){case"beginner":return C.hx
 case"intermediate":return C.iC
-case"advanced":return C.kp}return C.bl},
+case"advanced":return C.kq}return C.bl},
 Qq:function Qq(d,e,f){this.a=d
 this.b=e
 this.c=f},
@@ -171,7 +171,7 @@ s=x.Q
 r=n.f
 q=y.u
 p=x.x
-return A.a2(o,A.t(A.a([A.S(A.a([A.a2(C.G,A.aR(C.dz,n.RG,o,24),C.y,o,o,new A.ab(n.to,o,o,t,o,o,C.H),o,48,o,o,o,o,o,48),A.e(o,o,s),A.a8(A.t(A.a([A.ae("Getting Started with Identifier",o,o,A.r(o,o,n.d,o,o,o,o,o,o,o,o,A.p(C.hl),o,o,A.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),A.e(o,x.f,o),A.ae("Complete guide to setting up your factory identity management system",o,o,A.r(o,o,r,o,o,o,o,o,o,o,o,A.p(C.E),o,o,A.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],q),C.S,C.n,C.p,0,C.q),1)],q),C.S,C.n,C.p,0,o),A.e(o,s,o),A.S(A.a([new B.P8(C.kG,"15 min",o),A.e(o,o,s),new B.P8(C.e5,"Updated 2024-01-15",o),A.e(o,o,s),A.ae("\u2022",o,o,A.r(o,o,r,o,o,o,o,o,o,o,o,A.p(C.E),o,o,A.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o),A.e(o,o,s),D.a7L],q),C.z,C.n,C.p,0,o),A.e(o,s,o),A.S(A.a([A.aE(o,!1,C.G,o,o,!1,"Share",E.vu,o,new B.aIx(),o,C.b7,o,C.ab,o),A.e(o,o,p),A.aE(o,!1,C.G,o,o,!1,"Print",C.ch,o,new B.aIy(),o,C.b7,o,C.ab,o),A.e(o,o,p),A.aE(o,!1,C.G,o,o,!1,"Download",C.dJ,o,new B.aIz(),o,C.b7,o,C.ab,o)],q),C.z,C.n,C.p,0,o)],q),C.S,C.n,C.p,0,C.q),C.y,o,o,new A.ab(n.r,o,u,v,o,o,C.H),o,o,o,o,new A.J(w,w,w,w),o,o,o)}}
+return A.a2(o,A.t(A.a([A.S(A.a([A.a2(C.G,A.aR(C.dz,n.RG,o,24),C.y,o,o,new A.ab(n.to,o,o,t,o,o,C.H),o,48,o,o,o,o,o,48),A.e(o,o,s),A.a8(A.t(A.a([A.ae("Getting Started with Identifier",o,o,A.r(o,o,n.d,o,o,o,o,o,o,o,o,A.p(C.hl),o,o,A.q(C.D),o,o,!0,o,o,o,o,o,o,o,o).a2(C.P),o),A.e(o,x.f,o),A.ae("Complete guide to setting up your factory identity management system",o,o,A.r(o,o,r,o,o,o,o,o,o,o,o,A.p(C.E),o,o,A.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o)],q),C.S,C.n,C.p,0,C.q),1)],q),C.S,C.n,C.p,0,o),A.e(o,s,o),A.S(A.a([new B.P8(C.kH,"15 min",o),A.e(o,o,s),new B.P8(C.e5,"Updated 2024-01-15",o),A.e(o,o,s),A.ae("\u2022",o,o,A.r(o,o,r,o,o,o,o,o,o,o,o,A.p(C.E),o,o,A.q(C.A),o,o,!0,o,o,o,o,o,o,o,o),o),A.e(o,o,s),D.a7L],q),C.z,C.n,C.p,0,o),A.e(o,s,o),A.S(A.a([A.aE(o,!1,C.G,o,o,!1,"Share",E.vu,o,new B.aIx(),o,C.b7,o,C.ab,o),A.e(o,o,p),A.aE(o,!1,C.G,o,o,!1,"Print",C.ch,o,new B.aIy(),o,C.b7,o,C.ab,o),A.e(o,o,p),A.aE(o,!1,C.G,o,o,!1,"Download",C.dJ,o,new B.aIz(),o,C.b7,o,C.ab,o)],q),C.z,C.n,C.p,0,o)],q),C.S,C.n,C.p,0,C.q),C.y,o,o,new A.ab(n.r,o,u,v,o,o,C.H),o,o,o,o,new A.J(w,w,w,w),o,o,o)}}
 B.rA.prototype={
 p(d){var x,w=null,v=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 v.toString
@@ -192,7 +192,7 @@ return new A.ar(new A.J(0,x,0,x),A.H8(A.dp(A.a([w,A.dp(u,u,u,u,u,u,u,u,u,A.r(u,u
 B.a81.prototype={
 p(d){var x=null,w=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 w.toString
-if(this.c)return A.aE(x,!1,C.G,w.cx,x,!1,"Completed",C.kH,x,this.d,x,C.b7,x,C.ab,x)
+if(this.c)return A.aE(x,!1,C.G,w.cx,x,!1,"Completed",C.kI,x,this.d,x,C.b7,x,C.ab,x)
 return A.aE(x,!1,C.G,x,x,!1,"Mark Complete",x,A.a2(x,x,C.y,x,x,new A.ab(x,x,A.aM(w.ch,1.5),x,x,x,C.c8),x,14,x,x,x,x,x,14),this.d,x,C.b7,x,C.ab,x)}}
 B.P8.prototype={
 p(d){var x,w,v=null,u=y.F.a(A.f(d).c.h(0,A.j(y.C)))
@@ -229,7 +229,7 @@ s=A.e(n,s,n)
 x=x.w
 q=o.a.c
 p=q.c
-return A.iC(A.ph(n,A.t(A.a([m,s,A.h8(C.bB,A.a([new A.df(q.b,C.bl,C.aY,n,n),new A.df(p,B.cm7(p),C.aY,n,n)],r),C.c5,x,x)],r),C.S,C.n,C.p,0,C.q),n,n,C.b9,new A.ab(v,n,t,u,n,n,C.H),C.kz,n,new A.J(w,w,w,w),n),C.fv,n,new B.bpA(o),new B.bpB(o),n)}}
+return A.iC(A.ph(n,A.t(A.a([m,s,A.fV(C.by,A.a([new A.df(q.b,C.bl,C.aY,n,n),new A.df(p,B.cm7(p),C.aY,n,n)],r),C.c5,x,x)],r),C.S,C.n,C.p,0,C.q),n,n,C.b9,new A.ab(v,n,t,u,n,n,C.H),C.kA,n,new A.J(w,w,w,w),n),C.fv,n,new B.bpA(o),new B.bpB(o),n)}}
 B.acn.prototype={
 p(d){var x,w,v,u,t=null,s=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 s.toString
@@ -277,7 +277,7 @@ x=x.y
 t=A.ad(t)
 q=A.r(o,o,u,o,o,o,o,o,o,o,o,A.p(C.E),o,o,A.q(C.A),o,o,!0,o,o,o,o,o,o,o,o)
 q=A.a([A.a8(A.U(p.c,o,o,o,o,o,o,q.a2(w?C.hF:C.av),o,o,o,o,o),1)],y.u)
-if(p.e)q.push(A.aR(C.kH,w?n.dy:n.cx,o,20))
+if(p.e)q.push(A.aR(C.kI,w?n.dy:n.cx,o,20))
 else q.push(A.a2(o,o,C.y,o,o,new A.ab(o,o,A.aM(w?n.dy.c_(0.7):n.ch,1.5),o,o,o,C.c8),o,18,o,o,o,o,o,18))
 return A.eq(!1,s,!0,A.a2(o,A.S(q,C.z,C.n,C.p,0,o),C.y,o,o,new A.ab(v,o,o,t,o,o,C.H),o,o,o,o,new A.J(r,x,r,x),o,o,o),o,!0,o,o,o,o,o,o,o,o,o,o,p.f,o,o,o,o)}}
 var z=a.updateTypes(["~()"])
@@ -372,4 +372,4 @@ D.bjw=new B.aaW(null)
 D.bmC=new B.acn(null)
 D.bwr=new B.agk(null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"cBH","c4B",()=>A.a([B.bQe("Entity Management Guide","entity-management","intermediate"),B.bQe("User Roles & Permissions","user-management","beginner"),B.bQe("Advanced Reporting Features","compliance","advanced")],A.a6("w<Qq>")))})()};
-(a=>{a["H+MF0Y7ov3G9/giAZAm+Bo7Fih0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["pXNP1efCAZq/ocXDSRVGlpeP1Qk="]=a.current})($__dart_deferred_initializers__);

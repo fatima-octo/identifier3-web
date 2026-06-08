@@ -310,7 +310,7 @@ t=t==null?null:t.a
 if(t==null)t="fld-"+Date.now()
 x=u.gxL()
 w=u.gor()
-v=u.gor()===C.kr?u.ga6D():C.Q
+v=u.gor()===C.ks?u.ga6D():C.Q
 return new A.i5(t,x,w,v,u.ga7o(),u.gpC(),u.ga5_())},
 avS(){var x,w=this
 if(C.m.Z(w.gxL()).length===0)return
@@ -356,12 +356,12 @@ o=A.a([],y.d)
 for(n=y.z,m=0;m<9;++m){l=C.Nj[m]
 o.push(new A.bb(l,new A.bt(B.bOH(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cK(j,"Single-line Text",!0,o,"Field Type",new B.bbp(k),C.aC,p,y.T),A.e(j,x,j),new A.ko(k.ga7o(),new B.bbq(k),"Required",j,!1,j),A.e(j,x,j),A.cK(j,"Select group or leave ungrouped",!1,D.b4K,"Group Assignment",j,C.aC,j,y.N),A.e(j,v,j),A.ae("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
-if(k.gor()===C.kr)C.f.v(i,A.a([A.e(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bbr(k),j,C.af,C.ac,j,C.a7,k.ga6i())],n))
+if(k.gor()===C.ks)C.f.v(i,A.a([A.e(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bbr(k),j,C.af,C.ac,j,C.a7,k.ga6i())],n))
 i.push(A.e(j,x,j))
-if(k.gor()===C.kr)i.push(k.ato(d))
+if(k.gor()===C.ks)i.push(k.ato(d))
 else if(k.gor()===C.Br)i.push(k.atl(d))
 else if(k.gor()===C.Bs)i.push(k.atH(d))
-else if(k.gor()===C.uf||k.gor()===C.ks)i.push(C.aG)
+else if(k.gor()===C.uf||k.gor()===C.kt)i.push(C.aG)
 else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.bbs(k),j,C.af,C.ac,j,C.a7,k.gpC()))
 i.push(A.e(j,x,j))
 i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.bbt(k),j,C.af,C.ac,j,C.a7,k.ga5_()))
@@ -382,7 +382,7 @@ x=n.ga6D()
 w=n.gpC().length!==0&&C.f.n(x,n.gpC())?n.gpC():m
 v=x.length===0
 u=v?"Add options above to enable":"Select a default option"
-v=v?C.kq:C.aC
+v=v?C.kr:C.aC
 t=A.a([],y.t)
 for(s=x.length,r=y.O,q=0;p=x.length,q<p;x.length===s||(0,A.M)(x),++q){o=x[q]
 t.push(new A.bb(o,new A.bt(o,m,m,m,m,m),C.a1,m,r))}s=p===0?m:new B.bbw(n)
@@ -410,7 +410,7 @@ C.f.v(o,A.a([A.e(m,m,x.r),A.ae("*",m,m,A.r(m,m,l.db,m,m,m,m,m,m,m,m,A.p(C.Y),m,m
 x=q.c
 o.push(new A.df(B.bOH(x),C.bl,C.fk,m,m))
 o=A.a([A.S(o,C.z,C.n,C.p,0,m)],p)
-if(x===C.kr&&q.d.length!==0)C.f.v(o,A.a([A.e(m,v.f,m),A.U(A.h(d,"Options: "+C.f.bl(q.d,", ")),m,m,m,m,m,m,A.r(m,m,l.f,m,m,m,m,m,m,m,m,A.p(C.E),m,m,A.q(C.A),m,m,!0,m,m,m,m,m,m,m,m),m,m,m,m,m)],p))
+if(x===C.ks&&q.d.length!==0)C.f.v(o,A.a([A.e(m,v.f,m),A.U(A.h(d,"Options: "+C.f.bl(q.d,", ")),m,m,m,m,m,m,A.r(m,m,l.f,m,m,m,m,m,m,m,m,A.p(C.E),m,m,A.q(C.A),m,m,!0,m,m,m,m,m,m,m,m),m,m,m,m,m)],p))
 x=v.k3
 w=l.f
 return A.a2(m,A.S(A.a([new B.acX(n.d,n.e,n.f,n.r,m),r,A.a8(A.t(o,C.S,C.n,C.p,0,C.q),1),A.hT(m,m,A.aR(C.ev,w,m,x),m,m,n.w,m,m,m,m,m),A.hT(m,m,A.aR(D.ad4,w,m,x),m,m,n.x,m,m,m,m,m),A.hT(m,m,A.aR(C.fR,l.db,m,x),m,m,n.y,m,m,m,m,m)],p),C.z,C.n,C.p,0,m),C.y,m,m,new A.ab(l.r,m,s,t,m,m,C.H),m,m,m,m,new A.J(u,u,u,u),m,m,m)}}
@@ -512,7 +512,7 @@ x=r.d.w
 if(x.length===0)p.push(A.ae("No categories yet \u2014 add one above.",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q))
 else{v=A.a([],v)
 for(u=x.length,t=0;t<x.length;x.length===u||(0,A.M)(x),++t){s=x[t]
-v.push(new B.a1l(s,new B.aFn(r,d,s),new B.aFo(r,s),q))}p.push(A.h8(C.bB,v,C.c5,w,w))}return A.bA(A.t(p,C.v,C.n,C.p,0,C.q),q,"Define categories to organize your "+r.c.c.toLowerCase(),"Entity Categories",q,C.ao)}}
+v.push(new B.a1l(s,new B.aFn(r,d,s),new B.aFo(r,s),q))}p.push(A.fV(C.by,v,C.c5,w,w))}return A.bA(A.t(p,C.v,C.n,C.p,0,C.q),q,"Define categories to organize your "+r.c.c.toLowerCase(),"Entity Categories",q,C.ao)}}
 B.acX.prototype={
 p(d){var x=this
 return A.t(A.a([new B.Ku(C.CF,x.c,x.e,null),new B.Ku(C.vg,x.d,x.f,null)],y.p),C.z,C.n,C.M,0,C.q)}}
@@ -748,4 +748,4 @@ D.a8P=new A.bb(C.De,D.b9R,C.a1,null,y.q)
 D.ba4=new A.bt("Detailed",null,null,null,null,null)
 D.a9d=new A.bb(C.Df,D.ba4,C.a1,null,y.q)
 D.b5P=x([D.a94,D.a8P,D.a9d],A.a6("w<bb<kB>>"))})()};
-(a=>{a["DaJwm+cgjvW0lPQZZxylhTFgOwo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ksPrDSX1WyuZsGhMUk7o27RYk+Q="]=a.current})($__dart_deferred_initializers__);
