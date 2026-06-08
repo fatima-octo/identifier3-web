@@ -206,9 +206,9 @@ n=v.x
 a0=A.R(A.a([A.a9(A.t(A.a([A.ae("Create New Role",d,d,A.r(d,d,a0.a,d,d,d,d,d,d,d,d,A.p(B.az),d,d,A.q(B.D),d,d,!0,d,d,d,d,d,d,d,d),d),A.d(d,a1,d),A.ae("Define a new role by specifying its name and selecting the appropriate permissions.",d,d,A.r(d,d,w,d,d,d,d,d,d,d,d,A.p(B.F),d,d,A.q(B.A),d,d,!0,d,d,d,d,d,d,d,d),d)],o),B.R,B.m,B.p,0,B.q),1),A.d(d,d,n),A.jX(d,d,A.aO(B.cR,w,d,d),d,d,new C.b8G(a3),d,18,d,d,d)],o),B.R,B.m,B.p,0,d)
 m=v.Q
 l=A.d(d,m,d)
-k=A.bh(d,!1,d,"Enter role name (e.g., Supervisor, Technician)",!1,!0,"Role Name",new C.b8H(e),d,B.ae,B.ab,d,B.a7,e.d)
+k=A.bh(d,!1,d,"Enter role name (e.g., Supervisor, Technician)",!1,!0,"Role Name",new C.b8H(e),d,B.ah,B.ab,d,B.a7,e.d)
 j=A.d(d,m,d)
-i=A.bh(d,!1,d,"Enter role description",!1,!1,"Description (Optional)",new C.b8I(e),d,B.ae,B.ab,d,B.a7,e.e)
+i=A.bh(d,!1,d,"Enter role description",!1,!1,"Description (Optional)",new C.b8I(e),d,B.ah,B.ab,d,B.a7,e.e)
 h=A.d(d,m,d)
 a2=A.ae("Permissions",d,d,A.r(d,d,a2.d,d,d,d,d,d,d,d,d,A.p(B.F),d,d,A.q(B.D),d,d,!0,d,d,d,d,d,d,d,d),d)
 a1=A.d(d,a1,d)
@@ -404,4 +404,4 @@ D.abL=new C.hK("system_configuration","System Configuration")
 D.abS=new C.hK("audit_logs","Audit Logs")
 D.qo=x([D.abT,D.abU,D.abN,D.abV,D.abP,D.abO,D.abM,D.abR,D.abQ,D.abL,D.abS],A.a8("u<hK>"))
 D.xk=new A.aC(B.cJ,[],A.a8("aC<c,co<c>>"))})()};
-(a=>{a["L82ZJA3Qg7HGFLYABrPsMW9eotA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["wXJ7rUkWwhdz2hVAgLX8fHJKDjc="]=a.current})($__dart_deferred_initializers__);

@@ -228,7 +228,7 @@ u=w.b
 t=o.f
 s=x.Q
 r=x.x
-return A.t(A.a([A.ae("ID Format",p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.Y),p,p,A.q(C.D),p,p,!0,p,p,p,p,p,p,p,p).a2(C.O),p),A.d(p,x.f,p),A.ae("Configure how IDs are generated",p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p),A.d(p,s,p),A.b_(!1,12,A.bh(p,!1,p,"EMP-",!1,!1,"Prefix",new B.bhg(q),p,C.ae,C.ab,p,C.a7,v),A.bh(p,!1,p,"1000",!1,!1,"Starting Number",new B.bhh(q),p,C.ae,C.bY,p,C.a7,C.t.j(u))),A.d(p,r,p),A.a1(A.h(d,"Example: "+(v+u+", "+v+(u+1)+"\u2026")),p,p,p,p,p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),A.d(p,s,p),A.cH(p,"Standard",!1,D.b6_,"Label Template",new B.bhi(q),C.aC,w.d,y.L),A.d(p,s,p),A.cH(p,"Default Printer",!1,D.aZ5,"Printer Mapping",new B.bhj(q),C.aC,w.e,y.N),A.d(p,s,p),new A.ko(w.f,new B.bhk(q),"Include QR Code",p,!1,p),A.d(p,r,p),new A.ko(w.r,new B.bhl(q),"Include Barcode",p,!1,p)],y.p),C.v,C.m,C.p,0,C.q)}}
+return A.t(A.a([A.ae("ID Format",p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.Y),p,p,A.q(C.D),p,p,!0,p,p,p,p,p,p,p,p).a2(C.O),p),A.d(p,x.f,p),A.ae("Configure how IDs are generated",p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p),A.d(p,s,p),A.b_(!1,12,A.bh(p,!1,p,"EMP-",!1,!1,"Prefix",new B.bhg(q),p,C.ah,C.ab,p,C.a7,v),A.bh(p,!1,p,"1000",!1,!1,"Starting Number",new B.bhh(q),p,C.ah,C.bY,p,C.a7,C.t.j(u))),A.d(p,r,p),A.a1(A.h(d,"Example: "+(v+u+", "+v+(u+1)+"\u2026")),p,p,p,p,p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),A.d(p,s,p),A.cH(p,"Standard",!1,D.b6_,"Label Template",new B.bhi(q),C.aC,w.d,y.L),A.d(p,s,p),A.cH(p,"Default Printer",!1,D.aZ5,"Printer Mapping",new B.bhj(q),C.aC,w.e,y.N),A.d(p,s,p),new A.ko(w.f,new B.bhk(q),"Include QR Code",p,!1,p),A.d(p,r,p),new A.ko(w.r,new B.bhl(q),"Include Barcode",p,!1,p)],y.p),C.v,C.m,C.p,0,C.q)}}
 B.aoo.prototype={
 p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(A.f(d).c.h(0,A.j(y.S)))
 p.toString
@@ -273,11 +273,11 @@ B.akM.prototype={
 ga1j(){var x=this.d
 return x===$?this.d=this.a.c:x},
 p(d){var x=null
-return A.bMA(A.bh(x,!1,x,"New name",!1,!1,"Category",new B.b7o(this),new B.b7p(d),C.ae,C.ab,x,C.a7,this.ga1j()),"Cancel","Save",C.aO,x,480,new B.b7q(d),new B.b7r(this,d),!0,"Rename category")}}
+return A.bMA(A.bh(x,!1,x,"New name",!1,!1,"Category",new B.b7o(this),new B.b7p(d),C.ah,C.ab,x,C.a7,this.ga1j()),"Cancel","Save",C.aO,x,480,new B.b7q(d),new B.b7r(this,d),!0,"Rename category")}}
 B.yb.prototype={
 T(){return new B.UY()}}
 B.UY.prototype={
-gxw(){var x,w=this.d
+gxv(){var x,w=this.d
 if(w===$){x=this.a.c
 w=x==null?null:x.b
 w=this.d=w==null?"":w}return w},
@@ -308,15 +308,15 @@ return x},
 ga2M(){var x,w,v,u=this,t=u.a.c
 t=t==null?null:t.a
 if(t==null)t="fld-"+Date.now()
-x=u.gxw()
+x=u.gxv()
 w=u.goh()
 v=u.goh()===C.kv?u.ga6O():C.Q
 return new A.i_(t,x,w,v,u.ga7B(),u.gpz(),u.ga4Z())},
 aw4(){var x,w=this
-if(C.n.W(w.gxw()).length===0)return
+if(C.n.W(w.gxv()).length===0)return
 x=w.c
 x.toString
-A.dd(x,!1).fD(w.ga2M().eM(C.n.W(w.gxw())))},
+A.dd(x,!1).fD(w.ga2M().eL(C.n.W(w.gxv())))},
 p(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.K,k=y.r,j=k.a(A.f(d).c.h(0,A.j(l)))
 j.toString
 x=n.a.c==null?"Add Custom Field":"Edit Custom Field"
@@ -335,7 +335,7 @@ l=A.ac(l.c)
 q=A.aN(v.ch,1)
 p=n.ga2M()
 o=y.p
-o=A.R(A.a([w,j,A.a9(A.t(A.a([k,u,t,r,A.a4(m,A.bTa(p.eM(C.n.W(n.gxw()).length===0?"Field Label":C.n.W(n.gxw())),m,m,m,!0,n.gpz()),C.y,m,m,new A.aa(v.r,m,q,l,m,m,C.G),m,m,m,m,new A.G(s,s,s,s),m,m,m),A.d(m,s,m),A.aBK(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bMB(n.goh()))],o),C.v,C.m,C.M,0,C.q),1)],o),C.R,C.m,C.p,0,m)
+o=A.R(A.a([w,j,A.a9(A.t(A.a([k,u,t,r,A.a4(m,A.bTa(p.eL(C.n.W(n.gxv()).length===0?"Field Label":C.n.W(n.gxv())),m,m,m,!0,n.gpz()),C.y,m,m,new A.aa(v.r,m,q,l,m,m,C.G),m,m,m,m,new A.G(s,s,s,s),m,m,m),A.d(m,s,m),A.aBK(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bMB(n.goh()))],o),C.v,C.m,C.M,0,C.q),1)],o),C.R,C.m,C.p,0,m)
 l=n.a.c==null?"Add Field":"Save"
 return A.bMA(new A.mr(o,m),"Cancel",l,C.aO,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.bag(d),n.gaw3(),!0,x)},
 atp(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.f(d).c.h(0,A.j(y.S)))
@@ -349,22 +349,22 @@ i=i.f
 t=A.ae("Define the properties of your custom field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.F),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)
 x=x.Q
 s=A.d(j,x,j)
-r=A.bh(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.ba2(k),j,C.ae,C.ab,j,C.a7,k.gxw())
+r=A.bh(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.ba2(k),j,C.ah,C.ab,j,C.a7,k.gxv())
 q=A.d(j,x,j)
 p=k.goh()
 o=A.a([],y.d)
 for(n=y.z,m=0;m<9;++m){l=C.Np[m]
 o.push(new A.b9(l,new A.bs(B.bMB(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cH(j,"Single-line Text",!0,o,"Field Type",new B.ba3(k),C.aC,p,y.T),A.d(j,x,j),new A.ko(k.ga7B(),new B.ba4(k),"Required",j,!1,j),A.d(j,x,j),A.cH(j,"Select group or leave ungrouped",!1,D.b4X,"Group Assignment",j,C.aC,j,y.N),A.d(j,v,j),A.ae("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.F),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
-if(k.goh()===C.kv)C.f.t(i,A.a([A.d(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.ba5(k),j,C.ae,C.ab,j,C.a7,k.ga6u())],n))
+if(k.goh()===C.kv)C.f.t(i,A.a([A.d(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.ba5(k),j,C.ah,C.ab,j,C.a7,k.ga6u())],n))
 i.push(A.d(j,x,j))
 if(k.goh()===C.kv)i.push(k.atr(d))
 else if(k.goh()===C.Bn)i.push(k.ato(d))
 else if(k.goh()===C.Bo)i.push(k.atS(d))
 else if(k.goh()===C.ut||k.goh()===C.kw)i.push(C.aP)
-else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.ba6(k),j,C.ae,C.ab,j,C.a7,k.gpz()))
+else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.ba6(k),j,C.ah,C.ab,j,C.a7,k.gpz()))
 i.push(A.d(j,x,j))
-i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.ba7(k),j,C.ae,C.ab,j,C.a7,k.ga4Z()))
+i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.ba7(k),j,C.ah,C.ab,j,C.a7,k.ga4Z()))
 return A.t(i,C.v,C.m,C.M,0,C.q)},
 ato(d){var x,w=null,v=y.a.a(A.f(d).c.h(0,A.j(y.S)))
 v.toString
@@ -448,7 +448,7 @@ a5Z(d,e){var x,w
 if(d===e||e<0||e>=this.d.x.length)return
 x=this.d
 w=A.T(x.x,y.I)
-C.f.el(w,e,C.f.eF(w,d))
+C.f.el(w,e,C.f.eE(w,d))
 this.e.$1(x.Cw(w))},
 p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=null,h=y.a.a(A.f(d).c.h(0,A.j(y.S)))
 h.toString
@@ -483,11 +483,11 @@ if(u.length===0){x.w.$0()
 return}w=x.d
 v=A.T(w.w,y.N)
 C.f.t(v,u)
-x.e.$1(w.yc(v))
+x.e.$1(w.yb(v))
 x.w.$0()},
 aKV(d){var x=this.d,w=x.w,v=A.a5(w).i("aE<1>")
 w=A.T(new A.aE(w,new B.aFP(d),v),v.i("K.E"))
-this.e.$1(x.yc(w))},
+this.e.$1(x.yb(w))},
 GF(d,e){return this.axp(d,e)},
 axp(d,e){var x=0,w=A.E(y.H),v,u=this,t,s,r,q,p,o,n
 var $async$GF=A.A(function(f,g){if(f===1)return A.B(g,w)
@@ -497,7 +497,7 @@ case 3:n=g
 if(n==null||n===e){x=1
 break}t=A.a([],y.s)
 for(s=u.d,r=s.w,q=r.length,p=0;p<r.length;r.length===q||(0,A.J)(r),++p){o=r[p]
-t.push(o===e?n:o)}u.e.$1(s.yc(t))
+t.push(o===e?n:o)}u.e.$1(s.yb(t))
 case 1:return A.C(v,w)}})
 return A.D($async$GF,w)},
 p(d){var x,w,v,u,t,s,r=this,q=null,p=y.a.a(A.f(d).c.h(0,A.j(y.S)))
@@ -507,7 +507,7 @@ x.toString
 w=x.x
 v=y.p
 u=p.f
-p=A.a([A.R(A.a([A.a9(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaND(),C.ae,C.ab,q,C.a7,r.f),1),A.d(q,q,w),new A.an(new A.G(0,0,0,x.r),A.aG(q,!1,C.I,q,q,!1,"Add",q,q,new B.aFT(r),q,C.a6,q,C.aO,q),q)],v),C.fg,C.m,C.p,0,q),A.d(q,x.f,q),A.ae("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.ae("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
+p=A.a([A.R(A.a([A.a9(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaND(),C.ah,C.ab,q,C.a7,r.f),1),A.d(q,q,w),new A.an(new A.G(0,0,0,x.r),A.aG(q,!1,C.I,q,q,!1,"Add",q,q,new B.aFT(r),q,C.a6,q,C.aO,q),q)],v),C.fg,C.m,C.p,0,q),A.d(q,x.f,q),A.ae("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.ae("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
 x=r.d.w
 if(x.length===0)p.push(A.ae("No categories yet \u2014 add one above.",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q))
 else{v=A.a([],v)
@@ -748,4 +748,4 @@ D.a92=new A.b9(C.Di,D.ba0,C.a1,null,y.q)
 D.bad=new A.bs("Detailed",null,null,null,null,null)
 D.a9r=new A.b9(C.Dj,D.bad,C.a1,null,y.q)
 D.b6_=x([D.a9i,D.a92,D.a9r],A.a8("u<b9<kB>>"))})()};
-(a=>{a["VGUZ6v70/NnUHjAlpQmKt6iL8J4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Dx5hGT5ebRKtrz/5HbIf0N1WxnM="]=a.current})($__dart_deferred_initializers__);
