@@ -29,8 +29,8 @@ p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.i(d).c.h(0,A.m(y.D)))
 q.toString
 x=A.aC(d).a
 w=y.u
-v=A.a([A.G7(C.ab,new B.aFF(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.h(r,q.z,r)],w)
-for(q=q.x,u=0;u<12;++u){t=A.a([],w)
+v=A.a([A.G7(C.ab,new B.aFF(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.h(r,q.as,r)],w)
+for(q=q.z,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.bc(r,q,r,r))
 s=D.wQ[u]
 t.push(new B.amc(s,!x.e.n(0,s.a),new B.aFG(x,u),new B.aFH(x,u),r))
@@ -40,14 +40,14 @@ p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.i(d).c.h(0,A.m(y.C)))
 o.toString
 x=y.y.a(A.i(d).c.h(0,A.m(y.D)))
 x.toString
-w=x.z
-v=A.ad(x.c)
+w=x.as
+v=A.ad(x.d)
 u=A.aM(o.ch,1)
 t=q.c
 s=t.a
-s=A.qn(A.o9(d,s),F.a03(d,s),t.d,x.fy,p,40)
+s=A.qn(A.o9(d,s),F.a03(d,s),t.d,x.id,p,40)
 r=q.d
-x=A.h(p,x.x,p)
+x=A.h(p,x.z,p)
 return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cU(C.ev,p,p,A.aD(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.U(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
@@ -68,17 +68,17 @@ w(B.aFG,A.iS)
 w(B.l2,A.O)})()
 A.nU(b.typeUniverse,JSON.parse('{"yy":{"M":[],"d":[],"f":[]},"amc":{"M":[],"d":[],"f":[]}}'))
 var y={C:A.a6("ef"),D:A.a6("eB"),u:A.a6("w<d>"),w:A.a6("c"),F:A.a6("ef?"),y:A.a6("eB?")};(function constants(){var x=a.makeConstList
-D.bBU=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dQ)
-D.bBR=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.jh)
-D.bBP=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.je)
-D.bBO=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.eH)
-D.bBV=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.l4)
-D.bBN=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.h7)
-D.bBW=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.l6)
-D.bBT=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nY)
-D.bBQ=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.l5)
-D.bBM=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.l3)
-D.bBS=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dG)
-D.bBL=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
-D.wQ=x([D.bBU,D.bBR,D.bBP,D.bBO,D.bBV,D.bBN,D.bBW,D.bBT,D.bBQ,D.bBM,D.bBS,D.bBL],A.a6("w<l2>"))})()};
-(a=>{a["VT0fzm5P6efcCUEW+7DZx3jTvRA="]=a.current})($__dart_deferred_initializers__);
+D.bBS=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dQ)
+D.bBP=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.jh)
+D.bBN=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.je)
+D.bBM=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.eH)
+D.bBT=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.l4)
+D.bBL=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.h7)
+D.bBU=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.l6)
+D.bBR=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nY)
+D.bBO=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.l5)
+D.bBK=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.l3)
+D.bBQ=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dG)
+D.bBJ=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.eH)
+D.wQ=x([D.bBS,D.bBP,D.bBN,D.bBM,D.bBT,D.bBL,D.bBU,D.bBR,D.bBO,D.bBK,D.bBQ,D.bBJ],A.a6("w<l2>"))})()};
+(a=>{a["21KKZ+hAZaCvoT/QH1Bs2YazL/A="]=a.current})($__dart_deferred_initializers__);
