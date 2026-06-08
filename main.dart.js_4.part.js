@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-cbs(){return new B.yy(null)},
+cba(){return new B.yy(null)},
 yy:function yy(d){this.a=d},
 aFF:function aFF(d){this.a=d},
 aFG:function aFG(d,e){this.a=d
@@ -27,7 +27,7 @@ F=c[15]
 B.yy.prototype={
 p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.f(d).c.h(0,A.j(y.D)))
 q.toString
-x=A.aC(d).a
+x=A.aD(d).a
 w=y.u
 v=A.a([A.G7(C.ab,new B.aFF(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.e(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
@@ -48,7 +48,7 @@ s=t.a
 s=A.qn(A.o9(d,s),F.a03(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.e(p,x.Q,p)
-return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cU(C.ek,p,p,A.aD(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.J(w,w,w,w),p,p,p)}}
+return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cT(C.ek,p,p,A.aE(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.J(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
 B.aFF.prototype={
@@ -81,4 +81,4 @@ D.bB5=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBb=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dz)
 D.bB4=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ew)
 D.wv=x([D.bBd,D.bBa,D.bB8,D.bB7,D.bBe,D.bB6,D.bBf,D.bBc,D.bB9,D.bB5,D.bBb,D.bB4],A.a6("w<l2>"))})()};
-(a=>{a["GeLuEC/o81RWaRlkvVlZD9L6cQ0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["3+HO6YuymX1EZQXvcKByG8AaVnk="]=a.current})($__dart_deferred_initializers__);
