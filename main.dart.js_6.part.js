@@ -193,9 +193,9 @@ u.E(new B.bdY(u))
 case 1:return A.A(v,w)}})
 return A.B($async$Qa,w)},
 m(){this.aD()},
-p(d){var x,w,v,u,t,s=this,r=null,q=s.d,p=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s=this,r=null,q=s.d,p=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 p.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=A.aC(d)
 if(q==null)return A.c1(A.T(A.e(d,'Unknown entity "'+s.a.c+'".'),r,r,r,r,r,r,A.r(r,r,p.f,r,r,r,r,r,r,r,r,A.p(C.Y),r,r,A.q(C.A),r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r,r),r,r)
@@ -213,14 +213,14 @@ p.push(A.h(r,x.x,r))
 p.push(new B.a42(s.f,w,r))
 return A.t(p,C.v,C.n,C.p,0,C.q)}}
 B.anZ.prototype={
-p(d){var x,w=null,v=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+p(d){var x,w=null,v=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 v.toString
 x=this.d
 return A.bA(A.aZ(!1,v.z,new B.anD(x,this.e,w),new B.ao_(this.c,x,w)),w,"Configure ID format and label printing settings for this entity type","Label & Identification",w,C.ao)}}
 B.anD.prototype={
-p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 o.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=q.d
 v=w.a
@@ -230,9 +230,9 @@ s=x.x
 r=x.r
 return A.t(A.a([A.ae("ID Format",p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.Y),p,p,A.q(C.D),p,p,!0,p,p,p,p,p,p,p,p).a2(C.P),p),A.h(p,x.d,p),A.ae("Configure how IDs are generated",p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p),A.h(p,s,p),A.aZ(!1,12,A.bh(p,!1,p,"EMP-",!1,!1,"Prefix",new B.biD(q),p,C.af,C.ac,p,C.a7,v),A.bh(p,!1,p,"1000",!1,!1,"Starting Number",new B.biE(q),p,C.af,C.bZ,p,C.a7,C.t.j(u))),A.h(p,r,p),A.T(A.e(d,"Example: "+(v+u+", "+v+(u+1)+"\u2026")),p,p,p,p,p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),A.h(p,s,p),A.cK(p,"Standard",!1,D.b6x,"Label Template",new B.biF(q),C.aC,w.d,y.L),A.h(p,s,p),A.cK(p,"Default Printer",!1,D.aZx,"Printer Mapping",new B.biG(q),C.aC,w.e,y.N),A.h(p,s,p),new A.ko(w.f,new B.biH(q),"Include QR Code",p,!1,p),A.h(p,r,p),new A.ko(w.r,new B.biI(q),"Include Barcode",p,!1,p)],y.p),C.v,C.n,C.p,0,C.q)}}
 B.ao_.prototype={
-p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 p.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=this.d
 v=w.a+w.b
@@ -247,18 +247,18 @@ x=A.ad(x.b)
 r=A.aM(p.ch,1)
 return A.t(A.a([w,u,A.a2(q,A.c1(new A.dE(D.a39,s,q),q,q),C.y,q,q,new A.ab(p.e,q,r,x,q,q,C.H),q,q,q,q,new A.U(t,t,t,t),q,q,q)],y.p),C.v,C.n,C.p,0,C.q)}}
 B.Kt.prototype={
-p(d){var x,w,v,u=null,t=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u=null,t=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 t.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=this.d
 v=w?t.f:t.ch
 t=w?this.e:u
 return A.et(!1,u,!0,A.h(A.aS(this.c,v,u,x.fx),22,28),u,!0,u,u,u,u,u,u,u,u,u,u,t,u,u,u,u)}}
 B.a1l.prototype={
-p(d){var x,w,v,u,t=null,s=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t=null,s=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 s.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=A.ad(999)
 v=A.aM(s.ch,1)
@@ -314,14 +314,14 @@ if(C.m.Z(w.gxL()).length===0)return
 x=w.c
 x.toString
 A.dT(x,!1).ic(w.ga2O().eO(C.m.Z(w.gxL())))},
-p(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.K,k=y.r,j=k.a(A.i(d).c.h(0,A.n(l)))
+p(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.K,k=y.r,j=k.a(A.i(d).c.h(0,A.m(l)))
 j.toString
 x=n.a.c==null?"Add Custom Field":"Edit Custom Field"
 w=A.a8(n.atm(d),1)
 j=A.h(m,m,j.z)
-v=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+v=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 v.toString
-l=k.a(A.i(d).c.h(0,A.n(l)))
+l=k.a(A.i(d).c.h(0,A.m(l)))
 l.toString
 k=A.ae("Field Preview",m,m,A.r(m,m,v.d,m,m,m,m,m,m,m,m,A.p(C.Y),m,m,A.q(C.D),m,m,!0,m,m,m,m,m,m,m,m).a2(C.P),m)
 u=A.h(m,l.d,m)
@@ -335,9 +335,9 @@ o=y.p
 o=A.R(A.a([w,j,A.a8(A.t(A.a([k,u,t,r,A.a2(m,A.bVD(p.eO(C.m.Z(n.gxL()).length===0?"Field Label":C.m.Z(n.gxL())),m,m,m,!0,n.gpC()),C.y,m,m,new A.ab(v.r,m,q,l,m,m,C.H),m,m,m,m,new A.U(s,s,s,s),m,m,m),A.h(m,s,m),A.bP_(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bP4(n.gor()))],o),C.v,C.n,C.M,0,C.q),1)],o),C.S,C.n,C.p,0,m)
 l=n.a.c==null?"Add Field":"Save"
 return A.bP3(new A.mj(o,m),"Cancel",l,C.aM,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.bbD(d),n.gavR(),!0,x)},
-atm(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+atm(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 i.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=A.ae("Field Configuration",j,j,A.r(j,j,i.d,j,j,j,j,j,j,j,j,A.p(C.Y),j,j,A.q(C.D),j,j,!0,j,j,j,j,j,j,j,j).a2(C.P),j)
 v=x.d
@@ -363,17 +363,17 @@ else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.bbt
 i.push(A.h(j,x,j))
 i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.bbu(k),j,C.af,C.ac,j,C.a7,k.ga5_()))
 return A.t(i,C.v,C.n,C.M,0,C.q)},
-atl(d){var x,w=null,v=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+atl(d){var x,w=null,v=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 v.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 return A.t(A.a([A.ae("Default Value",w,w,A.r(w,w,v.d,w,w,w,w,w,w,w,w,A.p(C.Y),w,w,A.q(C.D),w,w,!0,w,w,w,w,w,w,w,w).a2(C.P),w),A.h(w,x.r,w),A.fn(this.gpC()==="true","Checked by default",new B.bbi(this),w,C.br)],y.p),C.S,C.n,C.M,0,C.q)},
-atH(d){var x,w=null,v=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+atH(d){var x,w=null,v=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 v.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 return A.t(A.a([A.ae("Default Value",w,w,A.r(w,w,v.d,w,w,w,w,w,w,w,w,A.p(C.Y),w,w,A.q(C.D),w,w,!0,w,w,w,w,w,w,w,w).a2(C.P),w),A.h(w,x.r,w),new A.ko(this.gpC()==="true",new B.bbA(this),"Enabled by default",w,!1,w)],y.p),C.S,C.n,C.M,0,C.q)},
-ato(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+ato(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 l.toString
 x=n.ga6D()
 w=n.gpC().length!==0&&C.f.n(x,n.gpC())?n.gpC():m
@@ -388,9 +388,9 @@ v=A.a([A.cK(m,u,!1,t,"Default Value",s,v,w,y.N)],r)
 if(n.gpC().length!==0&&w!=null)C.f.v(v,A.a([A.h(m,l.d,m),new A.cU(C.a1,m,m,A.aD(m,!1,C.G,m,m,!1,"Clear default",m,m,new B.bby(n),m,C.a6,m,C.dE,m),m)],r))
 return A.t(v,C.v,C.n,C.M,0,C.q)}}
 B.a41.prototype={
-p(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 m.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=x.x
 v=A.ad(x.b)
@@ -444,9 +444,9 @@ x=this.d
 w=A.V(x.x,y.I)
 C.f.en(w,e,C.f.eC(w,d))
 this.e.$1(x.CV(w))},
-p(d){var x,w,v,u,t,s,r,q,p,o,n,m=this,l=null,k=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q,p,o,n,m=this,l=null,k=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 k.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=m.d.x
 v=x.y
@@ -488,9 +488,9 @@ for(s=u.d,r=s.w,q=r.length,p=0;p<r.length;r.length===q||(0,A.L)(r),++p){o=r[p]
 t.push(o===e?n:o)}u.e.$1(s.yu(t))
 case 1:return A.A(v,w)}})
 return A.B($async$GV,w)},
-p(d){var x,w,v,u,t,s,r=this,q=null,p=y.a.a(A.i(d).c.h(0,A.n(y.S)))
+p(d){var x,w,v,u,t,s,r=this,q=null,p=y.a.a(A.i(d).c.h(0,A.m(y.S)))
 p.toString
-x=y.r.a(A.i(d).c.h(0,A.n(y.K)))
+x=y.r.a(A.i(d).c.h(0,A.m(y.K)))
 x.toString
 w=x.r
 v=y.p
@@ -737,4 +737,4 @@ D.a9l=new A.ba(C.DH,D.baz,C.a1,null,y.q)
 D.baN=new A.bt("Detailed",null,null,null,null,null)
 D.a9K=new A.ba(C.DI,D.baN,C.a1,null,y.q)
 D.b6x=x([D.a9B,D.a9l,D.a9K],A.a6("w<ba<kB>>"))})()};
-(a=>{a["XKfIofPcvRRPDEjKdRUPWfR2lx8="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["bU8y93UadZF3Eo8OmPdLnfjCYkE="]=a.current})($__dart_deferred_initializers__);

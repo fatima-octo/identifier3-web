@@ -2362,9 +2362,9 @@ A:{if("reports"===w){x=1
 break A}if("analytics"===w){x=2
 break A}x=0
 break A}v.d=x},
-p(d){var x,w,v,u,t,s,r=this,q=null,p=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u,t,s,r=this,q=null,p=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 p.toString
-x=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+x=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 x.toString
 w=y.p
 v=B.t(B.a([B.ae("Compliance & Reporting",q,q,B.r(q,q,x.d,q,q,q,q,q,q,q,q,B.p(C.hB),q,q,B.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a2(C.P),q),B.h(q,p.d,q),B.ae("Monitor system activity and generate compliance reports",q,q,B.r(q,q,x.f,q,q,q,q,q,q,q,q,B.p(C.E),q,q,B.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q)],w),C.S,C.n,C.M,0,C.q)
@@ -2430,7 +2430,7 @@ return B.u(K.bFB(p,G.DJ),$async$ut)
 case 7:case 5:case 1:return B.A(v,w)}})
 return B.B($async$ut,w)}}
 A.a_T.prototype={
-p(d){var x,w=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 w.toString
 x=B.e7()==null?B.e5(D.lO,y.b):$.bO9().Mq()
 return new B.h0(x,new A.axP(w),null,y.bY)}}
@@ -2563,7 +2563,7 @@ break A}if("label printed"===x){v="Printed badge / label"
 break A}v=""
 break A}return v},
 auC(){return this.E(new A.b7h(this))},
-p(d){var x,w,v,u=this,t=null,s=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u=this,t=null,s=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 s.toString
 x=s.x
 w=y.p
@@ -2574,9 +2574,9 @@ return B.t(B.a([s,x,new B.h0(u.Gp(),new A.b7x(),new B.ds(v,y.l),y._)],w),C.v,C.n
 A.QX.prototype={
 U(){return new A.ar9()}}
 A.ar9.prototype={
-p(d){var x,w=null,v=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x,w=null,v=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 v.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 return B.t(B.a([B.bA(B.cQ(new A.bqI(this,x,v)),w,w,"Generate New Report",w,C.da),B.h(w,x.x,w),D.bnL],y.p),C.v,C.n,C.p,0,C.q)}}
 A.m2.prototype={
@@ -2584,9 +2584,9 @@ gaB(d){return this.a}}
 A.a_M.prototype={
 p(d){if(B.e7()==null)return this.OS(d,D.b9d)
 return new B.h0($.bO9().Jk(),new A.axz(this),null,y.dd)},
-OS(d,a0){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="Activity by Category",e=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+OS(d,a0){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="Activity by Category",e=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 e.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 if(a0.length===0){x=x.z
 return B.bA(new B.at(new B.U(0,x,0,x),B.c1(B.ae("No audit events yet \u2014 perform a Create / Update / Delete to populate.",g,g,B.r(g,g,e.f,g,g,g,g,g,g,g,g,B.p(C.E),g,g,B.q(C.A),g,g,!0,g,g,g,g,g,g,g,g),C.aP),g,g),g),g,g,f,g,C.da)}w=new B.a_(a0,new A.axw(),B.a3(a0).i("a_<1,D>")).jV(0,new A.axx())
@@ -2606,10 +2606,10 @@ A.uv.prototype={}
 A.Kz.prototype={
 U(){return new A.ajD()}}
 A.ajD.prototype={
-p(d){var x=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 x.toString
 return B.cQ(new A.b7y(this,x))},
-xi(d,e){var x=null,w=y.a.a(B.i(e).c.h(0,B.n(y.S)))
+xi(d,e){var x=null,w=y.a.a(B.i(e).c.h(0,B.m(y.S)))
 w.toString
 return B.T(d,x,x,x,x,x,x,B.r(x,x,w.d,x,x,x,x,x,x,x,x,B.p(C.E),x,x,B.q(C.D),x,x,!0,x,x,x,x,x,x,x,x).a2(C.P),x,x,x,x,x)}}
 A.Al.prototype={
@@ -2619,15 +2619,15 @@ U(){return new A.arI(B.Ga(0,null,null))}}
 A.arI.prototype={
 m(){this.d.m()
 this.aD()},
-p(d){var x=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 x.toString
 return B.cQ(new A.bro(this,x))},
-ux(d,e){var x=null,w=y.a.a(B.i(e).c.h(0,B.n(y.S)))
+ux(d,e){var x=null,w=y.a.a(B.i(e).c.h(0,B.m(y.S)))
 w.toString
 return B.T(d,x,x,x,x,x,x,B.r(x,x,w.d,x,x,x,x,x,x,x,x,B.p(C.E),x,x,B.q(C.D),x,x,!0,x,x,x,x,x,x,x,x).a2(C.P),x,x,x,x,x)},
-aKi(d,e){var x,w,v,u,t=null,s=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+aKi(d,e){var x,w,v,u,t=null,s=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 s.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 w=new A.brm(x,d,s)
 v=x.e
@@ -2653,7 +2653,7 @@ v=u.gJ7()
 return new B.h0(w.Jl(u.gJ7().eV(5184e8),v),new A.bv7(u),new B.ds(x,y.l),y.bQ)},
 TG(d,e){var x=this,w=null,v=x.gaJG(),u=x.d===0?w:new A.bv5(x)
 return B.bA(e,w,w,"User Activity Trends",new A.aoU(v,new A.bv6(x),u,w),C.da)},
-a19(d,e,f){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+a19(d,e,f){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 i.toString
 x=i.dx
 if(e.length===0)return k.TG(d,new B.at(I.Cl,B.c1(B.ae("No activity this week.",j,j,B.r(j,j,i.f,j,j,j,j,j,j,j,j,B.p(C.E),j,j,B.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j),j,j),j))
@@ -2675,9 +2675,9 @@ q.push(A.bOK(B.a([A.bUT(j,j,new B.cV(l,l,l,l),j,n,j,j,D.a2x,j,o.b,j,24)],p),j,j,
 return k.TG(d,B.h(new A.KG(i,C.b6,C.di,j,j),200,j))},
 ati(d,e){return this.a19(d,e,!1)}}
 A.aoU.prototype={
-p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 p.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 w=p.f
 v=B.aD(q,!1,C.G,w,q,!1,"Previous week",C.D5,q,this.d,q,C.bT,q,C.bJ,q)
@@ -3278,7 +3278,7 @@ m=J.av(w.a.c,p)
 l=J.av(w.a.c,p)
 h=B.i(b0).ax.a===C.bq?C.qJ:C.qK
 l=h.h(0,l.w)
-if(l==null){l=q.a(B.i(b0).c.h(0,B.n(r)))
+if(l==null){l=q.a(B.i(b0).c.h(0,B.m(r)))
 l.toString
 l=l.e}k=new B.b2(999,999)
 j=J.av(w.a.c,p)
@@ -3320,7 +3320,7 @@ a0=B.p(C.E)
 a1=B.q(C.A)
 a2=n.w
 a3=(B.i(b0).ax.a===C.bq?C.qJ:C.qK).h(0,a2)
-if(a3==null){a3=o.a(B.i(b0).c.h(0,B.n(q)))
+if(a3==null){a3=o.a(B.i(b0).c.h(0,B.m(q)))
 a3.toString
 a3=a3.e}a4=new B.b2(999,999)
 n=n.r
@@ -3743,4 +3743,4 @@ x($,"czt","bNW",()=>new A.ayt())
 w($,"cD2","qP",()=>new A.b3T())
 x($,"cCF","bO9",()=>new A.b11())
 x($,"cCI","c5g",()=>new A.b1z())})()};
-(a=>{a["jSABkNjxDin2d0/Xdh015bmt4bA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["LOEuDOaOlmyseMnF76TTUgzm3Vo="]=a.current})($__dart_deferred_initializers__);

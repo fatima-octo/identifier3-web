@@ -1945,7 +1945,7 @@ return(x==null?this.$ti.i("aU.T").a(x):x).b}}
 A.wo.prototype={
 U(){return new A.ate()}}
 A.ate.prototype={
-p(d){var x,w,v,u=null,t=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u=null,t=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 t.toString
 x=B.aC(d)
 w=this.d
@@ -1963,7 +1963,7 @@ default:v=D.bnM}return B.t(B.a([B.G7(C.ab,new A.bte(x.a),u,u,u,u,u,u,"Print",u,"
 A.KU.prototype={
 U(){return new A.ak3()}}
 A.ak3.prototype={
-p(d){var x,w,v,u,t,s,r,q,p=this,o=null,n=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u,t,s,r,q,p=this,o=null,n=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 n.toString
 x=B.aC(d).a
 w=x.r
@@ -1977,13 +1977,13 @@ n=n.x
 q=y.p
 return B.t(B.a([B.bA(B.t(B.a([B.aZ(!1,12,s,B.bh(o,!1,"Use the translate icon in the top bar to switch between English and Arabic.","",!1,!1,"Language",new A.b8n(),o,C.bY,C.ac,o,C.a7,r)),B.h(o,n,o),B.aZ(!1,12,B.cK(o,"Kilograms (kg)",!1,D.b8a,"Weight Units",new A.b8o(u),C.aC,v.go,t),B.cK(o,"Celsius (\xb0C)",!1,D.b4_,"Temperature Units",new A.b8p(u),C.aC,v.id,t))],q),C.v,C.n,C.p,0,C.q),o,"Configure date formats, language, and measurement units","Regional Settings",o,C.ao),B.h(o,n,o),D.bAW,B.h(o,n,o),new A.th(new A.b8q(x,v),new A.b8r(p,w),!v.k(0,w),o)],q),C.v,C.n,C.p,0,C.q)}}
 A.ajG.prototype={
-p(d){var x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 return new B.ia(new A.b7U(x),null,$.Cj(),null)}}
 A.LB.prototype={
 U(){return new A.akC()}}
 A.akC.prototype={
-p(a2){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,a0=null,a1=y.N.a(B.i(a2).c.h(0,B.n(y.K)))
+p(a2){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,a0=null,a1=y.N.a(B.i(a2).c.h(0,B.m(y.K)))
 a1.toString
 x=B.aC(a2).a
 w=x.r
@@ -2000,20 +2000,20 @@ n=B.cK(a0,"UTC-5 (Eastern Time)",!1,D.b_5,"Time Zone",new A.bac(u),C.aC,v.c,y.R)
 m=B.h(a0,r,a0)
 l=y.S
 k=y.a
-j=k.a(B.i(a2).c.h(0,B.n(l)))
+j=k.a(B.i(a2).c.h(0,B.m(l)))
 j.toString
 j=B.ae("Working Hours",a0,a0,B.r(a0,a0,j.d,a0,a0,a0,a0,a0,a0,a0,a0,B.p(C.Y),a0,a0,B.q(C.D),a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0).a2(C.P),a0)
 i=a1.r
 h=B.h(a0,i,a0)
-g=k.a(B.i(a2).c.h(0,B.n(l)))
+g=k.a(B.i(a2).c.h(0,B.m(l)))
 g.toString
 f=y.p
 g=B.R(B.a([B.ae("Start:",a0,a0,B.r(a0,a0,g.d,a0,a0,a0,a0,a0,a0,a0,a0,B.p(C.E),a0,a0,B.q(C.D),a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0),B.h(a0,a0,i),B.h(A.bP7("08:00 AM",a0,new A.bad(u),v.d),a0,160)],f),C.z,C.n,C.M,0,a0)
-e=k.a(B.i(a2).c.h(0,B.n(l)))
+e=k.a(B.i(a2).c.h(0,B.m(l)))
 e.toString
 a1=B.h8(C.bG,B.a([g,B.R(B.a([B.ae("End:",a0,a0,B.r(a0,a0,e.d,a0,a0,a0,a0,a0,a0,a0,a0,B.p(C.E),a0,a0,B.q(C.D),a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0),B.h(a0,a0,i),B.h(A.bP7("05:00 PM",a0,new A.bae(u),v.e),a0,160)],f),C.z,C.n,C.M,0,a0)],f),C.mp,i,a1.z)
 i=B.h(a0,r,a0)
-e=k.a(B.i(a2).c.h(0,B.n(l)))
+e=k.a(B.i(a2).c.h(0,B.m(l)))
 e.toString
 e=B.bA(B.t(B.a([s,q,p,o,n,m,j,h,a1,i,B.fz(e.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),C.vK,"Configure basic company information and factory settings","Company Profile",a0,C.ao)
 i=B.h(a0,r,a0)
@@ -2023,13 +2023,13 @@ j=B.bh(a0,!1,a0,"Street, City, State Zip",!1,!1,"Address",new A.bah(u),a0,C.af,C
 m=B.h(a0,r,a0)
 u=B.aZ(!1,12,B.bh(a0,!1,a0,"https://www.example.com",!1,!1,"Website URL",new A.bai(u),a0,C.af,C.ac,a0,C.a7,v.x),B.bh(a0,!1,a0,"+1 (555) 911-0000",!1,!1,"Emergency Contact (Optional)",new A.baa(u),a0,C.af,C.ac,a0,C.a7,v.y))
 n=B.h(a0,r,a0)
-l=k.a(B.i(a2).c.h(0,B.n(l)))
+l=k.a(B.i(a2).c.h(0,B.m(l)))
 l.toString
 return B.t(B.a([e,i,B.bA(B.t(B.a([a1,h,j,m,u,n,B.fz(l.ch,1),B.h(a0,r,a0),t],f),C.v,C.n,C.p,0,C.q),D.adI,"Configure business contact details and emergency information","Company Contact Information",a0,C.ao)],f),C.v,C.n,C.p,0,C.q)}}
 A.Mb.prototype={
 U(){return new A.ali()}}
 A.ali.prototype={
-p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null,j=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null,j=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 j.toString
 x=B.aC(d).a
 w=x.r
@@ -2049,9 +2049,9 @@ return B.t(B.a([B.bA(B.t(B.a([s,r,new E.jR(k,"Automatic Archiving","Automaticall
 A.Oe.prototype={
 U(){return new A.anQ()}}
 A.anQ.prototype={
-p(d){var x,w,v,u,t,s,r,q,p=this,o=null,n=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q,p=this,o=null,n=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 n.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 w=B.aC(d).a
 v=w.r
@@ -2074,9 +2074,9 @@ if(u==null){u=B.a([],y.s)
 s.l(0,e,u)}if(g){t=J.ao(u)
 if(!t.n(u,f))t.t(u,f)}else J.ph(u,f)
 this.E(new A.bnL(this,d,s))},
-p(a5){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2=this,a3=null,a4=y.a.a(B.i(a5).c.h(0,B.n(y.S)))
+p(a5){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2=this,a3=null,a4=y.a.a(B.i(a5).c.h(0,B.m(y.S)))
 a4.toString
-x=y.N.a(B.i(a5).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(a5).c.h(0,B.m(y.K)))
 x.toString
 w=B.aC(a5).a
 v=w.r
@@ -2103,7 +2103,7 @@ e.push(new B.mY(a0,a3,J.ld(a1,a0),new A.bo0(a2,u,g,a0),C.br,a3))}C.f.v(l,B.a([ne
 A.Rv.prototype={
 U(){return new A.arU()}}
 A.arU.prototype={
-p(d){var x,w,v,u,t,s,r=this,q=null,p=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v,u,t,s,r=this,q=null,p=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 p.toString
 x=B.aC(d).a
 w=x.r
@@ -2115,7 +2115,7 @@ p=p.r
 s=y.p
 return B.t(B.a([B.bA(B.cK(q,"3 Years",!1,D.afw,"Audit Log Retention",new A.brA(u),C.aC,v.k3,y.R),C.dS,"Configure audit trail and security logging settings","Audit & Logging",q,C.ao),B.h(q,t,q),B.bA(B.t(B.a([new E.jR(q,"GDPR","General Data Protection Regulation compliance",v.k4,new A.brB(u),q),B.h(q,p,q),new E.jR(q,"ISO","ISO 9001 quality management standards",v.ok,new A.brC(u),q),B.h(q,p,q),new E.jR(q,"OSHA","Occupational Safety and Health Administration",v.p1,new A.brD(u),q)],s),C.v,C.n,C.p,0,C.q),q,"Enable compliance frameworks relevant to your operations","Compliance Mode",q,C.ao),B.h(q,t,q),new A.th(new A.brE(x,v),new A.brF(r,w),!v.k(0,w),q)],s),C.v,C.n,C.p,0,C.q)}}
 A.th.prototype={
-p(d){var x,w,v=null,u=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+p(d){var x,w,v=null,u=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 u.toString
 x=this.e
 w=B.aD(v,!1,C.G,v,v,!1,"Cancel",v,v,x?this.d:v,v,C.a6,v,C.ab,v)
@@ -2133,9 +2133,9 @@ case 2:t=g
 if(t!=null)v.f.$1(C.m.ck(C.t.j(t.a),2,"0")+":"+C.m.ck(C.t.j(t.b),2,"0"))
 return B.A(null,w)}})
 return B.B($async$GM,w)},
-p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(B.i(d).c.h(0,B.n(y.S)))
+p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(B.i(d).c.h(0,B.m(y.S)))
 i.toString
-x=y.N.a(B.i(d).c.h(0,B.n(y.K)))
+x=y.N.a(B.i(d).c.h(0,B.m(y.K)))
 x.toString
 w=A.bVK(k.e)
 if(w==null)v=""
@@ -3056,4 +3056,4 @@ D.a1N=new A.jL(6,"onMinuteDoubleTapped")
 D.zO=new A.jL(7,"hourDialType")
 D.hA=new A.jL(8,"selectedTime")
 D.fS=new A.jL(9,"onSelectedTimeChanged")})()};
-(a=>{a["/3ZdKVE0l7lHCDNkKmz5d43VTn8="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["4e2QLywRMqn/f1AwL2OokQhcQIQ="]=a.current})($__dart_deferred_initializers__);
