@@ -34,7 +34,7 @@ for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.aQ(r,q,r,r))
 s=D.wu[u]
 t.push(new B.amc(s,!x.e.n(0,s.a),new B.aFF(x,u),new B.aFG(x,u),r))
-C.f.v(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
+C.f.v(v,t)}return A.u(v,C.v,C.n,C.p,0,C.q)}}
 B.amc.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 o.toString
@@ -48,19 +48,19 @@ s=t.a
 s=A.qn(A.mQ(d,s),F.Kq(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.e(p,x.Q,p)
-return A.a2(p,A.t(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cT(C.ek,p,p,A.aE(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.J(w,w,w,w),p,p,p)}}
+return A.a2(p,A.u(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cT(C.ek,p,p,A.aE(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.ab,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.J(w,w,w,w),p,p,p)}}
 B.l1.prototype={}
 var z=a.updateTypes([])
 B.aFE.prototype={
 $0(){return this.a.hD(0,"settings")},
 $S:0}
 B.aFF.prototype={
-$1(d){return this.a.al2(D.wu[this.b].a,!d)},
+$1(d){return this.a.al3(D.wu[this.b].a,!d)},
 $S:3}
 B.aFG.prototype={
 $0(){var x,w=D.wu[this.b],v=this.a.x
 if(v!=null){x=y.w
-v.ake("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
+v.akf("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.N,[B.yx,B.amc])
 x(A.lf,[B.aFE,B.aFG])
@@ -81,4 +81,4 @@ D.bB6=new B.l1("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBc=new B.l1("software","Software","Manage software licenses, applications, and tooling",C.dz)
 D.bB5=new B.l1("products","Products","Catalog finished products, variants, and SKUs",C.ew)
 D.wu=x([D.bBe,D.bBb,D.bB9,D.bB8,D.bBf,D.bB7,D.bBg,D.bBd,D.bBa,D.bB6,D.bBc,D.bB5],A.a6("w<l1>"))})()};
-(a=>{a["BI2n5fmcjLPcrC/axcwgUOX6UhM="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["SwAn5+r2VP3WpnCNKMP4k8Va108="]=a.current})($__dart_deferred_initializers__);
