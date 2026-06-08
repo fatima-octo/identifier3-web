@@ -1,11 +1,11 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={EL:function EL(d,e){this.a=d
 this.b=e},b5J:function b5J(){},azq:function azq(){},
-crj(d){switch(d.a){case 0:return D.xX
-case 2:return D.Zw
-case 1:return D.Zv
+crj(d){switch(d.a){case 0:return D.xW
+case 2:return D.Zv
+case 1:return D.Zu
 case 3:return C.blH
-case 4:return D.Zx}},
+case 4:return D.Zw}},
 bFB(d,e){var x=0,w=B.C(y.a),v,u
 var $async$bFB=B.y(function(f,g){if(f===1)return B.z(g,w)
 for(;;)switch(x){case 0:if(e===C.afg||e===C.afh)u=!(d.gdL()==="https"||d.gdL()==="http")
@@ -32,8 +32,8 @@ C.bDX=new A.b5J()
 C.bE9=new A.EL(0,"platformDefault")
 C.afg=new A.EL(1,"inAppWebView")
 C.afh=new A.EL(2,"inAppBrowserView")
-C.DJ=new A.EL(3,"externalApplication")
-C.aa8=new B.b5(864e8)
+C.DI=new A.EL(3,"externalApplication")
+C.aa7=new B.b5(864e8)
 C.blH=new B.A6(3,"externalApplication")
-C.yX=new B.N(!0,D.X,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["TIjxvsW71cDUy/B52HEwjYxdEHI="]=a.current})($__dart_deferred_initializers__);
+C.yW=new B.N(!0,D.X,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["v+GdxM4pgsM/y0jpKw8LIwnCcog="]=a.current})($__dart_deferred_initializers__);
