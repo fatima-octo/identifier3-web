@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-cb5(){return new B.yA(null)},
+cb6(){return new B.yA(null)},
 yA:function yA(d){this.a=d},
 aFK:function aFK(d){this.a=d},
 aFL:function aFL(d,e){this.a=d
@@ -45,7 +45,7 @@ v=A.ad(x.d)
 u=A.aM(o.ch,1)
 t=q.c
 s=t.a
-s=A.qn(A.mQ(d,s),F.Kt(d,s),t.d,x.k4,p,40)
+s=A.qn(A.mQ(d,s),F.Ks(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.e(p,x.Q,p)
 return A.a2(p,A.u(A.a([new E.jR(s,t.b,t.c,r,q.e,p),x,new A.cR(C.el,p,p,A.aE(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.J(w,w,w,w),p,p,p)}}
@@ -81,4 +81,4 @@ D.bB8=new B.l1("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBe=new B.l1("software","Software","Manage software licenses, applications, and tooling",C.dz)
 D.bB7=new B.l1("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wv=x([D.bBg,D.bBd,D.bBb,D.bBa,D.bBh,D.bB9,D.bBi,D.bBf,D.bBc,D.bB8,D.bBe,D.bB7],A.a6("w<l1>"))})()};
-(a=>{a["UoJYiZygCFMjzH/Joss/3Q/cLRo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZdYKKi/wqqLJChR1Uti0JFZwl1A="]=a.current})($__dart_deferred_initializers__);
