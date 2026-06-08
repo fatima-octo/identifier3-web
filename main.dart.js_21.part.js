@@ -203,7 +203,7 @@ a1=v.r
 w=a2.f
 o=y.p
 n=v.x
-a0=A.S(A.a([A.a8(A.u(A.a([A.ae("Create New Role",d,d,A.r(d,d,a0.a,d,d,d,d,d,d,d,d,A.p(B.az),d,d,A.q(B.D),d,d,!0,d,d,d,d,d,d,d,d),d),A.e(d,a1,d),A.ae("Define a new role by specifying its name and selecting the appropriate permissions.",d,d,A.r(d,d,w,d,d,d,d,d,d,d,d,A.p(B.E),d,d,A.q(B.A),d,d,!0,d,d,d,d,d,d,d,d),d)],o),B.S,B.n,B.p,0,B.q),1),A.e(d,d,n),A.hS(d,d,A.aR(B.cZ,w,d,d),d,d,new C.baE(a3),d,18,d,"Close",d)],o),B.S,B.n,B.p,0,d)
+a0=A.S(A.a([A.a8(A.u(A.a([A.ae("Create New Role",d,d,A.r(d,d,a0.a,d,d,d,d,d,d,d,d,A.p(B.az),d,d,A.q(B.D),d,d,!0,d,d,d,d,d,d,d,d),d),A.e(d,a1,d),A.ae("Define a new role by specifying its name and selecting the appropriate permissions.",d,d,A.r(d,d,w,d,d,d,d,d,d,d,d,A.p(B.E),d,d,A.q(B.A),d,d,!0,d,d,d,d,d,d,d,d),d)],o),B.S,B.n,B.p,0,B.q),1),A.e(d,d,n),A.hS(d,d,A.aR(B.cZ,w,d,d),d,d,new C.baE(a3),d,18,d,d,d)],o),B.S,B.n,B.p,0,d)
 m=v.Q
 l=A.e(d,m,d)
 k=A.bh(d,!1,d,"Enter role name (e.g., Supervisor, Technician)",!1,!0,"Role Name",new C.baF(e),d,B.ae,B.ab,d,B.a7,e.d)
@@ -216,7 +216,7 @@ w=A.ae("Select the permissions this role should have",d,d,A.r(d,d,w,d,d,d,d,d,d,
 g=A.e(d,n,d)
 f=A.ad(v.b)
 q=A.aN(q,1)
-f=A.a2(d,A.Ru(A.bX4(new C.baH(e,v),11,new A.J(m,n,m,n),!1),d,!0),B.y,d,d,new A.ab(s,d,q,f,d,d,B.H),d,240,d,d,d,d,d,d)
+f=A.a2(d,A.Ru(A.bX3(new C.baH(e,v),11,new A.J(m,n,m,n),!1),d,!0),B.y,d,d,new A.ab(s,d,q,f,d,d,B.H),d,240,d,d,d,d,d,d)
 v=A.e(d,v.at,d)
 q=A.aE(d,!1,B.G,d,d,!1,"Cancel",d,d,new C.baI(a3),d,B.a6,d,B.aa,d)
 n=A.e(d,d,n)
@@ -404,4 +404,4 @@ D.abw=new C.hO("system_configuration","System Configuration")
 D.abD=new C.hO("audit_logs","Audit Logs")
 D.qc=x([D.abE,D.abF,D.aby,D.abG,D.abA,D.abz,D.abx,D.abC,D.abB,D.abw,D.abD],A.a6("w<hO>"))
 D.xf=new A.aC(B.cJ,[],A.a6("aC<c,cm<c>>"))})()};
-(a=>{a["koqDQJbAbbFvjtmCEnKh3eQxQCQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["DaZf7alcdLHuevYWrjXNE+ZcbxE="]=a.current})($__dart_deferred_initializers__);

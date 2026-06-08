@@ -11,7 +11,7 @@ var $async$bFv=B.y(function(f,g){if(f===1)return B.z(g,w)
 for(;;)switch(x){case 0:if(e===C.aeG||e===C.aeH)u=!(d.gdL()==="https"||d.gdL()==="http")
 else u=!1
 if(u)throw B.k(B.fF(d,"url","To use an in-app web view, you must provide an http(s) URL."))
-v=$.bTg().Ea(d.j(0),new B.a7F(A.cqX(e),new B.a7h(!0,!0,D.a5),null))
+v=$.bTf().Ea(d.j(0),new B.a7F(A.cqX(e),new B.a7h(!0,!0,D.a5),null))
 x=1
 break
 case 1:return B.A(v,w)}})
@@ -36,4 +36,4 @@ C.Di=new A.EP(3,"externalApplication")
 C.a9H=new B.b6(864e8)
 C.bl2=new B.A9(3,"externalApplication")
 C.yC=new B.O(!0,D.X,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["OOgqGr34fqpX2CXamogK1OmdP3I="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["1xIbb1bb39nmKYPWYiQkIknX/p4="]=a.current})($__dart_deferred_initializers__);
