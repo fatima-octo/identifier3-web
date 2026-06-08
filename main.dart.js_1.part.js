@@ -2533,7 +2533,7 @@ $0(){return this.a.d=this.b},
 $S:0}
 A.b7U.prototype={
 $2(d,e){var x=null,w=$.Cj(),v=w.f,u=this.a,t=u.x,s=B.h(x,t,x),r=B.a8(B.ae("Translation cache",x,x,x,x),1),q=w.c.a,p=B.T(""+q,x,x,x,x,x,x,x,x,x,x,x,x),o=y.p
-return B.bA(B.t(B.a([new B.ko(v,new A.b7R(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dG(0,0,u.z,0),p,x),B.aD(x,!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7S(w,d),x,C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cU(C.ev,x,x,B.aD(x,!1,C.G,x,x,!1,"Retry failed translations",C.vE,x,new A.b7T(w,d),x,C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"When viewing in Arabic, translate operator-entered text (names, descriptions, custom fields) via MyMemory. Results are cached locally.","Auto-Translate",x,C.ao)},
+return B.bA(B.t(B.a([new B.ko(v,new A.b7R(w),"Translate operator-entered text",x,!0,x),s,B.R(B.a([r,new B.at(new B.dG(0,0,u.z,0),p,x),B.aD(x,!1,C.G,x,x,!1,"Clear cache",C.h6,x,q===0?x:new A.b7S(w,d),x,C.b7,x,C.ab,x)],o),C.z,C.n,C.p,0,x),B.h(x,t,x),new B.cU(C.ev,x,x,B.aD(x,!1,C.G,x,x,!1,"Retry failed translations",C.vE,x,new A.b7T(w,d),x,C.b7,x,C.bJ,x),x)],o),C.v,C.n,C.p,0,C.q),x,"Off by default. When enabled, operator-entered text (names, descriptions, custom-field values) is sent to MyMemory \u2014 a third-party online translation service \u2014 to translate it into Arabic. Results are cached locally on this device.","Auto-Translate",x,C.ao)},
 $S:1059}
 A.b7R.prototype={
 $1(d){this.a.soG(0,d)
@@ -3056,4 +3056,4 @@ D.a1M=new A.jL(6,"onMinuteDoubleTapped")
 D.zO=new A.jL(7,"hourDialType")
 D.hA=new A.jL(8,"selectedTime")
 D.fS=new A.jL(9,"onSelectedTimeChanged")})()};
-(a=>{a["dm7TrRhNzlIp8i+jDTN41Ff0W58="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["0+66Ip7jO9jtbOM4QJcl1QUEBpw="]=a.current})($__dart_deferred_initializers__);
