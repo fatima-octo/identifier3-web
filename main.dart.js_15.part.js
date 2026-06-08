@@ -1,5 +1,5 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={EL:function EL(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={EM:function EM(d,e){this.a=d
 this.b=e},b5I:function b5I(){},azp:function azp(){},
 cqW(d){switch(d.a){case 0:return D.xA
 case 2:return D.Z0
@@ -20,20 +20,20 @@ B=c[0]
 D=c[2]
 A=a.updateHolder(c[14],A)
 C=c[18]
-A.EL.prototype={
+A.EM.prototype={
 J(){return"LaunchMode."+this.b}}
 A.b5I.prototype={}
 A.azp.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(A.EL,B.wP)
+x(A.EM,B.wP)
 w(B.P,[A.b5I,A.azp])})()
 var y={a:B.a6("K")};(function constants(){C.bD9=new A.azp()
 C.bDh=new A.b5I()
-C.bDu=new A.EL(0,"platformDefault")
-C.aeD=new A.EL(1,"inAppWebView")
-C.aeE=new A.EL(2,"inAppBrowserView")
-C.Dg=new A.EL(3,"externalApplication")
+C.bDu=new A.EM(0,"platformDefault")
+C.aeD=new A.EM(1,"inAppWebView")
+C.aeE=new A.EM(2,"inAppBrowserView")
+C.Dg=new A.EM(3,"externalApplication")
 C.a9E=new B.b6(864e8)
-C.bl0=new B.A5(3,"externalApplication")
+C.bl0=new B.A6(3,"externalApplication")
 C.yB=new B.O(!0,D.X,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["3cmggiNwyGWJmDnSihj3vrVrAOU="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["kUIpZf3ZrczPpA28Vfw/Q/+douY="]=a.current})($__dart_deferred_initializers__);
