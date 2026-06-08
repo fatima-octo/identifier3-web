@@ -123980,12 +123980,14 @@ Gr(){var s=0,r=A.C(t.H),q,p=this,o
 var $async$Gr=A.y(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:s=p.d===0?3:4
 break
-case 3:o=p.c
+case 3:s=B.m.Z(p.e).length!==0||B.m.Z(p.f).length!==0||B.m.Z(p.r).length!==0||p.w.length!==0||p.y.length!==0||p.Q.length!==0||p.as.length!==0?5:6
+break
+case 5:o=p.c
 o.toString
-s=5
+s=7
 return A.t(A.oj(null,"Keep editing","Discard",B.fl,o,"The information you\u2019ve entered will be discarded and you\u2019ll return to the sign-in screen.",480,"Cancel setup?",t.y),$async$Gr)
-case 5:if(b!==!0||p.c==null){s=1
-break}o=p.c
+case 7:if(b!==!0||p.c==null){s=1
+break}case 6:o=p.c
 o.toString
 A.aD(o).a.b.k0()
 s=1
