@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,C,E,A={
-c9M(){return new A.uV(null)},
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,C,E,F,A={
+c9K(){return new A.uV(null)},
 uV:function uV(d){this.a=d},
 anE:function anE(){var _=this
 _.d=0
@@ -89,11 +89,11 @@ aQj:function aQj(d){this.a=d},
 aQn:function aQn(){},
 aQe:function aQe(){},
 aQf:function aQf(){},
-cra(d){B.aD(d).a.hx(0,"dashboard")
-$.az.p4$.push(new A.bDi())},
-bDi:function bDi(){},
-bU9(d,e,f,g,h,i,j,k){return new A.O8(j,f,k,g,e,i,d,h,null)},
-cjZ(d){switch(d){case"beginner":return C.hu
+cr8(d){B.aD(d).a.hx(0,"dashboard")
+$.az.p4$.push(new A.bDh())},
+bDh:function bDh(){},
+bU8(d,e,f,g,h,i,j,k){return new A.O8(j,f,k,g,e,i,d,h,null)},
+cjX(d){switch(d){case"beginner":return C.hu
 case"intermediate":return C.iA
 case"advanced":return C.ku}return C.bn},
 O8:function O8(d,e,f,g,h,i,j,k,l){var _=this
@@ -119,15 +119,15 @@ b3k:function b3k(){},
 b3h:function b3h(){},
 b3i:function b3i(){},
 b3j:function b3j(){},
-cnR(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=B.h(d,f),t=y.u,s=B.R(B.a([B.a9(A.EQ(C.vv,e.e),1),B.a9(A.EQ(D.CR,e.r+" ("+e.w+")"),1)],t),C.z,C.m,C.p,0,x),r=y.D,q=y.y,p=q.a(B.f(d).c.h(0,B.j(r)))
+cnP(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=B.h(d,f),t=y.u,s=B.R(B.a([B.a9(A.EQ(C.vu,e.e),1),B.a9(A.EQ(D.CS,e.r+" ("+e.w+")"),1)],t),C.z,C.m,C.p,0,x),r=y.D,q=y.y,p=q.a(B.f(d).c.h(0,B.j(r)))
 p.toString
 p=B.t(B.a([s,B.d(x,p.w,x),B.R(B.a([B.a9(A.EQ(C.dG,e.x),1),B.a9(A.EQ(C.e5,e.y),1)],t),C.z,C.m,C.p,0,x)],t),C.R,C.m,C.p,0,C.q)
-s=B.a9(B.aG(x,!1,C.I,x,x,!1,B.h(d,"View Document"),C.dw,x,new A.bxd(),x,C.a6,x,C.aO,1/0),1)
+s=B.a9(B.aG(x,!1,C.I,x,x,!1,B.h(d,"View Document"),C.dw,x,new A.bxc(),x,C.a7,x,C.aO,1/0),1)
 r=q.a(B.f(d).c.h(0,B.j(r)))
 r.toString
-return A.bU9(B.R(B.a([s,B.d(x,x,r.x),B.aG(x,!1,C.I,x,x,!1,"",C.vC,x,new A.bxe(),"Download",C.bS,x,C.aa,x)],t),C.z,C.m,C.p,0,x),u,v,e.d,x,p,w,e.f)},
+return A.bU8(B.R(B.a([s,B.d(x,x,r.x),B.aG(x,!1,C.I,x,x,!1,"",C.vB,x,new A.bxd(),"Download",C.bS,x,C.aa,x)],t),C.z,C.m,C.p,0,x),u,v,e.d,x,p,w,e.f)},
+bxc:function bxc(){},
 bxd:function bxd(){},
-bxe:function bxe(){},
 PW:function PW(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
@@ -147,7 +147,7 @@ _.e=f
 _.f=g
 _.r=h
 _.a=i},
-bWn(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s){return new A.RH(l,p,f,e,o,m,d,q,g,i,h,n,j,k,!1,null,s.i("RH<0>"))},
+bWl(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s){return new A.RH(l,p,f,e,o,m,d,q,g,i,h,n,j,k,!1,null,s.i("RH<0>"))},
 RH:function RH(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t){var _=this
 _.c=d
 _.d=e
@@ -169,11 +169,11 @@ _.$ti=t},
 aXd:function aXd(d){this.a=d},
 aXe:function aXe(d,e){this.a=d
 this.b=e},
-co7(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=e.f,t=B.h(d,f),s=A.EQ(D.CR,e.r),r=y.y.a(B.f(d).c.h(0,B.j(y.D)))
+co5(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=e.f,t=B.h(d,f),s=A.EQ(D.CS,e.r),r=y.y.a(B.f(d).c.h(0,B.j(y.D)))
 r.toString
-r=B.R(B.a([s,B.d(x,x,r.z),new B.fJ(1,C.cr,A.EQ(C.vH,e.w),x),C.c_,A.EQ(C.e5,e.x)],y.u),C.z,C.m,C.p,0,x)
-return A.bU9(B.aG(x,!1,C.I,x,x,!1,B.h(d,"Watch Video"),D.nV,x,new A.bAe(),x,C.a6,x,C.aO,1/0),t,v,e.d,new A.ah4(u,e.e,x),r,w,u)},
-bAe:function bAe(){},
+r=B.R(B.a([s,B.d(x,x,r.z),new B.fJ(1,C.cr,A.EQ(C.vG,e.w),x),C.c_,A.EQ(C.e5,e.x)],y.u),C.z,C.m,C.p,0,x)
+return A.bU8(B.aG(x,!1,C.I,x,x,!1,B.h(d,"Watch Video"),D.nU,x,new A.bAd(),x,C.a7,x,C.aO,1/0),t,v,e.d,new A.ah4(u,e.e,x),r,w,u)},
+bAd:function bAd(){},
 ah4:function ah4(d,e,f){this.c=d
 this.d=e
 this.a=f},
@@ -185,6 +185,7 @@ J=c[1]
 B=c[0]
 C=c[2]
 E=c[13]
+F=c[24]
 A=a.updateHolder(c[6],A)
 D=c[23]
 A.uV.prototype={
@@ -205,7 +206,7 @@ A.El.prototype={}
 A.lr.prototype={}
 A.a5j.prototype={
 p(d){var x=this
-return A.bWn(new A.aDG(),D.lC,x.d,new A.aDH(),D.TT,x.e,new A.aDI(),new A.aDJ(),D.aNV,x.r,x.w,x.f,x.c,new A.aDK(),!1,y.l)}}
+return A.bWl(new A.aDG(),D.lC,x.d,new A.aDH(),D.TU,x.e,new A.aDI(),new A.aDJ(),D.aNV,x.r,x.w,x.f,x.c,new A.aDK(),!1,y.l)}}
 A.a7R.prototype={
 p(d){return B.ej(new A.aKH(this))}}
 A.abf.prototype={
@@ -220,7 +221,7 @@ u.toString
 x=w.a(B.f(d).c.h(0,B.j(x)))
 x.toString
 t=[new A.FH("Getting Started with Identifier","1240 views",o,new A.aQg(d),p),new A.FH("Entity Management Best Practices","980 views","intermediate",new A.aQh(this),p),new A.FH("Label Printing & QR Code Setup","756 views",o,new A.aQi(this),p)]
-x=B.bD(B.ej(new A.aQj(B.a([new A.A8(D.D_,v.RG,"Getting Started Guide","Complete setup guide",new A.aQk(d),p),new A.A8(D.acZ,u.rx,"Platform Overview","Interactive guided tour",new A.aQl(d),p),new A.A8(D.nV,x.ry,"Interactive Tutorial","Hands-on walkthrough",new A.aQm(d),p)],y.c))),p,"Get up and running with Identifier in minutes","Quick Start",p,C.d5)
+x=B.bD(B.ej(new A.aQj(B.a([new A.A8(D.D0,v.RG,"Getting Started Guide","Complete setup guide",new A.aQk(d),p),new A.A8(F.CP,u.rx,"Platform Overview","Interactive guided tour",new A.aQl(d),p),new A.A8(D.nU,x.ry,"Interactive Tutorial","Hands-on walkthrough",new A.aQm(d),p)],y.c))),p,"Get up and running with Identifier in minutes","Quick Start",p,C.d5)
 u=n.Q
 v=B.d(p,u,p)
 w=y.u
@@ -248,14 +249,14 @@ n.toString
 m=x.z
 r=x.x
 q=p.f
-s.push(new B.an(new B.G(20,w,20,0),B.t(B.a([B.R(B.a([B.a9(B.a1(p.c,o,o,o,o,o,o,B.r(o,o,n.a,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o),o,o,o,o,o),1),B.d(o,o,m),new B.dc(p.e,C.ht,C.b0,o,o)],t),C.R,C.m,C.p,0,o),B.d(o,r,o),B.a1(p.d,o,o,o,o,o,o,B.r(o,o,l.f,o,o,o,o,o,o,o,o,B.p(C.F),o,o,B.q(C.A),o,1.45,!0,o,o,o,o,o,o,o,o),o,o,o,o,o),B.d(o,m,o),B.fU(C.bA,B.a([new B.dc(q,A.cjZ(q),C.b0,o,o),new B.dc(p.r,C.bn,C.b0,o,o)],t),C.ca,x.w,r),B.d(o,m,o),p.w],t),C.R,C.m,C.p,0,C.q),o))
+s.push(new B.an(new B.G(20,w,20,0),B.t(B.a([B.R(B.a([B.a9(B.a1(p.c,o,o,o,o,o,o,B.r(o,o,n.a,o,o,o,o,o,o,o,o,B.p(C.Y),o,o,B.q(C.D),o,o,!0,o,o,o,o,o,o,o,o),o,o,o,o,o),1),B.d(o,o,m),new B.dc(p.e,C.ht,C.b0,o,o)],t),C.R,C.m,C.p,0,o),B.d(o,r,o),B.a1(p.d,o,o,o,o,o,o,B.r(o,o,l.f,o,o,o,o,o,o,o,o,B.p(C.F),o,o,B.q(C.A),o,1.45,!0,o,o,o,o,o,o,o,o),o,o,o,o,o),B.d(o,m,o),B.fU(C.bA,B.a([new B.dc(q,A.cjX(q),C.b0,o,o),new B.dc(p.r,C.bn,C.b0,o,o)],t),C.ca,x.w,r),B.d(o,m,o),p.w],t),C.R,C.m,C.p,0,C.q),o))
 s.push(C.c_)
 t=x.as
 s.push(new B.an(new B.G(t,x.Q,t,t),p.x,o))
 return B.a4(o,B.t(s,C.v,C.m,C.p,0,C.q),C.y,o,o,new B.aa(l.r,o,u,v,o,o,C.G),o,o,o,o,o,o,o,o)}}
 A.ah8.prototype={
 p(d){var x=this
-return A.bWn(new A.b3g(),D.lC,x.d,new A.b3h(),D.TT,x.e,new A.b3i(),new A.b3j(),D.b2u,x.r,x.w,x.f,x.c,new A.b3k(),!1,y.h)}}
+return A.bWl(new A.b3g(),D.lC,x.d,new A.b3h(),D.TU,x.e,new A.b3i(),new A.b3j(),D.b2u,x.r,x.w,x.f,x.c,new A.b3k(),!1,y.h)}}
 A.PW.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(B.f(d).c.h(0,B.j(y.C)))
 o.toString
@@ -307,8 +308,8 @@ return B.t(v,C.v,C.m,C.p,0,C.q)}}
 A.ah4.prototype={
 p(d){var x,w,v,u,t,s,r,q=null,p=y.F.a(B.f(d).c.h(0,B.j(y.C)))
 p.toString
-x=B.pl(q,p.e,!0)
-w=B.bT(B.aO(D.nV,p.f,q,56),q,q)
+x=B.oe(q,p.e,!0)
+w=B.bT(B.aO(D.nU,p.f,q,56),q,q)
 p=B.kI(q,B.a1(this.c,q,q,q,q,q,q,B.r(q,q,p.d,q,q,q,q,q,q,q,q,B.p(C.ag),q,q,B.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a2(C.O),q,q,q,q,q),q,q,12,q,10,q)
 v=y.D
 u=y.y
@@ -318,11 +319,11 @@ t=t.w
 s=u.a(B.f(d).c.h(0,B.j(v)))
 s.toString
 s=s.f
-r=C.a8.bT(0.7)
+r=C.a6.bR(0.7)
 v=u.a(B.f(d).c.h(0,B.j(v)))
 v.toString
 v=B.ac(v.a)
-return B.d(B.fp(C.bP,B.a([x,w,p,B.kI(10,B.a4(q,B.a1(this.d,q,q,q,q,q,q,B.r(q,q,C.X,q,q,q,q,q,q,q,q,B.p(C.ag),q,q,B.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a2(C.hC),q,q,q,q,q),C.y,q,q,new B.aa(r,q,q,v,q,q,C.G),q,q,q,q,new B.G(t,s,t,s),q,q,q),q,q,q,10,q,q)],y.u),C.au,C.yo),160,q)}}
+return B.d(B.fp(C.bP,B.a([x,w,p,B.kI(10,B.a4(q,B.a1(this.d,q,q,q,q,q,q,B.r(q,q,C.X,q,q,q,q,q,q,q,q,B.p(C.ag),q,q,B.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a2(C.hC),q,q,q,q,q),C.y,q,q,new B.aa(r,q,q,v,q,q,C.G),q,q,q,q,new B.G(t,s,t,s),q,q,q),q,q,q,10,q,q)],y.u),C.au,C.yn),160,q)}}
 A.EP.prototype={
 p(d){var x=null,w=y.F.a(B.f(d).c.h(0,B.j(y.C)))
 w.toString
@@ -387,7 +388,7 @@ $0(){return this.a.r=this.b},
 $S:0}
 A.aDG.prototype={
 $2(d,e){var x=e.c,w=D.lC.h(0,x)
-return A.cnR(d,e,w==null?x:w)},
+return A.cnP(d,e,w==null?x:w)},
 $S:z+3}
 A.aDK.prototype={
 $1(d){return d.a+" "+d.b+" "+d.f},
@@ -400,14 +401,14 @@ $1(d){return d.d},
 $S:z+1}
 A.aDJ.prototype={
 $1(d){return d>=720?2:1},
-$S:193}
+$S:204}
 A.aKH.prototype={
 $2(d,e){var x,w,v,u,t,s=null,r=e.b>=720?2:1,q=y.u,p=B.a([],q)
 for(x=this.a.c,w=0;w<3;++w){v=D.b2R[w]
 u=v.e
 t=x.h(0,u)
 u=t==null?u:t
-p.push(new A.O8(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cy(1,C.aE,new A.EP(C.vv,v.f,s),s),new B.cy(1,C.aE,new A.EP(D.D_,v.r,s),s)],q),C.z,C.m,C.p,0,s),new B.of("Start Tutorial",new A.aKG(),C.aO,C.a6,D.nV,s,s,!1,!1,s,s,1/0,C.I,s,s,s),s,s))}return new E.mH(r,16,p,!0,s)},
+p.push(new A.O8(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cy(1,C.aE,new A.EP(C.vu,v.f,s),s),new B.cy(1,C.aE,new A.EP(D.D0,v.r,s),s)],q),C.z,C.m,C.p,0,s),new B.og("Start Tutorial",new A.aKG(),C.aO,C.a7,D.nU,s,s,!1,!1,s,s,1/0,C.I,s,s,s),s,s))}return new E.mH(r,16,p,!0,s)},
 $S:z+0}
 A.aKG.prototype={
 $0(){},
@@ -416,7 +417,7 @@ A.aQk.prototype={
 $0(){return B.aD(this.a).a.hx(0,"help-getting-started")},
 $S:0}
 A.aQl.prototype={
-$0(){return A.cra(this.a)},
+$0(){return A.cr8(this.a)},
 $S:0}
 A.aQm.prototype={
 $0(){return B.aD(this.a).a.hx(0,"help-interactive-tutorial")},
@@ -446,14 +447,14 @@ $S:0}
 A.aQf.prototype={
 $0(){},
 $S:0}
-A.bDi.prototype={
-$1(d){var x=$.pa()
+A.bDh.prototype={
+$1(d){var x=$.pb()
 x.a=0
 x.Y()},
 $S:7}
 A.b3g.prototype={
 $2(d,e){var x=e.c,w=D.lC.h(0,x)
-return A.co7(d,e,w==null?x:w)},
+return A.co5(d,e,w==null?x:w)},
 $S:z+4}
 A.b3k.prototype={
 $1(d){return d.a+" "+d.b+" "+d.f},
@@ -469,11 +470,11 @@ $1(d){var x
 if(d>=1080)x=3
 else x=d>=720?2:1
 return x},
-$S:193}
-A.bxd.prototype={
+$S:204}
+A.bxc.prototype={
 $0(){},
 $S:0}
-A.bxe.prototype={
+A.bxd.prototype={
 $0(){},
 $S:0}
 A.aXd.prototype={
@@ -492,43 +493,42 @@ x=B.a([],y.u)
 for(w=this.b,v=w.length,t=t.x,u=0;u<w.length;w.length===v||(0,B.J)(w),++u)x.push(t.$2(d,w[u]))
 return new E.mH(s,r.Q,x,!0,null)},
 $S:z+0}
-A.bAe.prototype={
+A.bAd.prototype={
 $0(){},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(A.uV,B.ab)
 x(A.anE,B.ad)
-w(B.ir,[A.bgY,A.bgQ,A.bgR,A.bgS,A.bgT,A.bgU,A.bgV,A.bgW,A.aDK,A.aDH,A.aDI,A.aDJ,A.bDi,A.b3k,A.b3h,A.b3i,A.b3j,A.aXd])
-w(B.km,[A.bgX,A.bgP,A.bgO,A.bgN,A.bgM,A.bgL,A.bgK,A.bgJ,A.aKG,A.aQk,A.aQl,A.aQm,A.aQg,A.aQh,A.aQi,A.aQe,A.aQf,A.bxd,A.bxe,A.bAe])
+w(B.ir,[A.bgY,A.bgQ,A.bgR,A.bgS,A.bgT,A.bgU,A.bgV,A.bgW,A.aDK,A.aDH,A.aDI,A.aDJ,A.bDh,A.b3k,A.b3h,A.b3i,A.b3j,A.aXd])
+w(B.km,[A.bgX,A.bgP,A.bgO,A.bgN,A.bgM,A.bgL,A.bgK,A.bgJ,A.aKG,A.aQk,A.aQl,A.aQm,A.aQg,A.aQh,A.aQi,A.aQe,A.aQf,A.bxc,A.bxd,A.bAd])
 w(B.P,[A.lq,A.El,A.lr])
 w(B.L,[A.a5j,A.a7R,A.abf,A.O8,A.ah8,A.PW,A.FH,A.A8,A.RH,A.ah4,A.EP])
 w(B.ma,[A.aDG,A.aKH,A.aQj,A.aQn,A.b3g,A.aXe])})()
 B.lW(b.typeUniverse,JSON.parse('{"uV":{"ab":[],"e":[],"i":[]},"anE":{"ad":["uV"]},"a5j":{"L":[],"e":[],"i":[]},"a7R":{"L":[],"e":[],"i":[]},"abf":{"L":[],"e":[],"i":[]},"O8":{"L":[],"e":[],"i":[]},"ah8":{"L":[],"e":[],"i":[]},"PW":{"L":[],"e":[],"i":[]},"FH":{"L":[],"e":[],"i":[]},"A8":{"L":[],"e":[],"i":[]},"RH":{"L":[],"e":[],"i":[]},"ah4":{"L":[],"e":[],"i":[]},"EP":{"L":[],"e":[],"i":[]}}'))
 var y=(function rtii(){var x=B.a8
 return{C:x("e8"),D:x("ey"),p:x("aC<c,c>"),l:x("lq"),h:x("lr"),c:x("u<A8>"),x:x("u<c>"),u:x("u<e>"),F:x("e8?"),y:x("ey?")}})();(function constants(){var x=a.makeConstList
-D.acZ=new B.aF(58574,"MaterialIcons",null,!1)
-D.CR=new B.aF(58874,"MaterialIcons",null,!1)
-D.D_=new B.aF(61890,"MaterialIcons",null,!1)
-D.nV=new B.aF(62126,"MaterialIcons",null,!1)
-D.acs=new A.lq("Getting Started with Identifier","Complete guide to setting up your factory identity management system","getting-started","beginner","15 min","PDF Guide","4.8","1240 views","2.3 MB","2024-01-15")
-D.acr=new A.lq("Entity Management Best Practices","Learn how to effectively organize and manage people, machines, tools, and materials","entity-management","intermediate","25 min","PDF Manual","4.9","980 views","4.1 MB","2024-01-12")
-D.acn=new A.lq("Label Printing & QR Code Setup","Step-by-step instructions for configuring label printing and QR code generation","getting-started","beginner","10 min","Quick Guide","4.7","756 views","1.8 MB","2024-01-10")
-D.aco=new A.lq("Compliance Reporting Configuration","Advanced configuration for compliance tracking and automated reporting","compliance","advanced","45 min","Technical Manual","4.6","432 views","6.2 MB","2024-01-08")
-D.acp=new A.lq("User Roles & Permissions Guide","Comprehensive guide to setting up user roles and managing permissions","user-management","intermediate","20 min","Configuration Guide","4.8","612 views","3.4 MB","2024-01-05")
-D.acq=new A.lq("API Integration Handbook","Developer guide for integrating Identifier with external systems","integrations","advanced","60 min","API Documentation","4.5","287 views","8.7 MB","2024-01-03")
-D.aNV=x([D.acs,D.acr,D.acn,D.aco,D.acp,D.acq],B.a8("u<lq>"))
-D.acw=new A.lr("Platform Overview & Quick Tour","Get familiar with the Identifier interface and main features","getting-started","beginner","8:32","Overview","4.9","2340 views","2024-01-18")
-D.acB=new A.lr("Creating Your First Working Area","Learn how to set up departments, floors, and zones in your factory","entity-management","beginner","12:15","Tutorial","4.8","1890 views","2024-01-16")
-D.acA=new A.lr("Advanced Machine Management","Deep dive into machine tracking, maintenance scheduling, and performance monitoring","entity-management","intermediate","18:45","Deep Dive","4.7","1456 views","2024-01-14")
-D.acx=new A.lr("Setting Up User Permissions","Configure role-based access control and manage user permissions effectively","user-management","intermediate","15:20","Configuration","4.6","1123 views","2024-01-12")
-D.acz=new A.lr("Compliance Dashboard Walkthrough","Navigate the compliance features and generate audit reports","compliance","intermediate","22:10","Walkthrough","4.8","834 views","2024-01-10")
-D.acy=new A.lr("Troubleshooting Common Issues","Solutions to frequently encountered problems and error messages","troubleshooting","beginner","16:55","Troubleshooting","4.9","1678 views","2024-01-08")
-D.b2u=x([D.acw,D.acB,D.acA,D.acx,D.acz,D.acy],B.a8("u<lr>"))
-D.acu=new A.El("Interactive Onboarding","Complete guided tour of the platform with hands-on exercises","Interactive Guide","beginner","getting-started","30 min","12 steps")
-D.acv=new A.El("Entity Setup Wizard","Step-by-step tutorial for creating your first entities","Wizard","beginner","entity-management","20 min","8 steps")
-D.act=new A.El("Advanced Reporting Tutorial","Learn to create custom reports and dashboards","Advanced Tutorial","advanced","compliance","45 min","15 steps")
-D.b2R=x([D.acu,D.acv,D.act],B.a8("u<El>"))
+D.CS=new B.aF(58874,"MaterialIcons",null,!1)
+D.D0=new B.aF(61890,"MaterialIcons",null,!1)
+D.nU=new B.aF(62126,"MaterialIcons",null,!1)
+D.act=new A.lq("Getting Started with Identifier","Complete guide to setting up your factory identity management system","getting-started","beginner","15 min","PDF Guide","4.8","1240 views","2.3 MB","2024-01-15")
+D.acs=new A.lq("Entity Management Best Practices","Learn how to effectively organize and manage people, machines, tools, and materials","entity-management","intermediate","25 min","PDF Manual","4.9","980 views","4.1 MB","2024-01-12")
+D.aco=new A.lq("Label Printing & QR Code Setup","Step-by-step instructions for configuring label printing and QR code generation","getting-started","beginner","10 min","Quick Guide","4.7","756 views","1.8 MB","2024-01-10")
+D.acp=new A.lq("Compliance Reporting Configuration","Advanced configuration for compliance tracking and automated reporting","compliance","advanced","45 min","Technical Manual","4.6","432 views","6.2 MB","2024-01-08")
+D.acq=new A.lq("User Roles & Permissions Guide","Comprehensive guide to setting up user roles and managing permissions","user-management","intermediate","20 min","Configuration Guide","4.8","612 views","3.4 MB","2024-01-05")
+D.acr=new A.lq("API Integration Handbook","Developer guide for integrating Identifier with external systems","integrations","advanced","60 min","API Documentation","4.5","287 views","8.7 MB","2024-01-03")
+D.aNV=x([D.act,D.acs,D.aco,D.acp,D.acq,D.acr],B.a8("u<lq>"))
+D.acx=new A.lr("Platform Overview & Quick Tour","Get familiar with the Identifier interface and main features","getting-started","beginner","8:32","Overview","4.9","2340 views","2024-01-18")
+D.acC=new A.lr("Creating Your First Working Area","Learn how to set up departments, floors, and zones in your factory","entity-management","beginner","12:15","Tutorial","4.8","1890 views","2024-01-16")
+D.acB=new A.lr("Advanced Machine Management","Deep dive into machine tracking, maintenance scheduling, and performance monitoring","entity-management","intermediate","18:45","Deep Dive","4.7","1456 views","2024-01-14")
+D.acy=new A.lr("Setting Up User Permissions","Configure role-based access control and manage user permissions effectively","user-management","intermediate","15:20","Configuration","4.6","1123 views","2024-01-12")
+D.acA=new A.lr("Compliance Dashboard Walkthrough","Navigate the compliance features and generate audit reports","compliance","intermediate","22:10","Walkthrough","4.8","834 views","2024-01-10")
+D.acz=new A.lr("Troubleshooting Common Issues","Solutions to frequently encountered problems and error messages","troubleshooting","beginner","16:55","Troubleshooting","4.9","1678 views","2024-01-08")
+D.b2u=x([D.acx,D.acC,D.acB,D.acy,D.acA,D.acz],B.a8("u<lr>"))
+D.acv=new A.El("Interactive Onboarding","Complete guided tour of the platform with hands-on exercises","Interactive Guide","beginner","getting-started","30 min","12 steps")
+D.acw=new A.El("Entity Setup Wizard","Step-by-step tutorial for creating your first entities","Wizard","beginner","entity-management","20 min","8 steps")
+D.acu=new A.El("Advanced Reporting Tutorial","Learn to create custom reports and dashboards","Advanced Tutorial","advanced","compliance","45 min","15 steps")
+D.b2R=x([D.acv,D.acw,D.acu],B.a8("u<El>"))
 D.bf7={all:0,beginner:1,intermediate:2,advanced:3}
-D.TT=new B.aC(D.bf7,["All levels","Beginner","Intermediate","Advanced"],y.p)
+D.TU=new B.aC(D.bf7,["All levels","Beginner","Intermediate","Advanced"],y.p)
 D.bfm={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
 D.lC=new B.aC(D.bfm,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)})()};
-(a=>{a["kmR3UKjRqb0qOkokx7CaQJ6qppM="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["P+2cDyoxe36D2gfdeVbdsMwPnnc="]=a.current})($__dart_deferred_initializers__);
