@@ -3110,7 +3110,7 @@ aI(){this.bc()
 this.HK()},
 HK(){var x=0,w=A.E(y.H),v,u=2,t=[],s=this,r,q,p,o,n,m,l
 var $async$HK=A.A(function(d,e){if(d===1){t.push(e)
-x=u}for(;;)switch(x){case 0:o=A.cY("https://www.w3schools.com/html/mov_bbb.mp4",0,null).j(0)
+x=u}for(;;)switch(x){case 0:o=A.cY("https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",0,null).j(0)
 n=$.aH()
 m=new B.TA(o,C.bxT,n)
 s.d=m
@@ -5127,4 +5127,4 @@ x($,"cAf","c2I",()=>new A.P())
 w($,"cAe","c2H",()=>{var v=new B.bmW()
 v.r4($.c2I())
 return v})})()};
-(a=>{a["Bk1g2RoS3eK9KI3UUuu+gjsca/M="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["O68dk6Dp1gwoxU8zO5IbURFIAog="]=a.current})($__dart_deferred_initializers__);
