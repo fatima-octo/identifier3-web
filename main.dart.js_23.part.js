@@ -95,7 +95,7 @@ w.d!==$&&A.aT()
 w.d=x
 v=x}return v},
 aMj(){var x="Operator",w="generate_reports",v=y.N
-return A.a([new C.w_("Admin","Admin","Full system access with user management capabilities",2,B.K_,new A.a0(D.qn,new C.bp4(),y.G).hk(0),!0),new C.w_(x,x,"Standard user with read/write access to assigned areas",5,D.b4s,A.dG(["view_dashboard","manage_people","manage_machines","manage_tools","manage_materials","print_labels",w],v),!1),new C.w_("Viewer","Viewer","Read-only access for monitoring and reporting",3,D.aYM,A.dG(["view_dashboard",w],v),!1)],y.M)},
+return A.a([new C.w_("Admin","Admin","Full system access with user management capabilities",2,B.K_,new A.a0(D.qn,new C.bp4(),y.G).hk(0),!0),new C.w_(x,x,"Standard user with read/write access to assigned areas",5,D.b4r,A.dG(["view_dashboard","manage_people","manage_machines","manage_tools","manage_materials","print_labels",w],v),!1),new C.w_("Viewer","Viewer","Read-only access for monitoring and reporting",3,D.aYL,A.dG(["view_dashboard",w],v),!1)],y.M)},
 axP(){this.A(new C.bp_(this))},
 auj(){this.A(new C.boZ(this))},
 aLV(){this.A(new C.bp3(this))},
@@ -318,7 +318,7 @@ $1(d){var x=this.a
 return x.r.$3(this.b.a,x.c.a,d)},
 $S:3}
 C.aBx.prototype={
-$1(d){return D.a7j},
+$1(d){return D.a7i},
 $S:z+5}
 C.b8J.prototype={
 $0(){var x=this.c,w=this.a.f
@@ -388,20 +388,20 @@ A.lW(b.typeUniverse,JSON.parse('{"w0":{"ab":[],"e":[],"i":[]},"XP":{"ad":["w0"]}
 var y=(function rtii(){var x=A.a8
 return{S:x("e8"),K:x("ey"),w:x("a2w"),v:x("u<I<w_>>"),M:x("u<w_>"),s:x("u<c>"),p:x("u<e>"),_:x("f_<hK,c>"),G:x("a0<hK,c>"),C:x("co<c>"),N:x("c"),y:x("aE<hK>"),a:x("e8?"),r:x("ey?"),H:x("~")}})();(function constants(){var x=a.makeConstList
 D.a2Q=new A.az(0,480,0,1/0)
-D.a7j=new C.y4(null)
-D.aYM=x(["View assigned data","Generate basic reports"],y.s)
-D.b4s=x(["View assigned data","Edit assigned entities","Print labels","Generate basic reports"],y.s)
-D.abW=new C.hK("view_dashboard","View Dashboard")
-D.abX=new C.hK("manage_people","Manage People")
-D.abQ=new C.hK("manage_machines","Manage Machines")
-D.abY=new C.hK("manage_tools","Manage Tools")
-D.abS=new C.hK("manage_materials","Manage Materials")
-D.abR=new C.hK("import_entity_data","Import Entity Data")
-D.abP=new C.hK("print_labels","Print Labels")
-D.abU=new C.hK("generate_reports","Generate Reports")
-D.abT=new C.hK("user_management","User Management")
-D.abO=new C.hK("system_configuration","System Configuration")
-D.abV=new C.hK("audit_logs","Audit Logs")
-D.qn=x([D.abW,D.abX,D.abQ,D.abY,D.abS,D.abR,D.abP,D.abU,D.abT,D.abO,D.abV],A.a8("u<hK>"))
+D.a7i=new C.y4(null)
+D.aYL=x(["View assigned data","Generate basic reports"],y.s)
+D.b4r=x(["View assigned data","Edit assigned entities","Print labels","Generate basic reports"],y.s)
+D.abV=new C.hK("view_dashboard","View Dashboard")
+D.abW=new C.hK("manage_people","Manage People")
+D.abP=new C.hK("manage_machines","Manage Machines")
+D.abX=new C.hK("manage_tools","Manage Tools")
+D.abR=new C.hK("manage_materials","Manage Materials")
+D.abQ=new C.hK("import_entity_data","Import Entity Data")
+D.abO=new C.hK("print_labels","Print Labels")
+D.abT=new C.hK("generate_reports","Generate Reports")
+D.abS=new C.hK("user_management","User Management")
+D.abN=new C.hK("system_configuration","System Configuration")
+D.abU=new C.hK("audit_logs","Audit Logs")
+D.qn=x([D.abV,D.abW,D.abP,D.abX,D.abR,D.abQ,D.abO,D.abT,D.abS,D.abN,D.abU],A.a8("u<hK>"))
 D.xj=new A.aC(B.cJ,[],A.a8("aC<c,co<c>>"))})()};
-(a=>{a["IopWNiUC3OrUWCc91XWexkExAqc="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["HewK7BfiReHMPWRddpVTHu1b1/Y="]=a.current})($__dart_deferred_initializers__);
