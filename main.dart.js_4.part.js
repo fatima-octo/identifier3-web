@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9v(){return new B.yx(null)},
+c9w(){return new B.yx(null)},
 yx:function yx(d){this.a=d},
 aGl:function aGl(d){this.a=d},
 aGm:function aGm(d,e){this.a=d
@@ -64,7 +64,7 @@ v.akO("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.L,[B.yx,B.amK])
 x(A.kn,[B.aGl,B.aGn])
-w(B.aGm,A.is)
+w(B.aGm,A.it)
 w(B.l2,A.P)})()
 A.lX(b.typeUniverse,JSON.parse('{"yx":{"L":[],"f":[],"i":[]},"amK":{"L":[],"f":[],"i":[]}}'))
 var y={C:A.a8("e9"),D:A.a8("ey"),u:A.a8("u<f>"),w:A.a8("c"),F:A.a8("e9?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
@@ -81,4 +81,4 @@ D.bBa=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBg=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bB9=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBi,D.bBf,D.bBd,D.bBc,D.bBj,D.bBb,D.bBk,D.bBh,D.bBe,D.bBa,D.bBg,D.bB9],A.a8("u<l2>"))})()};
-(a=>{a["OCQbSb4ZCbmctVwqm3/zZ/ZLhNU="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["3tuOI6eATwZapaDVKLBKTGqSZR4="]=a.current})($__dart_deferred_initializers__);
