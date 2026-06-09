@@ -70,7 +70,7 @@ this.a=e},
 aVY:function aVY(d){this.a=d},
 arX:function arX(d,e){this.c=d
 this.a=e},
-hK:function hK(d,e){this.a=d
+hL:function hL(d,e){this.a=d
 this.b=e},
 w1:function w1(d,e,f,g,h,i,j){var _=this
 _.a=d
@@ -114,7 +114,7 @@ return A.D($async$HV,w)},
 p(d){var x,w,v,u,t=this,s=null,r="locations",q=y.r.a(A.e(d).c.h(0,A.j(y.K)))
 q.toString
 x=y.p
-w=A.bNw("Configure user roles and permissions",B.dH,s,s,A.mZ(d,r),F.KF(d,r),"Roles & Permissions",A.a([A.aA(s,!1,B.G,s,s,!1,"Create Role",B.e2,s,t.gaJ9(),s,B.a6,s,B.aO,s)],x))
+w=A.bNw("Configure user roles and permissions",B.dH,s,s,A.mZ(d,r),F.KF(d,r),"Roles & Permissions",A.a([A.aB(s,!1,B.G,s,s,!1,"Create Role",B.e2,s,t.gaJ9(),s,B.a7,s,B.aO,s)],x))
 q=q.Q
 v=A.d(s,q,s)
 u=t.gIr()
@@ -135,8 +135,8 @@ t=A.aO(u,1)
 s=y.p
 r=A.a([A.a9(A.af("Access Control Matrix",l,l,A.r(l,l,k.d,l,l,l,l,l,l,l,l,A.p(B.az),l,l,A.q(B.D),l,l,!0,l,l,l,l,l,l,l,l).a3(B.O),l),1)],s)
 q=m.d
-if(!q)r.push(A.aA(l,!1,B.G,l,l,!1,"Edit Roles",B.ew,l,m.f,l,B.b_,l,B.aa,l))
-else B.f.t(r,A.a([A.aA(l,!1,B.G,l,l,!1,"Cancel",l,l,m.r,l,B.b_,l,B.aa,l),A.d(l,l,v.x),A.aA(l,!1,B.G,l,l,!1,"Save Changes",l,l,m.w,l,B.b_,l,B.aO,l)],s))
+if(!q)r.push(A.aB(l,!1,B.G,l,l,!1,"Edit Roles",B.ew,l,m.f,l,B.b_,l,B.aa,l))
+else B.f.t(r,A.a([A.aB(l,!1,B.G,l,l,!1,"Cancel",l,l,m.r,l,B.b_,l,B.aa,l),A.d(l,l,v.x),A.aB(l,!1,B.G,l,l,!1,"Save Changes",l,l,m.w,l,B.b_,l,B.aO,l)],s))
 p=m.c
 v=A.a([A.R(r,B.z,B.n,B.p,0,l),A.d(l,v.Q,l),new C.ap1(p,l)],s)
 for(r=m.e,o=m.x,n=0;n<11;++n)B.f.t(v,A.a([new A.i1(1,l,u,l),new C.ap2(D.qo[n],p,q,r,o,l)],s))
@@ -218,9 +218,9 @@ f=A.ad(v.b)
 q=A.aO(q,1)
 f=A.a5(d,A.RK(A.aLV(new C.b97(e,v),11,new A.H(m,n,m,n),d,!1),d,!0),B.y,d,d,new A.aa(s,d,q,f,d,d,B.H),d,240,d,d,d,d,d,d)
 v=A.d(d,v.at,d)
-q=A.aA(d,!1,B.G,d,d,!1,"Cancel",d,d,new C.b98(a3),d,B.a6,d,B.aa,d)
+q=A.aB(d,!1,B.G,d,d,!1,"Cancel",d,d,new C.b98(a3),d,B.a7,d,B.aa,d)
 n=A.d(d,d,n)
-return A.yr(B.a_,new A.dc(D.a38,A.a5(d,new A.an(new A.H(x,x,x,x),A.t(A.a([a0,l,k,j,i,h,a2,a1,w,g,f,v,A.R(A.a([q,n,A.aA(d,!1,B.G,d,d,!1,"Create Role",d,d,u.length!==0?e.gaOa():d,d,B.a6,d,B.aO,d)],o),B.z,B.dd,B.p,0,d)],o),B.v,B.n,B.M,0,B.q),d),B.y,d,d,new A.aa(s,d,p,r,d,d,B.H),d,d,d,d,d,d,d,d),d),d,d,new A.H(t,t,t,t),d,d,d)}}
+return A.yr(B.a_,new A.dc(D.a38,A.a5(d,new A.an(new A.H(x,x,x,x),A.t(A.a([a0,l,k,j,i,h,a2,a1,w,g,f,v,A.R(A.a([q,n,A.aB(d,!1,B.G,d,d,!1,"Create Role",d,d,u.length!==0?e.gaOa():d,d,B.a7,d,B.aO,d)],o),B.z,B.dd,B.p,0,d)],o),B.v,B.n,B.M,0,B.q),d),B.y,d,d,new A.aa(s,d,p,r,d,d,B.H),d,d,d,d,d,d,d,d),d),d,d,new A.H(t,t,t,t),d,d,d)}}
 C.adE.prototype={
 p(d){var x,w,v,u,t=null,s=y.a.a(A.e(d).c.h(0,A.j(y.S)))
 s.toString
@@ -261,11 +261,11 @@ i=A.aP(B.e3,o,f,16)
 h=A.p(B.F)
 g=A.q(B.A)
 v.push(new A.an(new A.H(0,0,0,n.w),A.R(A.a([i,new A.aR(l,f,f,f),new A.cy(1,B.aE,new A.cm(j,new A.N(!0,q,f,f,f,f,h,g,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f),f,f,f,f,f,f,f,f,f,f,f,f),f)],m),B.R,B.n,B.p,0,f),f))}return A.a5(f,A.t(v,B.R,B.n,B.M,0,B.q),B.y,f,f,new A.aa(e.r,f,s,t,f,f,B.H),f,f,f,f,new A.H(u,u,u,u),f,f,f)}}
-C.hK.prototype={}
+C.hL.prototype={}
 C.w1.prototype={
 gc6(d){return this.a},
 gaA(d){return this.b}}
-var z=a.updateTypes(["~()","c(hK)","~(c,c,M)","ap<~>()","M(hK)","y7(A)"])
+var z=a.updateTypes(["~()","c(hL)","~(c,c,M)","ap<~>()","M(hL)","y7(A)"])
 C.bpp.prototype={
 $1(d){return d.a},
 $S:z+1}
@@ -361,7 +361,7 @@ for(m=this.a.c,v=0;u=m.length,v<u;v=t){t=v+x
 w.push(B.f.cz(m,v,B.t.bp(t,0,u)))}m=y.p
 u=A.a([],m)
 for(s=0;s<w.length;++s){r=A.a([],m)
-if(s>0)r.push(B.m2)
+if(s>0)r.push(B.m1)
 q=A.a([],m)
 for(v=0;v<x;++v){p=A.a([],m)
 if(v>0)p.push(E.a_z)
@@ -382,26 +382,26 @@ x(A.ac,[C.XV,C.UR])
 x(A.it,[C.bpp,C.bpl,C.bpm,C.bll,C.aBG,C.b95,C.b96,C.b91])
 x(A.kn,[C.bpk,C.bpj,C.bpo,C.bpq,C.bpn,C.b90,C.b94,C.b93,C.b92,C.b98])
 x(A.L,[C.a0c,C.ap1,C.ap2,C.adE,C.arX])
-x(A.P,[C.a2D,C.hK,C.w1])
+x(A.P,[C.a2D,C.hL,C.w1])
 x(A.mb,[C.b97,C.aVY])})()
 A.lX(b.typeUniverse,JSON.parse('{"w2":{"ab":[],"f":[],"i":[]},"XV":{"ac":["w2"]},"a0c":{"L":[],"f":[],"i":[]},"ap1":{"L":[],"f":[],"i":[]},"ap2":{"L":[],"f":[],"i":[]},"y7":{"ab":[],"f":[],"i":[]},"UR":{"ac":["y7"]},"adE":{"L":[],"f":[],"i":[]},"arX":{"L":[],"f":[],"i":[]}}'))
 var y=(function rtii(){var x=A.a8
-return{S:x("e9"),K:x("ey"),w:x("a2D"),v:x("u<I<w1>>"),M:x("u<w1>"),s:x("u<c>"),p:x("u<f>"),_:x("f_<hK,c>"),G:x("a_<hK,c>"),C:x("co<c>"),N:x("c"),y:x("aG<hK>"),a:x("e9?"),r:x("ey?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-D.a38=new A.aB(0,480,0,1/0)
+return{S:x("e9"),K:x("ey"),w:x("a2D"),v:x("u<I<w1>>"),M:x("u<w1>"),s:x("u<c>"),p:x("u<f>"),_:x("f_<hL,c>"),G:x("a_<hL,c>"),C:x("co<c>"),N:x("c"),y:x("aG<hL>"),a:x("e9?"),r:x("ey?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+D.a38=new A.aA(0,480,0,1/0)
 D.a7C=new C.y7(null)
 D.aZ1=x(["View assigned data","Generate basic reports"],y.s)
 D.b4B=x(["View assigned data","Edit assigned entities","Print labels","Generate basic reports"],y.s)
-D.ace=new C.hK("view_dashboard","View Dashboard")
-D.acf=new C.hK("manage_people","Manage People")
-D.ac8=new C.hK("manage_machines","Manage Machines")
-D.acg=new C.hK("manage_tools","Manage Tools")
-D.aca=new C.hK("manage_materials","Manage Materials")
-D.ac9=new C.hK("import_entity_data","Import Entity Data")
-D.ac7=new C.hK("print_labels","Print Labels")
-D.acc=new C.hK("generate_reports","Generate Reports")
-D.acb=new C.hK("user_management","User Management")
-D.ac6=new C.hK("system_configuration","System Configuration")
-D.acd=new C.hK("audit_logs","Audit Logs")
-D.qo=x([D.ace,D.acf,D.ac8,D.acg,D.aca,D.ac9,D.ac7,D.acc,D.acb,D.ac6,D.acd],A.a8("u<hK>"))
+D.ace=new C.hL("view_dashboard","View Dashboard")
+D.acf=new C.hL("manage_people","Manage People")
+D.ac8=new C.hL("manage_machines","Manage Machines")
+D.acg=new C.hL("manage_tools","Manage Tools")
+D.aca=new C.hL("manage_materials","Manage Materials")
+D.ac9=new C.hL("import_entity_data","Import Entity Data")
+D.ac7=new C.hL("print_labels","Print Labels")
+D.acc=new C.hL("generate_reports","Generate Reports")
+D.acb=new C.hL("user_management","User Management")
+D.ac6=new C.hL("system_configuration","System Configuration")
+D.acd=new C.hL("audit_logs","Audit Logs")
+D.qo=x([D.ace,D.acf,D.ac8,D.acg,D.aca,D.ac9,D.ac7,D.acc,D.acb,D.ac6,D.acd],A.a8("u<hL>"))
 D.xl=new A.aE(B.cJ,[],A.a8("aE<c,co<c>>"))})()};
-(a=>{a["E403QoOUGnNoTWiRD0ZOIWW9+PM="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["qIX0nOdPRaxgSY59Jmydmqxia2k="]=a.current})($__dart_deferred_initializers__);

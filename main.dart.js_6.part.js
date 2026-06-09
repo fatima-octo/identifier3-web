@@ -205,7 +205,7 @@ v===$&&A.b()
 u=s.e
 u===$&&A.b()
 t=y.p
-p=A.a([A.Gm(C.aa,new B.bd6(w.a),r,r,r,r,r,r,"Print",A.aA(r,!1,C.G,r,r,!1,"Save",C.e3,r,!v.k(0,u)?s.gayc():r,r,C.a6,r,C.aO,r),"Set up ID format, categories, and custom fields","Configure "+p,!0),A.d(r,x.at,r)],t)
+p=A.a([A.Gm(C.aa,new B.bd6(w.a),r,r,r,r,r,r,"Print",A.aB(r,!1,C.G,r,r,!1,"Save",C.e3,r,!v.k(0,u)?s.gayc():r,r,C.a7,r,C.aO,r),"Set up ID format, categories, and custom fields","Configure "+p,!0),A.d(r,x.at,r)],t)
 if(q.bd)C.f.t(p,A.a([new B.aov(q,s.f,s.gaao(),r),A.d(r,x.Q,r)],t))
 w=s.gaao()
 p.push(new B.Ni(q,s.f,w,s.r,new B.bd7(s),new B.bd8(s),r))
@@ -388,7 +388,7 @@ for(s=x.length,r=y.O,q=0;p=x.length,q<p;x.length===s||(0,A.J)(x),++q){o=x[q]
 t.push(new A.b9(o,new A.bt(o,m,m,m,m,m),C.a1,m,r))}s=p===0?m:new B.baz(n)
 r=y.p
 v=A.a([A.cH(m,u,!1,t,"Default Value",s,v,w,y.N)],r)
-if(n.gpC().length!==0&&w!=null)C.f.t(v,A.a([A.d(m,l.f,m),new A.cG(C.a1,m,m,A.aA(m,!1,C.G,m,m,!1,"Clear default",m,m,new B.baA(n),m,C.a6,m,C.dv,m),m)],r))
+if(n.gpC().length!==0&&w!=null)C.f.t(v,A.a([A.d(m,l.f,m),new A.cG(C.a1,m,m,A.aB(m,!1,C.G,m,m,!1,"Clear default",m,m,new B.baA(n),m,C.a7,m,C.dv,m),m)],r))
 return A.t(v,C.v,C.n,C.M,0,C.q)}}
 B.a4I.prototype={
 p(d){var x,w,v,u,t,s,r,q,p,o,n=this,m=null,l=y.a.a(A.e(d).c.h(0,A.j(y.S)))
@@ -463,7 +463,7 @@ r=A.aO(h.ch,1)
 q=h.f
 p=y.p
 o=v.x
-n=A.R(A.a([A.a9(A.t(A.a([A.af("Custom Fields",i,i,A.r(i,i,h.d,i,i,i,i,i,i,i,i,A.p(C.Y),i,i,A.q(C.D),i,i,!0,i,i,i,i,i,i,i,i).a3(C.O),i),A.d(i,v.f,i),A.af("Add metadata fields and organize them into groups",i,i,A.r(i,i,q,i,i,i,i,i,i,i,i,A.p(C.F),i,i,A.q(C.A),i,i,!0,i,i,i,i,i,i,i,i),i)],p),C.R,C.n,C.p,0,C.q),1),A.aA(i,!1,C.G,i,i,!1,"Create Group",C.D3,i,i,i,C.a6,i,C.aa,i),A.d(i,i,o),A.aA(i,!1,C.G,i,i,!1,"Add Field",C.e2,i,new B.aCi(j,d),i,C.a6,i,C.aO,i)],p),C.R,C.n,C.p,0,i)
+n=A.R(A.a([A.a9(A.t(A.a([A.af("Custom Fields",i,i,A.r(i,i,h.d,i,i,i,i,i,i,i,i,A.p(C.Y),i,i,A.q(C.D),i,i,!0,i,i,i,i,i,i,i,i).a3(C.O),i),A.d(i,v.f,i),A.af("Add metadata fields and organize them into groups",i,i,A.r(i,i,q,i,i,i,i,i,i,i,i,A.p(C.F),i,i,A.q(C.A),i,i,!0,i,i,i,i,i,i,i,i),i)],p),C.R,C.n,C.p,0,C.q),1),A.aB(i,!1,C.G,i,i,!1,"Create Group",C.D3,i,i,i,C.a7,i,C.aa,i),A.d(i,i,o),A.aB(i,!1,C.G,i,i,!1,"Add Field",C.e2,i,new B.aCi(j,d),i,C.a7,i,C.aO,i)],p),C.R,C.n,C.p,0,i)
 v=v.Q
 m=A.d(i,v,i)
 l=h.dx
@@ -507,7 +507,7 @@ x.toString
 w=x.x
 v=y.p
 u=p.f
-p=A.a([A.R(A.a([A.a9(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaOd(),C.ah,C.ab,q,C.a8,r.f),1),A.d(q,q,w),new A.an(new A.H(0,0,0,x.r),A.aA(q,!1,C.G,q,q,!1,"Add",q,q,new B.aG3(r),q,C.a6,q,C.aO,q),q)],v),C.ff,C.n,C.p,0,q),A.d(q,x.f,q),A.af("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.af("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
+p=A.a([A.R(A.a([A.a9(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaOd(),C.ah,C.ab,q,C.a8,r.f),1),A.d(q,q,w),new A.an(new A.H(0,0,0,x.r),A.aB(q,!1,C.G,q,q,!1,"Add",q,q,new B.aG3(r),q,C.a7,q,C.aO,q),q)],v),C.ff,C.n,C.p,0,q),A.d(q,x.f,q),A.af("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.af("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
 x=r.d.w
 if(x.length===0)p.push(A.af("No categories yet \u2014 add one above.",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.F),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q))
 else{v=A.a([],v)
@@ -734,8 +734,8 @@ x(A.it,[B.bd7,B.bhC,B.bhD,B.bhE,B.bhF,B.bhG,B.bhH,B.aAy,B.b7N,B.b7O,B.aCf,B.baD,
 x(A.L,[B.aov,B.ao8,B.aow,B.KJ,B.a1W,B.a4I,B.a4J,B.Ni,B.adl])})()
 A.lX(b.typeUniverse,JSON.parse('{"uN":{"ab":[],"f":[],"i":[]},"VH":{"ac":["uN"]},"aov":{"L":[],"f":[],"i":[]},"ao8":{"L":[],"f":[],"i":[]},"aow":{"L":[],"f":[],"i":[]},"KJ":{"L":[],"f":[],"i":[]},"a1W":{"L":[],"f":[],"i":[]},"xV":{"ab":[],"f":[],"i":[]},"akU":{"ac":["xV"]},"yf":{"ab":[],"f":[],"i":[]},"V3":{"ac":["yf"]},"a4I":{"L":[],"f":[],"i":[]},"a4J":{"L":[],"f":[],"i":[]},"Ni":{"L":[],"f":[],"i":[]},"adl":{"L":[],"f":[],"i":[]}}'))
 var y=(function rtii(){var x=A.a8
-return{S:x("e9"),K:x("ey"),I:x("i0"),T:x("hH"),z:x("b9<hH>"),q:x("b9<kC>"),O:x("b9<c>"),A:x("u<i0>"),d:x("u<b9<hH>>"),t:x("u<b9<c>>"),s:x("u<c>"),p:x("u<f>"),L:x("kC"),e:x("a_<c,c>"),N:x("c"),a:x("e9?"),r:x("ey?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-D.a33=new A.aB(0,280,0,1/0)
+return{S:x("e9"),K:x("ey"),I:x("i0"),T:x("hI"),z:x("b9<hI>"),q:x("b9<kC>"),O:x("b9<c>"),A:x("u<i0>"),d:x("u<b9<hI>>"),t:x("u<b9<c>>"),s:x("u<c>"),p:x("u<f>"),L:x("kC"),e:x("a_<c,c>"),N:x("c"),a:x("e9?"),r:x("ey?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+D.a33=new A.aA(0,280,0,1/0)
 D.adC=new A.aF(61311,"MaterialIcons",null,!1)
 D.b9Q=new A.bt("Default Printer",null,null,null,null,null)
 D.a9d=new A.b9("Default Printer",D.b9Q,C.a1,null,y.O)
@@ -748,4 +748,4 @@ D.a9p=new A.b9(C.Dp,D.ba9,C.a1,null,y.q)
 D.bam=new A.bt("Detailed",null,null,null,null,null)
 D.a9O=new A.b9(C.Dq,D.bam,C.a1,null,y.q)
 D.b6a=x([D.a9F,D.a9p,D.a9O],A.a8("u<b9<kC>>"))})()};
-(a=>{a["fZF5fFn1QAveK/Pju++ougVKCqQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["z+RnRCFdqShnt57xF5y0GpGpYD4="]=a.current})($__dart_deferred_initializers__);
