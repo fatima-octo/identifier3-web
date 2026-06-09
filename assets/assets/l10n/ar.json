@@ -2532,5 +2532,7 @@
   "Use the sidebar on the left to navigate between different sections. Each section manages a specific type of factory resource like People, Machines, Tools, and more.": "استخدم الشريط الجانبي للتنقل بين الأقسام المختلفة. يدير كل قسم نوعًا محددًا من موارد المصنع مثل الأشخاص والآلات والأدوات والمزيد.",
   "Welcome to Identifier, your comprehensive solution for managing factory entities and identities in Industry 4.0 environments. This guide will walk you through the essential features and help you get started with your factory management system.": "مرحبًا بك في Identifier، حلّك الشامل لإدارة كيانات وهويات المصنع في بيئات الصناعة 4.0. سيرشدك هذا الدليل عبر الميزات الأساسية ويساعدك على البدء بنظام إدارة مصنعك.",
   "Videos": "مقاطع الفيديو",
-  "Use the search button in the top-right corner or press Cmd+K (Mac) / Ctrl+K (Windows) to quickly find any item across your entire factory.": "استخدم زر البحث في الزاوية العلوية أو اضغط Cmd+K (ماك) / Ctrl+K (ويندوز) للعثور بسرعة على أي عنصر في مصنعك بالكامل."
+  "Use the search button in the top-right corner or press Cmd+K (Mac) / Ctrl+K (Windows) to quickly find any item across your entire factory.": "استخدم زر البحث في الزاوية العلوية أو اضغط Cmd+K (ماك) / Ctrl+K (ويندوز) للعثور بسرعة على أي عنصر في مصنعك بالكامل.",
+  "Testing…": "جارٍ الاختبار…",
+  "An account with this email already exists. Sign in instead.": "يوجد حساب بهذا البريد الإلكتروني بالفعل. سجّل الدخول بدلاً من ذلك."
 }
