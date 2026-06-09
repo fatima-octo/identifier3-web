@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9x(){return new B.yx(null)},
+c9v(){return new B.yx(null)},
 yx:function yx(d){this.a=d},
 aGl:function aGl(d){this.a=d},
 aGm:function aGm(d,e){this.a=d
@@ -29,12 +29,12 @@ p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.e(d).c.h(0,A.j(y.D)))
 q.toString
 x=A.az(d).a
 w=y.u
-v=A.a([A.Gm(C.a9,new B.aGl(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
+v=A.a([A.Gm(C.aa,new B.aGl(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.aR(r,q,r,r))
 s=D.wH[u]
 t.push(new B.amK(s,!x.e.n(0,s.a),new B.aGm(x,u),new B.aGn(x,u),r))
-C.f.t(v,t)}return A.t(v,C.v,C.m,C.p,0,C.q)}}
+C.f.t(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
 B.amK.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.e(d).c.h(0,A.j(y.C)))
 o.toString
@@ -48,7 +48,7 @@ s=t.a
 s=A.qo(A.mZ(d,s),F.KF(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.d(p,x.Q,p)
-return A.a5(p,A.t(A.a([new E.jP(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.ay(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.a9,120),p)],y.u),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
+return A.a5(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
 B.aGl.prototype={
@@ -81,4 +81,4 @@ D.bBa=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBg=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bB9=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBi,D.bBf,D.bBd,D.bBc,D.bBj,D.bBb,D.bBk,D.bBh,D.bBe,D.bBa,D.bBg,D.bB9],A.a8("u<l2>"))})()};
-(a=>{a["iW0wMoFdDC8bB5QHOgclpoI7NM4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["OCQbSb4ZCbmctVwqm3/zZ/ZLhNU="]=a.current})($__dart_deferred_initializers__);

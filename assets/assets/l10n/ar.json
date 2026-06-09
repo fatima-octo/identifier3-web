@@ -2539,5 +2539,7 @@
   "Sign in instead": "سجّل الدخول بدلاً من ذلك",
   "Use a different email": "استخدم بريدًا إلكترونيًا آخر",
   "Realtime test": "اختبار الوقت الفعلي",
-  "Should appear within 1-2 seconds.": "يجب أن يظهر خلال ثانية إلى ثانيتين."
+  "Should appear within 1-2 seconds.": "يجب أن يظهر خلال ثانية إلى ثانيتين.",
+  "An account with this email already exists. Sign in instead, or use a different email.": "يوجد حساب بهذا البريد الإلكتروني بالفعل. سجّل الدخول بدلاً من ذلك، أو استخدم بريدًا إلكترونيًا آخر.",
+  "Quality": "الجودة"
 }
