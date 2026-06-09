@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-c9u(d){return new B.uP(d,null)},
+c9t(d){return new B.uP(d,null)},
 uP:function uP(d,e){this.c=d
 this.a=e},
 VH:function VH(){var _=this
@@ -44,7 +44,7 @@ _.c=d
 _.d=e
 _.e=f
 _.a=g},
-c7r(d,e){return A.ub(null,C.aK,!0,null,new B.aAy(e),d,null,!0,y.N)},
+c7q(d,e){return A.ub(null,C.aK,!0,null,new B.aAy(e),d,null,!0,y.N)},
 xW:function xW(d,e){this.c=d
 this.a=e},
 aAy:function aAy(d){this.a=d},
@@ -55,7 +55,7 @@ b7O:function b7O(d){this.a=d},
 b7Q:function b7Q(d,e){this.a=d
 this.b=e},
 b7P:function b7P(d){this.a=d},
-bTJ(d,e){return A.ub(null,C.aK,!0,null,new B.aCf(e),d,null,!0,y.I)},
+bTI(d,e){return A.ub(null,C.aK,!0,null,new B.aCf(e),d,null,!0,y.I)},
 yg:function yg(d,e){this.c=d
 this.a=e},
 aCf:function aCf(d){this.a=d},
@@ -149,7 +149,7 @@ _.d=e
 _.e=f
 _.f=g
 _.a=h},
-bN9(d){switch(d.a){case 0:return"Single-line Text"
+bN8(d){switch(d.a){case 0:return"Single-line Text"
 case 1:return"Multi-line Text"
 case 2:return"Number"
 case 3:return"Date"
@@ -239,7 +239,7 @@ v=w.a+w.b
 u=this.c
 t=w.f
 w=w.r
-s=u.C===C.vg?A.bTH(v,w,t,"Full Name","Job Title","Department"):A.pq(q,C.dZ,C.eO,C.eq,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
+s=u.C===C.vg?A.bTG(v,w,t,"Full Name","Job Title","Department"):A.pq(q,C.dZ,C.eO,C.eq,"DO NOT REMOVE","IDENTIFIER",v,"ASSET TAG",w,t,q,q,q,q,u.b+" Management","2025")
 w=A.af("Label Preview",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.Y),q,q,A.q(C.D),q,q,!0,q,q,q,q,q,q,q,q).a3(C.O),q)
 u=A.d(q,x.Q,q)
 t=x.at
@@ -273,7 +273,7 @@ B.akU.prototype={
 ga1p(){var x=this.d
 return x===$?this.d=this.a.c:x},
 p(d){var x=null
-return A.bN8(A.bh(x,!1,x,"New name",!1,!1,"Category",new B.b7N(this),new B.b7O(d),C.ah,C.ab,x,C.a8,this.ga1p()),"Cancel","Save",C.aO,x,480,new B.b7P(d),new B.b7Q(this,d),!0,"Rename category")}}
+return A.bN7(A.bh(x,!1,x,"New name",!1,!1,"Category",new B.b7N(this),new B.b7O(d),C.ah,C.ab,x,C.a8,this.ga1p()),"Cancel","Save",C.aO,x,480,new B.b7P(d),new B.b7Q(this,d),!0,"Rename category")}}
 B.yg.prototype={
 T(){return new B.V3()}}
 B.V3.prototype={
@@ -335,9 +335,9 @@ l=A.ad(l.c)
 q=A.aO(v.ch,1)
 p=n.ga2Q()
 o=y.p
-o=A.R(A.a([w,j,A.a9(A.t(A.a([k,u,t,r,A.a5(m,A.bTI(p.eM(C.m.V(n.gxw()).length===0?"Field Label":C.m.V(n.gxw())),m,m,m,!0,n.gpC()),C.y,m,m,new A.aa(v.r,m,q,l,m,m,C.H),m,m,m,m,new A.H(s,s,s,s),m,m,m),A.d(m,s,m),A.aBU(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bN9(n.gom()))],o),C.v,C.n,C.M,0,C.q),1)],o),C.R,C.n,C.p,0,m)
+o=A.R(A.a([w,j,A.a9(A.t(A.a([k,u,t,r,A.a5(m,A.bTH(p.eM(C.m.V(n.gxw()).length===0?"Field Label":C.m.V(n.gxw())),m,m,m,!0,n.gpC()),C.y,m,m,new A.aa(v.r,m,q,l,m,m,C.H),m,m,m,m,new A.H(s,s,s,s),m,m,m),A.d(m,s,m),A.aBU(m,"This is how the field will appear in your entity forms.","Field Type: "+B.bN8(n.gom()))],o),C.v,C.n,C.M,0,C.q),1)],o),C.R,C.n,C.p,0,m)
 l=n.a.c==null?"Add Field":"Save"
-return A.bN8(new A.ms(o,m),"Cancel",l,C.aO,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.baF(d),n.gawr(),!0,x)},
+return A.bN7(new A.ms(o,m),"Cancel",l,C.aO,"Create a new custom field for your entities. All fields are optional unless marked as required.",760,new B.baF(d),n.gawr(),!0,x)},
 atJ(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k=this,j=null,i=y.a.a(A.e(d).c.h(0,A.j(y.S)))
 i.toString
 x=y.r.a(A.e(d).c.h(0,A.j(y.K)))
@@ -354,7 +354,7 @@ q=A.d(j,x,j)
 p=k.gom()
 o=A.a([],y.d)
 for(n=y.z,m=0;m<9;++m){l=C.NH[m]
-o.push(new A.b9(l,new A.bt(B.bN9(l),j,j,j,j,j),C.a1,j,n))}n=y.p
+o.push(new A.b9(l,new A.bt(B.bN8(l),j,j,j,j,j),C.a1,j,n))}n=y.p
 i=A.a([w,u,t,s,r,q,A.cH(j,"Single-line Text",!0,o,"Field Type",new B.bas(k),C.aC,p,y.T),A.d(j,x,j),new A.kp(k.ga7K(),new B.bat(k),"Required",j,!1,j),A.d(j,x,j),A.cH(j,"Select group or leave ungrouped",!1,D.b57,"Group Assignment",j,C.aC,j,y.N),A.d(j,v,j),A.af("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.F),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
 if(k.gom()===C.kt)C.f.t(i,A.a([A.d(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bau(k),j,C.ah,C.ab,j,C.a8,k.ga6D())],n))
 i.push(A.d(j,x,j))
@@ -408,7 +408,7 @@ if(q.e){x=w.a(A.e(d).c.h(0,A.j(x)))
 x.toString
 C.f.t(o,A.a([A.d(m,m,x.r),A.af("*",m,m,A.r(m,m,l.db,m,m,m,m,m,m,m,m,A.p(C.Y),m,m,A.q(C.D),m,m,!0,m,m,m,m,m,m,m,m),m)],p))}o.push(A.d(m,m,v.x))
 x=q.c
-o.push(new A.dd(B.bN9(x),C.br,C.fh,m,m))
+o.push(new A.dd(B.bN8(x),C.br,C.fh,m,m))
 o=A.a([A.R(o,C.z,C.n,C.p,0,m)],p)
 if(x===C.kt&&q.d.length!==0)C.f.t(o,A.a([A.d(m,v.f,m),A.a1(A.h(d,"Options: "+C.f.bi(q.d,", ")),m,m,m,m,m,m,A.r(m,m,l.f,m,m,m,m,m,m,m,m,A.p(C.F),m,m,A.q(C.A),m,m,!0,m,m,m,m,m,m,m,m),m,m,m,m,m)],p))
 x=v.k3
@@ -419,7 +419,7 @@ G6(d){return this.asE(d)},
 asE(d){var x=0,w=A.E(y.H),v,u=this,t,s,r
 var $async$G6=A.z(function(e,f){if(e===1)return A.B(f,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.bTJ(d,null),$async$G6)
+return A.x(B.bTI(d,null),$async$G6)
 case 3:r=f
 if(r==null){x=1
 break}t=u.d
@@ -432,7 +432,7 @@ GL(d,e){return this.axP(d,e)},
 axP(d,e){var x=0,w=A.E(y.H),v,u=this,t,s,r,q,p,o,n,m
 var $async$GL=A.z(function(f,g){if(f===1)return A.B(g,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.bTJ(d,e),$async$GL)
+return A.x(B.bTI(d,e),$async$GL)
 case 3:m=g
 if(m==null){x=1
 break}t=u.d
@@ -492,7 +492,7 @@ GK(d,e){return this.axO(d,e)},
 axO(d,e){var x=0,w=A.E(y.H),v,u=this,t,s,r,q,p,o,n
 var $async$GK=A.z(function(f,g){if(f===1)return A.B(g,w)
 for(;;)switch(x){case 0:x=3
-return A.x(B.c7r(d,e),$async$GK)
+return A.x(B.c7q(d,e),$async$GK)
 case 3:n=g
 if(n==null||n===e){x=1
 break}t=A.a([],y.s)
@@ -748,4 +748,4 @@ D.a9p=new A.b9(C.Dp,D.ba9,C.a1,null,y.q)
 D.bam=new A.bt("Detailed",null,null,null,null,null)
 D.a9O=new A.b9(C.Dq,D.bam,C.a1,null,y.q)
 D.b6a=x([D.a9F,D.a9p,D.a9O],A.a8("u<b9<kC>>"))})()};
-(a=>{a["OhoNHfkwJvGeFhhLSVZVe/962Jo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["N0HA4XW2QIroH4XIJffIepmpLIk="]=a.current})($__dart_deferred_initializers__);

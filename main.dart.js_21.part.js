@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,E,F,C={
-cb4(){return new C.vh(null)},
+cb3(){return new C.vh(null)},
 vh:function vh(d){this.a=d},
 Wt:function Wt(d){var _=this
 _.d=0
@@ -207,7 +207,7 @@ _.e=f
 _.f=g
 _.a=h},
 a1k:function a1k(d){this.a=d},
-c7V(d){return A.ub(null,B.aK,!0,null,new C.aBH(),d,null,!0,y.J)},
+c7U(d){return A.ub(null,B.aK,!0,null,new C.aBH(),d,null,!0,y.J)},
 y9:function y9(d){this.a=d},
 aBH:function aBH(){},
 alr:function alr(){var _=this
@@ -335,7 +335,7 @@ w=t.c
 w.toString
 v=t.r
 u=v===1?"":"s"
-x.ZU(E.bXm(s,s,s,s,s,B.au,s,A.a1(A.h(w,"Queued "+v+" "+r.b+" label"+u+"."),s,s,s,s,s,s,s,s,s,s,s,s),s,B.uG,s,s,s,s,s,s,s,s,s,s))},
+x.ZU(E.bXl(s,s,s,s,s,B.au,s,A.a1(A.h(w,"Queued "+v+" "+r.b+" label"+u+"."),s,s,s,s,s,s,s,s,s,s,s,s),s,B.uG,s,s,s,s,s,s,s,s,s,s))},
 aJs(){var x,w,v,u,t=this,s=null,r=B.f.l8(t.guF(),new C.bj5(t),new C.bj6(t)),q=B.m.V(t.x)
 if(q.length===0)q=B.f.gU(r.w.split("-"))
 x=B.m.cU(B.t.j(t.w),3,"0")
@@ -362,7 +362,7 @@ var $async$HW=A.z(function(d,e){if(d===1)return A.B(e,w)
 for(;;)switch(x){case 0:s=u.c
 s.toString
 x=3
-return A.x(C.c7V(s),$async$HW)
+return A.x(C.c7U(s),$async$HW)
 case 3:t=e
 if(t==null||u.c==null){x=1
 break}u.A(new C.bj3(u,t))
@@ -420,7 +420,7 @@ if(n==null)n=""
 m=A.Q(q.h(r,j))
 if(m==null)m=""
 r=A.Q(q.h(r,"status"))
-u.push(A.ah(["Name",p,"Model",o,"IP",n,"Location",m,"Status",r==null?"Offline":r],s,s))}u=A.bNc(k,D.aZX,k,new C.bgX(l),k,k,new C.bgY(l),u)
+u.push(A.ah(["Name",p,"Model",o,"IP",n,"Location",m,"Status",r==null?"Offline":r],s,s))}u=A.bNb(k,D.aZX,k,new C.bgX(l),k,k,new C.bgY(l),u)
 i=A.d(k,i.at,k)
 x=A.d(k,x,k)
 v=A.a([],v)
@@ -437,7 +437,7 @@ else{n=A.Q(q.h(r,"ip"))
 if(n==null)n=""}m=A.Q(q.h(r,j))
 if(m==null)m=""
 r=A.Q(q.h(r,"status"))
-v.push(A.ah(["Name",p,"Model",o,"Serial / IP",n,"Location",m,"Status",r==null?"Offline":r],s,s))}return A.t(A.a([new C.Yc("Printers","Network and USB printers available to the print-label Edge Function.",new C.bgZ(l),k),w,u,i,new C.Yc("Scanners","Handheld and fixed-mount scanners. Workstation routing lands in v2.",new C.bh_(l),k),x,A.bNc(k,D.b7k,k,new C.bh0(l),k,k,new C.bh1(l),v)],y.p),B.v,B.n,B.p,0,B.q)},
+v.push(A.ah(["Name",p,"Model",o,"Serial / IP",n,"Location",m,"Status",r==null?"Offline":r],s,s))}return A.t(A.a([new C.Yc("Printers","Network and USB printers available to the print-label Edge Function.",new C.bgZ(l),k),w,u,i,new C.Yc("Scanners","Handheld and fixed-mount scanners. Workstation routing lands in v2.",new C.bh_(l),k),x,A.bNb(k,D.b7k,k,new C.bh0(l),k,k,new C.bh1(l),v)],y.p),B.v,B.n,B.p,0,B.q)},
 oh(d,e,f){return this.aJc(d,e,f)},
 a6C(d,e){return this.oh(d,!1,e)},
 a6B(d){return this.oh(d,!1,null)},
@@ -1291,4 +1291,4 @@ D.rz=new A.N(!0,B.aK,null,null,null,null,7,null,null,null,null,null,null,null,nu
 D.btC=new A.N(!0,B.aK,null,null,null,null,8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.btH=new A.N(!0,B.X,null,null,null,null,7,B.O,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bv6=new A.N(!0,B.aN,null,null,null,null,8,B.O,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["pnrX3+j/oSjTKF9ce9CzRWUtIHo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["dzFWcvI1beCfv1rOE2OQXL7i+ao="]=a.current})($__dart_deferred_initializers__);
