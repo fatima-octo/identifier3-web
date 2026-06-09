@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-bZr(d){switch(d){case"beginner":return A.iy
+bZB(d){switch(d){case"beginner":return A.iy
 case"intermediate":return A.ks
 case"advanced":return A.nk}return A.br}}
 A=c[2]
 B=a.updateHolder(c[15],B)
 var z=a.updateTypes([])};
-(a=>{a["Q1xZcCqqanMZ0Pw3qDADyT1Unes="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["fBqg4VQpvIureiALQnS06lQcm1A="]=a.current})($__dart_deferred_initializers__);
