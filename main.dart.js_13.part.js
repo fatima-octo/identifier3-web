@@ -1,8 +1,8 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9P(){return new B.uS(null)},
+c9S(){return new B.uS(null)},
 uS:function uS(d){this.a=d},
-VZ:function VZ(d){var _=this
+W_:function W_(d){var _=this
 _.d=0
 _.e=d
 _.c=_.a=null},
@@ -27,14 +27,14 @@ _.f=g
 _.r=h
 _.w=i
 _.a=j},
-a6Y:function a6Y(d){this.a=d},
-abj:function abj(d){this.a=d},
-a1q:function a1q(d){this.a=d},
+a6Z:function a6Z(d){this.a=d},
+abk:function abk(d){this.a=d},
+a1r:function a1r(d){this.a=d},
 agK:function agK(d){this.a=d},
 uu:function uu(d,e,f){this.c=d
 this.d=e
 this.a=f},
-a78:function a78(d){this.a=d},
+a79:function a79(d){this.a=d},
 aJ9:function aJ9(){},
 aJa:function aJa(){},
 aJb:function aJb(){},
@@ -43,7 +43,7 @@ this.a=e},
 ng:function ng(d,e,f){this.c=d
 this.d=e
 this.a=f},
-a8E:function a8E(d,e,f){this.c=d
+a8F:function a8F(d,e,f){this.c=d
 this.d=e
 this.a=f},
 Po:function Po(d,e,f){this.c=d
@@ -51,11 +51,11 @@ this.d=e
 this.a=f},
 eC:function eC(d,e){this.c=d
 this.a=e},
-bOh(d,e,f){return new B.QJ(d,e,f)},
-QJ:function QJ(d,e,f){this.a=d
+bOk(d,e,f){return new B.QK(d,e,f)},
+QK:function QK(d,e,f){this.a=d
 this.b=e
 this.c=f},
-QK:function QK(d,e){this.c=d
+QL:function QL(d,e){this.c=d
 this.a=e},
 are:function are(){this.d=!1
 this.c=this.a=null},
@@ -83,9 +83,9 @@ _.d=e
 _.e=f
 _.f=g
 _.a=h},
-cqF(d,e,f){var x,w,v,u,t,s,r,q,p,o=null,n=A.a([],y.l)
+cqI(d,e,f){var x,w,v,u,t,s,r,q,p,o=null,n=A.a([],y.l)
 for(x=0;x<3;x=w){w=x+d
-n.push(C.f.cE(e,x,C.t.bC(w,0,3)))}v=y.u
+n.push(C.f.cC(e,x,C.t.bq(w,0,3)))}v=y.u
 u=A.a([],v)
 for(t=0;t<n.length;++t){s=A.a([],v)
 if(t>0)s.push(new A.aR(o,f,o,o))
@@ -93,7 +93,7 @@ r=A.a([],v)
 for(x=0;x<d;++x){q=A.a([],v)
 if(x>0)q.push(new A.aR(f,o,o,o))
 p=n[t]
-q.push(new A.cy(1,C.aE,x<p.length?new B.QK(p[x],o):C.aP,o))
+q.push(new A.cy(1,C.aE,x<p.length?new B.QL(p[x],o):C.aP,o))
 C.f.t(r,q)}s.push(new A.mq(A.R(r,C.v,C.m,C.p,0,o),o))
 C.f.t(u,s)}return A.t(u,C.z,C.m,C.p,0,C.q)}},D,F
 A=c[0]
@@ -103,8 +103,8 @@ B=a.updateHolder(c[7],B)
 D=c[26]
 F=c[27]
 B.uS.prototype={
-T(){return new B.VZ(A.b5(y.w))}}
-B.VZ.prototype={
+T(){return new B.W_(A.b5(y.w))}}
+B.W_.prototype={
 aP0(d){this.A(new B.bfR(this,d))},
 aAl(){if(this.d===0)return
 this.A(new B.bfQ(this))},
@@ -128,18 +128,18 @@ t=A.aO(u,1)
 s=q.d
 r=y.u
 x=x.Q
-return A.a5(p,A.t(A.a([A.R(A.a([A.a9(A.a1(s.b,p,p,p,p,p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.eL),p,p,A.q(C.D),p,p,!0,p,p,p,p,p,p,p,p).a3(C.O),p,p,p,p,p),1),new B.a8E(q.e,q.f,p)],r),C.z,C.m,C.p,0,p),A.d(p,x,p),q.aAg(d,s.a),A.d(p,x,p),A.fj(u,1),A.d(p,x,p),A.R(A.a([A.aC(p,!1,C.G,p,p,!1,"Previous",C.iP,p,q.r,p,C.b1,p,C.aa,p),C.c_,A.a1(A.h(d,""+(q.c+1)+" of 4"),p,p,p,p,p,p,A.r(p,p,o.f,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),C.c_,A.aC(p,!1,C.G,p,p,!1,"Next",p,p,q.w,p,C.b1,C.CM,C.aa,p)],r),C.z,C.m,C.p,0,p)],r),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,t,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)},
+return A.a5(p,A.t(A.a([A.R(A.a([A.a9(A.a1(s.b,p,p,p,p,p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.eL),p,p,A.q(C.D),p,p,!0,p,p,p,p,p,p,p,p).a3(C.O),p,p,p,p,p),1),new B.a8F(q.e,q.f,p)],r),C.z,C.m,C.p,0,p),A.d(p,x,p),q.aAg(d,s.a),A.d(p,x,p),A.fj(u,1),A.d(p,x,p),A.R(A.a([A.aC(p,!1,C.G,p,p,!1,"Previous",C.iP,p,q.r,p,C.b1,p,C.aa,p),C.c_,A.a1(A.h(d,""+(q.c+1)+" of 4"),p,p,p,p,p,p,A.r(p,p,o.f,p,p,p,p,p,p,p,p,A.p(C.F),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),C.c_,A.aC(p,!1,C.G,p,p,!1,"Next",p,p,q.w,p,C.b1,C.CM,C.aa,p)],r),C.z,C.m,C.p,0,p)],r),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,t,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)},
 aAg(d,e){switch(e){case"overview":return D.bjF
 case"getting-started":return D.acA
 case"best-practices":return D.a2x
 case"troubleshooting":return D.bwy}return C.aP}}
-B.a6Y.prototype={
+B.a6Z.prototype={
 p(d){var x=null
 return A.t(A.a([new B.rs("Getting Started Steps",x),new B.eC("Follow these essential steps to set up your Identifier platform:",x),new B.nz("1. Initial Setup",x),new B.eC("Complete the onboarding wizard",x),new B.eC("Configure your company information",x),new B.eC("Set up initial user accounts and roles",x),new B.eC("Define your factory locations and working areas",x),new B.nz("2. Entity Configuration",x),new B.eC("Enable the entity types you need (People, Machines, Tools, Materials)",x),new B.eC("Configure ID formats and numbering schemes",x),new B.eC("Set up custom fields for your specific requirements",x),new B.eC("Import existing data if migrating from another system",x),new B.nz("3. User Management",x),new B.eC("Create user accounts for your team members",x),new B.eC("Assign appropriate roles and permissions",x),new B.eC("Configure access levels for different areas",x),new B.eC("Set up approval workflows if needed",x)],y.u),C.v,C.m,C.p,0,C.q)}}
-B.abj.prototype={
+B.abk.prototype={
 p(d){var x=null
 return A.t(A.a([new B.rs("Introduction to Factory Identity Management",x),new B.eC("Welcome to Identifier, your comprehensive solution for managing factory entities and identities in Industry 4.0 environments. This guide will walk you through the essential features and help you get started with your factory management system.",x),new B.rs("What is Identifier?",x),new B.eC("Identifier is a modern, enterprise-grade platform designed to streamline the management of people, machines, tools, materials, locations, and working areas in industrial environments. With role-based access control and comprehensive tracking capabilities, Identifier helps you maintain complete visibility and control over your factory operations.",x),new B.rs("Key Benefits",x),new B.uu("Centralized Management:"," All your factory entities in one unified platform",x),new B.uu("Real-time Tracking:"," Monitor entity status and location updates in real-time",x),new B.uu("Role-based Security:"," Granular access control for different user types",x),new B.uu("Compliance Ready:"," Built-in reporting and audit trails for regulatory compliance",x),new B.uu("Scalable Architecture:"," Grows with your factory operations",x)],y.u),C.v,C.m,C.p,0,C.q)}}
-B.a1q.prototype={
+B.a1r.prototype={
 p(d){var x=null
 return A.t(A.a([new B.rs("Best Practices",x),new B.eC("Follow these recommendations to get the most out of your Identifier platform:",x),new B.nz("Naming Conventions",x),new B.eC("Use consistent naming patterns for all entities",x),new B.eC("Include location or department codes in entity names",x),new B.eC("Avoid special characters that might cause system issues",x),new B.eC("Document your naming conventions for team reference",x),new B.nz("Data Management",x),new B.eC("Keep entity information up-to-date",x),new B.eC("Regularly review and clean up inactive entities",x),new B.eC("Use meaningful descriptions and tags",x),new B.eC("Implement a data validation process",x),new B.nz("Security Guidelines",x),new B.eC("Regularly review user access permissions",x),new B.eC("Use strong passwords and enable two-factor authentication",x),new B.eC("Monitor system access logs",x),new B.eC("Keep software updated to the latest version",x)],y.u),C.v,C.m,C.p,0,C.q)}}
 B.agK.prototype={
@@ -156,7 +156,7 @@ t=t.d
 w=A.da(u,u,u,u,u,u,u,u,u,A.r(u,u,t,u,u,u,u,u,u,u,u,14,u,u,C.O,u,u,!0,u,u,u,u,u,u,u,u),w)
 v=A.h(d,this.d)
 return new A.an(new A.H(0,x,0,x),A.Hl(A.da(A.a([w,A.da(u,u,u,u,u,u,u,u,u,A.r(u,u,t,u,u,u,u,u,u,u,u,14,u,u,u,u,1.5,!0,u,u,u,u,u,u,u,u),v)],y.c),u,u,u,u,u,u,u,u,u,u),u,u),u)}}
-B.a78.prototype={
+B.a79.prototype={
 p(d){var x,w,v,u,t,s,r,q,p,o=null,n=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 n.toString
 x=y.y.a(A.f(d).c.h(0,A.j(y.D)))
@@ -187,7 +187,7 @@ t=t.d
 w=A.da(u,u,u,u,u,u,u,u,u,A.r(u,u,t,u,u,u,u,u,u,u,u,14,u,u,C.O,u,u,!0,u,u,u,u,u,u,u,u),w)
 v=A.h(d,this.d)
 return new A.an(new A.H(0,x,0,x),A.Hl(A.da(A.a([w,A.da(u,u,u,u,u,u,u,u,u,A.r(u,u,t,u,u,u,u,u,u,u,u,14,u,u,u,u,1.5,!0,u,u,u,u,u,u,u,u),v)],y.c),u,u,u,u,u,u,u,u,u,u),u,u),u)}}
-B.a8E.prototype={
+B.a8F.prototype={
 p(d){var x=null,w=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 w.toString
 if(this.c)return A.aC(x,!1,C.G,w.cx,x,!1,"Completed",C.kM,x,this.d,x,C.b1,x,C.aa,x)
@@ -207,8 +207,8 @@ x=y.y.a(A.f(d).c.h(0,A.j(y.D)))
 x.toString
 x=x.f
 return new A.an(new A.H(0,x,0,x),A.a1(this.c,w,w,w,w,w,w,A.r(w,w,v.d,w,w,w,w,w,w,w,w,14,w,w,w,w,1.5,!0,w,w,w,w,w,w,w,w),w,w,w,w,w),w)}}
-B.QJ.prototype={}
-B.QK.prototype={
+B.QK.prototype={}
+B.QL.prototype={
 T(){return new B.are()}}
 B.are.prototype={
 p(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=y.F.a(A.f(d).c.h(0,A.j(y.C)))
@@ -227,7 +227,7 @@ s=A.d(n,s,n)
 x=x.w
 q=o.a.c
 p=q.c
-return A.i4(A.CB(A.t(A.a([m,s,A.fU(C.bA,A.a([new A.dd(q.b,C.br,C.b0,n,n),new A.dd(p,E.bZo(p),C.b0,n,n)],r),C.ca,x,x)],r),C.R,C.m,C.p,0,C.q),n,C.aR,new A.aa(v,n,t,u,n,n,C.H),C.kC,n,new A.H(w,w,w,w),n),C.h5,n,new B.bo4(o),new B.bo5(o),n)}}
+return A.i4(A.CB(A.t(A.a([m,s,A.fU(C.bA,A.a([new A.dd(q.b,C.br,C.b0,n,n),new A.dd(p,E.bZr(p),C.b0,n,n)],r),C.ca,x,x)],r),C.R,C.m,C.p,0,C.q),n,C.aR,new A.aa(v,n,t,u,n,n,C.H),C.kC,n,new A.H(w,w,w,w),n),C.h5,n,new B.bo4(o),new B.bo5(o),n)}}
 B.acJ.prototype={
 p(d){var x,w,v,u,t=null,s=y.F.a(A.f(d).c.h(0,A.j(y.C)))
 s.toString
@@ -340,34 +340,34 @@ B.aUm.prototype={
 $2(d,e){var x,w=e.b
 if(w>=880)x=3
 else x=w>=560?2:1
-return B.cqF(x,$.c2H(),16)},
+return B.cqI(x,$.c2K(),16)},
 $S:257}
 B.b1m.prototype={
 $0(){return this.a.f.$1(this.b)},
 $S:0};(function installTearOffs(){var x=a._instance_0u
 var w
-x(w=B.VZ.prototype,"gaAk","aAl",0)
+x(w=B.W_.prototype,"gaAk","aAl",0)
 x(w,"gaAi","aAj",0)})();(function inheritance(){var x=a.inheritMany
-x(A.ab,[B.uS,B.QK])
-x(A.ad,[B.VZ,B.are])
+x(A.ab,[B.uS,B.QL])
+x(A.ad,[B.W_,B.are])
 x(A.kl,[B.bfR,B.bfQ,B.bfP,B.bfV,B.bfS,B.bfU,B.aJ9,B.aJa,B.aJb,B.bo3,B.bo2,B.b1m])
 x(A.m9,[B.bfW,B.aUm])
 x(A.is,[B.bfT,B.bo4,B.bo5])
-x(A.L,[B.asq,B.a6Y,B.abj,B.a1q,B.agK,B.uu,B.a78,B.rs,B.ng,B.a8E,B.Po,B.eC,B.acJ,B.nz,B.afY,B.agx])
-x(A.P,[B.QJ,B.yY])})()
-A.lV(b.typeUniverse,JSON.parse('{"uS":{"ab":[],"e":[],"i":[]},"VZ":{"ad":["uS"]},"asq":{"L":[],"e":[],"i":[]},"a6Y":{"L":[],"e":[],"i":[]},"abj":{"L":[],"e":[],"i":[]},"a1q":{"L":[],"e":[],"i":[]},"agK":{"L":[],"e":[],"i":[]},"uu":{"L":[],"e":[],"i":[]},"a78":{"L":[],"e":[],"i":[]},"rs":{"L":[],"e":[],"i":[]},"ng":{"L":[],"e":[],"i":[]},"a8E":{"L":[],"e":[],"i":[]},"Po":{"L":[],"e":[],"i":[]},"eC":{"L":[],"e":[],"i":[]},"QK":{"ab":[],"e":[],"i":[]},"are":{"ad":["QK"]},"acJ":{"L":[],"e":[],"i":[]},"nz":{"L":[],"e":[],"i":[]},"afY":{"L":[],"e":[],"i":[]},"agx":{"L":[],"e":[],"i":[]}}'))
-var y={C:A.a8("e8"),D:A.a8("ey"),c:A.a8("u<hb>"),l:A.a8("u<I<QJ>>"),u:A.a8("u<e>"),w:A.a8("c"),F:A.a8("e8?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
-D.a2x=new B.a1q(null)
+x(A.L,[B.asq,B.a6Z,B.abk,B.a1r,B.agK,B.uu,B.a79,B.rs,B.ng,B.a8F,B.Po,B.eC,B.acJ,B.nz,B.afY,B.agx])
+x(A.P,[B.QK,B.yY])})()
+A.lV(b.typeUniverse,JSON.parse('{"uS":{"ab":[],"e":[],"i":[]},"W_":{"ad":["uS"]},"asq":{"L":[],"e":[],"i":[]},"a6Z":{"L":[],"e":[],"i":[]},"abk":{"L":[],"e":[],"i":[]},"a1r":{"L":[],"e":[],"i":[]},"agK":{"L":[],"e":[],"i":[]},"uu":{"L":[],"e":[],"i":[]},"a79":{"L":[],"e":[],"i":[]},"rs":{"L":[],"e":[],"i":[]},"ng":{"L":[],"e":[],"i":[]},"a8F":{"L":[],"e":[],"i":[]},"Po":{"L":[],"e":[],"i":[]},"eC":{"L":[],"e":[],"i":[]},"QL":{"ab":[],"e":[],"i":[]},"are":{"ad":["QL"]},"acJ":{"L":[],"e":[],"i":[]},"nz":{"L":[],"e":[],"i":[]},"afY":{"L":[],"e":[],"i":[]},"agx":{"L":[],"e":[],"i":[]}}'))
+var y={C:A.a8("e8"),D:A.a8("ey"),c:A.a8("u<hb>"),l:A.a8("u<I<QK>>"),u:A.a8("u<e>"),w:A.a8("c"),F:A.a8("e8?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
+D.a2x=new B.a1r(null)
 D.a8i=new A.dd("beginner",C.iy,C.b0,null,null)
-D.acA=new B.a6Y(null)
-D.acC=new B.a78(null)
+D.acA=new B.a6Z(null)
+D.acC=new B.a79(null)
 D.acF=new B.yY("overview","Overview")
 D.acD=new B.yY("getting-started","Getting Started")
 D.acE=new B.yY("best-practices","Best Practices")
 D.acG=new B.yY("troubleshooting","Troubleshooting")
 D.KS=x([D.acF,D.acD,D.acE,D.acG],A.a8("u<yY>"))
-D.bjF=new B.abj(null)
+D.bjF=new B.abk(null)
 D.bmO=new B.acJ(null)
 D.bwy=new B.agK(null)})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"czJ","c2H",()=>A.a([B.bOh("Entity Management Guide","entity-management","intermediate"),B.bOh("User Roles & Permissions","user-management","beginner"),B.bOh("Advanced Reporting Features","compliance","advanced")],A.a8("u<QJ>")))})()};
-(a=>{a["RFjyUSW2mCOT4pnCNxvCYWOuGoI="]=a.current})($__dart_deferred_initializers__);
+x($,"czM","c2K",()=>A.a([B.bOk("Entity Management Guide","entity-management","intermediate"),B.bOk("User Roles & Permissions","user-management","beginner"),B.bOk("Advanced Reporting Features","compliance","advanced")],A.a8("u<QK>")))})()};
+(a=>{a["Y8/TXvM6uPkYpAEkQYF1RIyIEUw="]=a.current})($__dart_deferred_initializers__);

@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c97(){return new B.yw(null)},
+c9a(){return new B.yw(null)},
 yw:function yw(d){this.a=d},
 aGj:function aGj(d){this.a=d},
 aGk:function aGk(d,e){this.a=d
@@ -81,4 +81,4 @@ D.bB9=new B.l0("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBf=new B.l0("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bB8=new B.l0("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBh,D.bBe,D.bBc,D.bBb,D.bBi,D.bBa,D.bBj,D.bBg,D.bBd,D.bB9,D.bBf,D.bB8],A.a8("u<l0>"))})()};
-(a=>{a["qGdV83bBIi2TnD4utc9P9uuEx1A="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["5YPqfBEqjoRqSzwuiZj5Qcl8iQs="]=a.current})($__dart_deferred_initializers__);
