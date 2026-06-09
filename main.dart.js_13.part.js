@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-cah(){return new B.uV(null)},
-uV:function uV(d){this.a=d},
+cah(){return new B.uW(null)},
+uW:function uW(d){this.a=d},
 W0:function W0(d){var _=this
 _.d=0
 _.e=d
@@ -31,7 +31,7 @@ a7_:function a7_(d){this.a=d},
 abl:function abl(d){this.a=d},
 a1s:function a1s(d){this.a=d},
 agL:function agL(d){this.a=d},
-uw:function uw(d,e,f){this.c=d
+ux:function ux(d,e,f){this.c=d
 this.d=e
 this.a=f},
 a7a:function a7a(d){this.a=d},
@@ -102,7 +102,7 @@ E=c[15]
 B=a.updateHolder(c[7],B)
 D=c[26]
 F=c[27]
-B.uV.prototype={
+B.uW.prototype={
 T(){return new B.W0(A.b5(y.w))}}
 B.W0.prototype={
 aPe(d){this.v(new B.bg0(this,d))},
@@ -138,14 +138,14 @@ p(d){var x=null
 return A.t(A.a([new B.rt("Getting Started Steps",x),new B.eD("Follow these essential steps to set up your Identifier platform:",x),new B.nB("1. Initial Setup",x),new B.eD("Complete the onboarding wizard",x),new B.eD("Configure your company information",x),new B.eD("Set up initial user accounts and roles",x),new B.eD("Define your factory locations and working areas",x),new B.nB("2. Entity Configuration",x),new B.eD("Enable the entity types you need (People, Machines, Tools, Materials)",x),new B.eD("Configure ID formats and numbering schemes",x),new B.eD("Set up custom fields for your specific requirements",x),new B.eD("Import existing data if migrating from another system",x),new B.nB("3. User Management",x),new B.eD("Create user accounts for your team members",x),new B.eD("Assign appropriate roles and permissions",x),new B.eD("Configure access levels for different areas",x),new B.eD("Set up approval workflows if needed",x)],y.u),C.v,C.n,C.p,0,C.q)}}
 B.abl.prototype={
 p(d){var x=null
-return A.t(A.a([new B.rt("Introduction to Factory Identity Management",x),new B.eD("Welcome to Identifier, your comprehensive solution for managing factory entities and identities in Industry 4.0 environments. This guide will walk you through the essential features and help you get started with your factory management system.",x),new B.rt("What is Identifier?",x),new B.eD("Identifier is a modern, enterprise-grade platform designed to streamline the management of people, machines, tools, materials, locations, and working areas in industrial environments. With role-based access control and comprehensive tracking capabilities, Identifier helps you maintain complete visibility and control over your factory operations.",x),new B.rt("Key Benefits",x),new B.uw("Centralized Management:"," All your factory entities in one unified platform",x),new B.uw("Real-time Tracking:"," Monitor entity status and location updates in real-time",x),new B.uw("Role-based Security:"," Granular access control for different user types",x),new B.uw("Compliance Ready:"," Built-in reporting and audit trails for regulatory compliance",x),new B.uw("Scalable Architecture:"," Grows with your factory operations",x)],y.u),C.v,C.n,C.p,0,C.q)}}
+return A.t(A.a([new B.rt("Introduction to Factory Identity Management",x),new B.eD("Welcome to Identifier, your comprehensive solution for managing factory entities and identities in Industry 4.0 environments. This guide will walk you through the essential features and help you get started with your factory management system.",x),new B.rt("What is Identifier?",x),new B.eD("Identifier is a modern, enterprise-grade platform designed to streamline the management of people, machines, tools, materials, locations, and working areas in industrial environments. With role-based access control and comprehensive tracking capabilities, Identifier helps you maintain complete visibility and control over your factory operations.",x),new B.rt("Key Benefits",x),new B.ux("Centralized Management:"," All your factory entities in one unified platform",x),new B.ux("Real-time Tracking:"," Monitor entity status and location updates in real-time",x),new B.ux("Role-based Security:"," Granular access control for different user types",x),new B.ux("Compliance Ready:"," Built-in reporting and audit trails for regulatory compliance",x),new B.ux("Scalable Architecture:"," Grows with your factory operations",x)],y.u),C.v,C.n,C.p,0,C.q)}}
 B.a1s.prototype={
 p(d){var x=null
 return A.t(A.a([new B.rt("Best Practices",x),new B.eD("Follow these recommendations to get the most out of your Identifier platform:",x),new B.nB("Naming Conventions",x),new B.eD("Use consistent naming patterns for all entities",x),new B.eD("Include location or department codes in entity names",x),new B.eD("Avoid special characters that might cause system issues",x),new B.eD("Document your naming conventions for team reference",x),new B.nB("Data Management",x),new B.eD("Keep entity information up-to-date",x),new B.eD("Regularly review and clean up inactive entities",x),new B.eD("Use meaningful descriptions and tags",x),new B.eD("Implement a data validation process",x),new B.nB("Security Guidelines",x),new B.eD("Regularly review user access permissions",x),new B.eD("Use strong passwords and enable two-factor authentication",x),new B.eD("Monitor system access logs",x),new B.eD("Keep software updated to the latest version",x)],y.u),C.v,C.n,C.p,0,C.q)}}
 B.agL.prototype={
 p(d){var x=null
 return A.t(A.a([new B.rt("Common Issues and Solutions",x),new B.eD("Here are solutions to the most frequently encountered issues:",x),new B.nB("Login Problems",x),new B.ni("Forgot password:",' Use the "Forgot Password" link on the login page',x),new B.ni("Account locked:"," Contact your system administrator",x),new B.ni("Two-factor authentication issues:"," Check your authenticator app or contact support",x),new B.nB("Entity Management Issues",x),new B.ni("Cannot create entity:"," Check if you have the required permissions",x),new B.ni("Duplicate ID error:"," Ensure the ID format is configured correctly",x),new B.ni("Missing entity data:"," Verify all required fields are filled",x),new B.nB("Performance Issues",x),new B.ni("Slow loading:"," Clear browser cache and cookies",x),new B.ni("Search not working:"," Try refreshing the page or using different search terms",x),new B.ni("Export failures:"," Reduce the data range or contact support",x)],y.u),C.v,C.n,C.p,0,C.q)}}
-B.uw.prototype={
+B.ux.prototype={
 p(d){var x,w,v,u=null,t=y.F.a(A.e(d).c.h(0,A.j(y.C)))
 t.toString
 x=y.y.a(A.e(d).c.h(0,A.j(y.D)))
@@ -348,14 +348,14 @@ $S:0};(function installTearOffs(){var x=a._instance_0u
 var w
 x(w=B.W0.prototype,"gaAu","aAv",0)
 x(w,"gaAs","aAt",0)})();(function inheritance(){var x=a.inheritMany
-x(A.ab,[B.uV,B.QM])
+x(A.ab,[B.uW,B.QM])
 x(A.ac,[B.W0,B.arf])
 x(A.kn,[B.bg0,B.bg_,B.bfZ,B.bg4,B.bg1,B.bg3,B.aJc,B.aJd,B.aJe,B.boh,B.bog,B.b1p])
 x(A.mb,[B.bg5,B.aUp])
 x(A.it,[B.bg2,B.boi,B.boj])
-x(A.M,[B.asr,B.a7_,B.abl,B.a1s,B.agL,B.uw,B.a7a,B.rt,B.ni,B.a8G,B.Pq,B.eD,B.acK,B.nB,B.afZ,B.agy])
+x(A.M,[B.asr,B.a7_,B.abl,B.a1s,B.agL,B.ux,B.a7a,B.rt,B.ni,B.a8G,B.Pq,B.eD,B.acK,B.nB,B.afZ,B.agy])
 x(A.P,[B.QL,B.z_])})()
-A.lX(b.typeUniverse,JSON.parse('{"uV":{"ab":[],"f":[],"i":[]},"W0":{"ac":["uV"]},"asr":{"M":[],"f":[],"i":[]},"a7_":{"M":[],"f":[],"i":[]},"abl":{"M":[],"f":[],"i":[]},"a1s":{"M":[],"f":[],"i":[]},"agL":{"M":[],"f":[],"i":[]},"uw":{"M":[],"f":[],"i":[]},"a7a":{"M":[],"f":[],"i":[]},"rt":{"M":[],"f":[],"i":[]},"ni":{"M":[],"f":[],"i":[]},"a8G":{"M":[],"f":[],"i":[]},"Pq":{"M":[],"f":[],"i":[]},"eD":{"M":[],"f":[],"i":[]},"QM":{"ab":[],"f":[],"i":[]},"arf":{"ac":["QM"]},"acK":{"M":[],"f":[],"i":[]},"nB":{"M":[],"f":[],"i":[]},"afZ":{"M":[],"f":[],"i":[]},"agy":{"M":[],"f":[],"i":[]}}'))
+A.lX(b.typeUniverse,JSON.parse('{"uW":{"ab":[],"f":[],"i":[]},"W0":{"ac":["uW"]},"asr":{"M":[],"f":[],"i":[]},"a7_":{"M":[],"f":[],"i":[]},"abl":{"M":[],"f":[],"i":[]},"a1s":{"M":[],"f":[],"i":[]},"agL":{"M":[],"f":[],"i":[]},"ux":{"M":[],"f":[],"i":[]},"a7a":{"M":[],"f":[],"i":[]},"rt":{"M":[],"f":[],"i":[]},"ni":{"M":[],"f":[],"i":[]},"a8G":{"M":[],"f":[],"i":[]},"Pq":{"M":[],"f":[],"i":[]},"eD":{"M":[],"f":[],"i":[]},"QM":{"ab":[],"f":[],"i":[]},"arf":{"ac":["QM"]},"acK":{"M":[],"f":[],"i":[]},"nB":{"M":[],"f":[],"i":[]},"afZ":{"M":[],"f":[],"i":[]},"agy":{"M":[],"f":[],"i":[]}}'))
 var y={C:A.a8("e9"),D:A.a8("ey"),c:A.a8("u<hc>"),l:A.a8("u<I<QL>>"),u:A.a8("u<f>"),w:A.a8("c"),F:A.a8("e9?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
 D.a2x=new B.a1s(null)
 D.a8i=new A.dd("beginner",C.iy,C.b1,null,null)
@@ -370,4 +370,4 @@ D.bjI=new B.abl(null)
 D.bmR=new B.acK(null)
 D.bwB=new B.agL(null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"cAe","c3b",()=>A.a([B.bOF("Entity Management Guide","entity-management","intermediate"),B.bOF("User Roles & Permissions","user-management","beginner"),B.bOF("Advanced Reporting Features","compliance","advanced")],A.a8("u<QL>")))})()};
-(a=>{a["gJdZMioNqoIDCdaWQInaU4ahaaE="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["mTkDUrV5UA8ujEfanbOMn6+Ku8I="]=a.current})($__dart_deferred_initializers__);
