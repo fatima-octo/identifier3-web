@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c8X(){return new B.yv(null)},
+c8Y(){return new B.yv(null)},
 yv:function yv(d){this.a=d},
 aGd:function aGd(d){this.a=d},
 aGe:function aGe(d,e){this.a=d
@@ -48,19 +48,19 @@ s=t.a
 s=A.qm(A.mX(d,s),F.KD(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.d(p,x.Q,p)
-return A.a4(p,A.t(A.a([new E.jO(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aG(p,!1,C.I,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a7,p,C.aa,120),p)],y.u),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,u,v,p,p,C.G),p,p,p,p,new A.G(w,w,w,w),p,p,p)}}
+return A.a5(p,A.t(A.a([new E.jO(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aG(p,!1,C.I,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a7,p,C.aa,120),p)],y.u),C.v,C.m,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,u,v,p,p,C.G),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
 B.l0.prototype={}
 var z=a.updateTypes([])
 B.aGd.prototype={
 $0(){return this.a.hy(0,"settings")},
 $S:0}
 B.aGe.prototype={
-$1(d){return this.a.alk(D.wG[this.b].a,!d)},
+$1(d){return this.a.aln(D.wG[this.b].a,!d)},
 $S:3}
 B.aGf.prototype={
 $0(){var x,w=D.wG[this.b],v=this.a.x
 if(v!=null){x=y.w
-v.akA("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
+v.akC("settings-entity-configure",A.ai(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.L,[B.yv,B.amE])
 x(A.kl,[B.aGd,B.aGf])
@@ -81,4 +81,4 @@ D.bB6=new B.l0("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBc=new B.l0("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bB5=new B.l0("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wG=x([D.bBe,D.bBb,D.bB9,D.bB8,D.bBf,D.bB7,D.bBg,D.bBd,D.bBa,D.bB6,D.bBc,D.bB5],A.a8("u<l0>"))})()};
-(a=>{a["GarEbJjwV0KjytAkm/05Ee5YjlU="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZD+SkMjxpk/DddTJJSx3Egi7UYg="]=a.current})($__dart_deferred_initializers__);
