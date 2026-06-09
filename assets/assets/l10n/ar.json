@@ -2534,5 +2534,10 @@
   "Videos": "مقاطع الفيديو",
   "Use the search button in the top-right corner or press Cmd+K (Mac) / Ctrl+K (Windows) to quickly find any item across your entire factory.": "استخدم زر البحث في الزاوية العلوية أو اضغط Cmd+K (ماك) / Ctrl+K (ويندوز) للعثور بسرعة على أي عنصر في مصنعك بالكامل.",
   "Testing…": "جارٍ الاختبار…",
-  "An account with this email already exists. Sign in instead.": "يوجد حساب بهذا البريد الإلكتروني بالفعل. سجّل الدخول بدلاً من ذلك."
+  "An account with this email already exists. Sign in instead.": "يوجد حساب بهذا البريد الإلكتروني بالفعل. سجّل الدخول بدلاً من ذلك.",
+  "An account with this email already exists.": "يوجد حساب بهذا البريد الإلكتروني بالفعل.",
+  "Sign in instead": "سجّل الدخول بدلاً من ذلك",
+  "Use a different email": "استخدم بريدًا إلكترونيًا آخر",
+  "Realtime test": "اختبار الوقت الفعلي",
+  "Should appear within 1-2 seconds.": "يجب أن يظهر خلال ثانية إلى ثانيتين."
 }
