@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9B(){return new B.yy(null)},
-yy:function yy(d){this.a=d},
+c9J(){return new B.yz(null)},
+yz:function yz(d){this.a=d},
 aGm:function aGm(d){this.a=d},
 aGn:function aGn(d,e){this.a=d
 this.b=e},
@@ -24,7 +24,7 @@ E=c[17]
 B=a.updateHolder(c[4],B)
 D=c[33]
 F=c[18]
-B.yy.prototype={
+B.yz.prototype={
 p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.e(d).c.h(0,A.j(y.D)))
 q.toString
 x=A.az(d).a
@@ -52,21 +52,21 @@ return A.a5(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1
 B.l2.prototype={}
 var z=a.updateTypes([])
 B.aGm.prototype={
-$0(){return this.a.hz(0,"settings")},
+$0(){return this.a.hA(0,"settings")},
 $S:0}
 B.aGn.prototype={
-$1(d){return this.a.alD(D.wH[this.b].a,!d)},
+$1(d){return this.a.alM(D.wH[this.b].a,!d)},
 $S:3}
 B.aGo.prototype={
 $0(){var x,w=D.wH[this.b],v=this.a.y
 if(v!=null){x=y.w
-v.akR("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
+v.al_("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.M,[B.yy,B.amK])
+x(A.M,[B.yz,B.amK])
 x(A.kn,[B.aGm,B.aGo])
 w(B.aGn,A.it)
 w(B.l2,A.P)})()
-A.lX(b.typeUniverse,JSON.parse('{"yy":{"M":[],"f":[],"i":[]},"amK":{"M":[],"f":[],"i":[]}}'))
+A.lX(b.typeUniverse,JSON.parse('{"yz":{"M":[],"f":[],"i":[]},"amK":{"M":[],"f":[],"i":[]}}'))
 var y={C:A.a8("e9"),D:A.a8("ey"),u:A.a8("u<f>"),w:A.a8("c"),F:A.a8("e9?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
 D.bBk=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dF)
 D.bBh=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iW)
@@ -81,4 +81,4 @@ D.bBc=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBi=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBb=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBk,D.bBh,D.bBf,D.bBe,D.bBl,D.bBd,D.bBm,D.bBj,D.bBg,D.bBc,D.bBi,D.bBb],A.a8("u<l2>"))})()};
-(a=>{a["2W1fPtCG0azRMjzAOuCUaxBrlMs="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["aHfdX5yHirgVd5kzzIMJYW7Q8as="]=a.current})($__dart_deferred_initializers__);
