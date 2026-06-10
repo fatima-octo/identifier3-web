@@ -1,19 +1,19 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-caX(){return new B.yF(null)},
-yF:function yF(d){this.a=d},
-aGC:function aGC(d){this.a=d},
-aGD:function aGD(d,e){this.a=d
+caN(){return new B.yB(null)},
+yB:function yB(d){this.a=d},
+aGz:function aGz(d){this.a=d},
+aGA:function aGA(d,e){this.a=d
 this.b=e},
-aGE:function aGE(d,e){this.a=d
+aGB:function aGB(d,e){this.a=d
 this.b=e},
-amY:function amY(d,e,f,g,h){var _=this
+amV:function amV(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.f=g
 _.a=h},
-l2:function l2(d,e,f,g){var _=this
+l1:function l1(d,e,f,g){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -24,18 +24,18 @@ E=c[17]
 B=a.updateHolder(c[4],B)
 D=c[33]
 F=c[18]
-B.yF.prototype={
+B.yB.prototype={
 p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.e(d).c.h(0,A.j(y.D)))
 q.toString
 x=A.aA(d).a
 w=y.u
-v=A.a([A.Gy(C.a7,new B.aGC(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
+v=A.a([A.Gw(C.a8,new B.aGz(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.aW(r,q,r,r))
-s=D.wJ[u]
-t.push(new B.amY(s,!x.f.n(0,s.a),new B.aGD(x,u),new B.aGE(x,u),r))
+s=D.wI[u]
+t.push(new B.amV(s,!x.f.n(0,s.a),new B.aGA(x,u),new B.aGB(x,u),r))
 C.f.u(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
-B.amY.prototype={
+B.amV.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.e(d).c.h(0,A.j(y.C)))
 o.toString
 x=y.y.a(A.e(d).c.h(0,A.j(y.D)))
@@ -45,40 +45,40 @@ v=A.ad(x.d)
 u=A.aO(o.ch,1)
 t=q.c
 s=t.a
-s=A.qs(A.mZ(d,s),F.KQ(d,s),t.d,x.k4,p,40)
+s=A.qs(A.mZ(d,s),F.KP(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.d(p,x.Q,p)
-return A.a3(p,A.t(A.a([new E.jP(s,t.b,t.c,r,q.e,p),x,new A.cF(C.el,p,p,A.aw(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.a7,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
-B.l2.prototype={}
+return A.a3(p,A.t(A.a([new E.jN(s,t.b,t.c,r,q.e,p),x,new A.cM(C.eM,p,p,A.ax(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.a8,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
+B.l1.prototype={}
 var z=a.updateTypes([])
-B.aGC.prototype={
+B.aGz.prototype={
 $0(){return this.a.hC(0,"settings")},
 $S:0}
-B.aGD.prototype={
-$1(d){return this.a.ami(D.wJ[this.b].a,!d)},
+B.aGA.prototype={
+$1(d){return this.a.ame(D.wI[this.b].a,!d)},
 $S:3}
-B.aGE.prototype={
-$0(){var x,w=D.wJ[this.b],v=this.a.y
+B.aGB.prototype={
+$0(){var x,w=D.wI[this.b],v=this.a.y
 if(v!=null){x=y.w
-v.aly("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
+v.alu("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.M,[B.yF,B.amY])
-x(A.kn,[B.aGC,B.aGE])
-w(B.aGD,A.it)
-w(B.l2,A.P)})()
-A.m_(b.typeUniverse,JSON.parse('{"yF":{"M":[],"f":[],"i":[]},"amY":{"M":[],"f":[],"i":[]}}'))
+x(A.M,[B.yB,B.amV])
+x(A.kn,[B.aGz,B.aGB])
+w(B.aGA,A.it)
+w(B.l1,A.P)})()
+A.m_(b.typeUniverse,JSON.parse('{"yB":{"M":[],"f":[],"i":[]},"amV":{"M":[],"f":[],"i":[]}}'))
 var y={C:A.a7("e9"),D:A.a7("ez"),u:A.a7("u<f>"),w:A.a7("c"),F:A.a7("e9?"),y:A.a7("ez?")};(function constants(){var x=a.makeConstList
-D.bBv=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dF)
-D.bBs=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iY)
-D.bBq=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iV)
-D.bBp=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.ey)
-D.bBw=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kQ)
-D.bBo=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fN)
-D.bBx=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kS)
-D.bBu=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
-D.bBr=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kR)
-D.bBn=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kP)
-D.bBt=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
-D.bBm=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ey)
-D.wJ=x([D.bBv,D.bBs,D.bBq,D.bBp,D.bBw,D.bBo,D.bBx,D.bBu,D.bBr,D.bBn,D.bBt,D.bBm],A.a7("u<l2>"))})()};
-(a=>{a["HY2AD51b9jdl3IJ5HHOjvlirk1A="]=a.current})($__dart_deferred_initializers__);
+D.bBt=new B.l1("people","People","Track employees, contractors, and visitors in your factory",C.dF)
+D.bBq=new B.l1("machines","Machines","Monitor and manage industrial equipment and machinery",C.iY)
+D.bBo=new B.l1("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iV)
+D.bBn=new B.l1("materials","Materials","Manage raw materials, components, and finished goods inventory",C.ex)
+D.bBu=new B.l1("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kQ)
+D.bBm=new B.l1("locations","Locations","Define physical locations and facilities within your factory",C.fM)
+D.bBv=new B.l1("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kS)
+D.bBs=new B.l1("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
+D.bBp=new B.l1("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kR)
+D.bBl=new B.l1("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kP)
+D.bBr=new B.l1("software","Software","Manage software licenses, applications, and tooling",C.dw)
+D.bBk=new B.l1("products","Products","Catalog finished products, variants, and SKUs",C.ex)
+D.wI=x([D.bBt,D.bBq,D.bBo,D.bBn,D.bBu,D.bBm,D.bBv,D.bBs,D.bBp,D.bBl,D.bBr,D.bBk],A.a7("u<l1>"))})()};
+(a=>{a["WEJEOMBBhvbhn8myXhjj8gsdBPo="]=a.current})($__dart_deferred_initializers__);
