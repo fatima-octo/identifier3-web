@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-caW(){return new B.yF(null)},
+caX(){return new B.yF(null)},
 yF:function yF(d){this.a=d},
 aGC:function aGC(d){this.a=d},
 aGD:function aGD(d,e){this.a=d
@@ -68,17 +68,17 @@ w(B.aGD,A.it)
 w(B.l2,A.P)})()
 A.m_(b.typeUniverse,JSON.parse('{"yF":{"M":[],"f":[],"i":[]},"amY":{"M":[],"f":[],"i":[]}}'))
 var y={C:A.a7("e9"),D:A.a7("ez"),u:A.a7("u<f>"),w:A.a7("c"),F:A.a7("e9?"),y:A.a7("ez?")};(function constants(){var x=a.makeConstList
-D.bBu=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dF)
-D.bBr=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iY)
-D.bBp=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iV)
-D.bBo=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.ey)
-D.bBv=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kQ)
-D.bBn=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fN)
-D.bBw=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kS)
-D.bBt=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
-D.bBq=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kR)
-D.bBm=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kP)
-D.bBs=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
-D.bBl=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ey)
-D.wJ=x([D.bBu,D.bBr,D.bBp,D.bBo,D.bBv,D.bBn,D.bBw,D.bBt,D.bBq,D.bBm,D.bBs,D.bBl],A.a7("u<l2>"))})()};
-(a=>{a["v34bmraHVls+vDWoBwInFi8T4f0="]=a.current})($__dart_deferred_initializers__);
+D.bBv=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dF)
+D.bBs=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iY)
+D.bBq=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iV)
+D.bBp=new B.l2("materials","Materials","Manage raw materials, components, and finished goods inventory",C.ey)
+D.bBw=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kQ)
+D.bBo=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fN)
+D.bBx=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kS)
+D.bBu=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
+D.bBr=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kR)
+D.bBn=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kP)
+D.bBt=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
+D.bBm=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ey)
+D.wJ=x([D.bBv,D.bBs,D.bBq,D.bBp,D.bBw,D.bBo,D.bBx,D.bBu,D.bBr,D.bBn,D.bBt,D.bBm],A.a7("u<l2>"))})()};
+(a=>{a["HY2AD51b9jdl3IJ5HHOjvlirk1A="]=a.current})($__dart_deferred_initializers__);
