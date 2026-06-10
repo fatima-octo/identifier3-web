@@ -32873,13 +32873,14 @@ this.b=b},
 zW:function zW(a){this.a=a},
 Xe:function Xe(a,b,c,d){var _=this
 _.d=0
-_.w=_.r=_.f=_.e=""
-_.y=a
-_.z=b
-_.Q=c
-_.as=d
-_.ay=_.ax=_.at=!1
-_.c=_.a=_.ch=null},
+_.e=!1
+_.x=_.w=_.r=_.f=""
+_.z=a
+_.Q=b
+_.as=c
+_.at=d
+_.ch=_.ay=_.ax=!1
+_.c=_.a=_.CW=null},
 bnT:function bnT(a){this.a=a},
 bo_:function bo_(a){this.a=a},
 bnU:function bnU(a){this.a=a},
@@ -124804,7 +124805,7 @@ if(s.d<4)s.v(new A.bo_(s))
 else s.Be()},
 Be(){var s=0,r=A.D(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$Be=A.z(function(a3,a4){if(a3===1){o.push(a4)
-s=p}for(;;)switch(s){case 0:if(n.ax){s=1
+s=p}for(;;)switch(s){case 0:if(n.ay){s=1
 break}h=n.c
 h.toString
 m=A.aA(h).a
@@ -124841,7 +124842,7 @@ break
 case 8:p=13
 h=t.z
 s=16
-return A.v(l.EN("create_tenant",A.ah(["tenant_name",B.m.T(n.e),"primary_site_name",B.m.T(n.f),"selected_modules",B.b6g],t.N,h),h),$async$Be)
+return A.v(l.EN("create_tenant",A.ah(["tenant_name",B.m.T(n.f),"primary_site_name",B.m.T(n.r),"selected_modules",B.b6g],t.N,h),h),$async$Be)
 case 16:p=2
 s=15
 break
@@ -124863,18 +124864,18 @@ case 15:case 4:if(n.c==null){s=1
 break}h=m
 f=t.N
 e=A.b4(f)
-for(d=$.axT(),c=d.length,b=n.z,a=0;a<d.length;d.length===c||(0,A.J)(d),++a){a0=d[a].a
+for(d=$.axT(),c=d.length,b=n.Q,a=0;a<d.length;d.length===c||(0,A.J)(d),++a){a0=d[a].a
 if(!b.n(0,a0[0]))e.D(0,a0[0])}h.f=A.es(e,f)
 h.a7C()
 h.hH()
-n.ay=!0
+n.ch=!0
 A.xt(!1,n)
 m.b.aU6()
 case 1:return A.B(q,r)
 case 2:return A.A(o.at(-1),r)}})
 return A.C($async$Be,r)},
 ga5x(){var s=this
-return B.m.T(s.e).length!==0||B.m.T(s.f).length!==0||B.m.T(s.r).length!==0||s.w.length!==0||s.y.length!==0||s.Q.length!==0||s.as.length!==0},
+return B.m.T(s.f).length!==0||B.m.T(s.r).length!==0||B.m.T(s.w).length!==0||s.x.length!==0||s.z.length!==0||s.as.length!==0||s.at.length!==0},
 Gv(){var s=0,r=A.D(t.H),q,p=this,o
 var $async$Gv=A.z(function(a,b){if(a===1)return A.A(b,r)
 for(;;)switch(s){case 0:s=p.d===0?3:4
@@ -124896,10 +124897,10 @@ break
 case 4:p.v(new A.bnu(p))
 case 1:return A.B(q,r)}})
 return A.C($async$Gv,r)},
-aK8(){if(this.ax)return!1
+aK8(){if(this.ay)return!1
 if(this.d===0)return this.ga2r()
 return!0},
-ga2r(){return B.m.T(this.e).length!==0&&B.m.T(this.f).length!==0},
+ga2r(){return B.m.T(this.f).length!==0&&B.m.T(this.r).length!==0},
 m(){A.xt(!1,this)
 this.aE()},
 p(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=t.S,f=t.a,e=f.a(A.e(a).c.h(0,A.j(g)))
@@ -124908,7 +124909,8 @@ s=t.K
 r=t.r
 q=r.a(A.e(a).c.h(0,A.j(s)))
 q.toString
-A.xt(i.ga5x()&&!i.ay,i)
+if(i.d===4)i.e=!0
+A.xt(i.ga5x()&&!i.ch,i)
 p=r.a(A.e(a).c.h(0,A.j(s)))
 p.toString
 p=p.at
@@ -124923,7 +124925,7 @@ g=f.a(A.e(a).c.h(0,A.j(g)))
 g.toString
 f=t.p
 g=A.a([m,l,A.a9(A.af("Identifier Setup",h,h,A.r(h,h,g.a,h,h,h,h,h,h,h,h,A.p(B.eN),h,h,A.q(B.C),h,h,!0,h,h,h,h,h,h,h,h),h),1)],f)
-if(i.d<4){m=A.aw(h,!1,B.G,h,h,!1,"Skip to summary",h,h,i.ga2r()?new A.bo1(i):h,h,B.a6,h,B.dc,h)
+if(i.e&&i.d<4){m=A.aw(h,!1,B.G,h,h,!1,"Back to summary",h,h,i.ga2r()?new A.bo1(i):h,h,B.a6,h,B.dc,h)
 l=r.a(A.e(a).c.h(0,A.j(s)))
 l.toString
 B.f.u(g,A.a([m,A.d(h,h,l.x)],f))}n=A.ad(n)
@@ -124955,7 +124957,7 @@ return A.Gw(h,e.c,A.jx(!0,A.bH(A.qi(new A.dd(B.zW,A.t(A.a([o,l,A.a3(h,A.t(A.a([k
 auB(a){var s,r,q,p,o,n=this,m=null,l="Set up later",k=t.a.a(A.e(a).c.h(0,A.j(t.S)))
 k.toString
 s=A.au(a,B.aI,t.l).w
-if(n.d===4)r=n.ax?"Setting up\u2026":"Finish Setup"
+if(n.d===4)r=n.ay?"Setting up\u2026":"Finish Setup"
 else r="Next"
 q=n.aK8()
 if(s.a.a<640){s=t.p
@@ -124978,26 +124980,26 @@ o.toString
 B.f.u(s,A.a([k,A.d(m,m,o.x)],p))}s.push(A.aw(m,!1,B.G,m,m,!1,r,m,m,q?n.gI1():m,m,B.a6,m,B.aP,m))
 return A.R(s,B.z,B.n,B.p,0,m)},
 auP(){var s,r,q,p,o,n,m=this,l=null
-switch(m.d){case 0:return new A.M2(m.e,m.f,m.r,m.w,new A.bnH(m),new A.bnI(m),new A.bnJ(m),new A.bnL(m),l)
-case 1:return new A.Pc(m.y,new A.bnM(m),new A.bnN(m),l)
-case 2:return new A.a64(m.z,$.axT(),new A.bnO(m),new A.bnP(m),new A.bnQ(m),l)
-case 3:return new A.Ok(m.Q,m.as,m.at,m.gaxW(),new A.bnR(m),new A.bnS(m),l)
+switch(m.d){case 0:return new A.M2(m.f,m.r,m.w,m.x,new A.bnH(m),new A.bnI(m),new A.bnJ(m),new A.bnL(m),l)
+case 1:return new A.Pc(m.z,new A.bnM(m),new A.bnN(m),l)
+case 2:return new A.a64(m.Q,$.axT(),new A.bnO(m),new A.bnP(m),new A.bnQ(m),l)
+case 3:return new A.Ok(m.as,m.at,m.ax,m.gaxW(),new A.bnR(m),new A.bnS(m),l)
 case 4:s=A.a([],t.NA)
-for(r=$.axT(),q=r.length,p=m.z,o=0;o<r.length;r.length===q||(0,A.J)(r),++o){n=r[o].a
+for(r=$.axT(),q=r.length,p=m.Q,o=0;o<r.length;r.length===q||(0,A.J)(r),++o){n=r[o].a
 if(p.n(0,n[0]))s.push(new A.hC(n[0],n[1],n[2]))}r=t.p
 q=A.a([],r)
-p=m.ch
+p=m.CW
 if(p!=null){p=A.uM(l,p,l,l)
 n=m.c
 n.toString
 n=t.r.a(A.e(n).c.h(0,A.j(t.K)))
 n.toString
-B.f.u(q,A.a([p,A.d(l,n.Q,l)],r))}q.push(new A.adP(m.e,"Manufacturing",m.y,s,m.Q.length,m.as.length,new A.bnK(m),l))
+B.f.u(q,A.a([p,A.d(l,n.Q,l)],r))}q.push(new A.adP(m.f,"Manufacturing",m.z,s,m.as.length,m.at.length,new A.bnK(m),l))
 return A.t(q,B.v,B.n,B.p,0,B.q)}return B.aR}}
 A.bnT.prototype={
 $0(){var s=this.a
-s.at=!0
-s=s.Q
+s.ax=!0
+s=s.as
 B.f.a0(s)
 B.f.u(s,B.b4A)},
 $S:0}
@@ -125006,36 +125008,36 @@ $0(){return this.a.d++},
 $S:0}
 A.bnU.prototype={
 $0(){var s=this.a
-s.ax=!0
-s.ch=null},
+s.ay=!0
+s.CW=null},
 $S:0}
 A.bnV.prototype={
 $0(){var s=this.a,r=s.c
 r.toString
-s.ch=A.h(r,"Your account was created. Please confirm your email from the message we just sent, then sign in to finish setting up your workspace.")
-s.ax=!1},
+s.CW=A.h(r,"Your account was created. Please confirm your email from the message we just sent, then sign in to finish setting up your workspace.")
+s.ay=!1},
 $S:0}
 A.bnW.prototype={
 $0(){var s=this.a
-s.ch=this.b.a
-s.ax=!1},
+s.CW=this.b.a
+s.ay=!1},
 $S:0}
 A.bnX.prototype={
 $0(){var s=this.a,r=s.c
 r.toString
-s.ch=A.h(r,"Something went wrong while creating your account. Please try again.")
-s.ax=!1},
+s.CW=A.h(r,"Something went wrong while creating your account. Please try again.")
+s.ay=!1},
 $S:0}
 A.bnY.prototype={
 $0(){var s=this.a
-s.ch=this.b.a
-s.ax=!1},
+s.CW=this.b.a
+s.ay=!1},
 $S:0}
 A.bnZ.prototype={
 $0(){var s=this.a,r=s.c
 r.toString
-s.ch=A.h(r,"Something went wrong while creating your workspace. Please try again.")
-s.ax=!1},
+s.CW=A.h(r,"Something went wrong while creating your workspace. Please try again.")
+s.ay=!1},
 $S:0}
 A.bnu.prototype={
 $0(){return this.a.d--},
@@ -125052,49 +125054,49 @@ $1(a){var s=this.a
 return s.v(new A.bnG(s,a))},
 $S:1}
 A.bnG.prototype={
-$0(){return this.a.e=this.b},
+$0(){return this.a.f=this.b},
 $S:0}
 A.bnI.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnF(s,a))},
 $S:1}
 A.bnF.prototype={
-$0(){return this.a.f=this.b},
+$0(){return this.a.r=this.b},
 $S:0}
 A.bnJ.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnE(s,a))},
 $S:1}
 A.bnE.prototype={
-$0(){return this.a.r=this.b},
+$0(){return this.a.w=this.b},
 $S:0}
 A.bnL.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnD(s,a))},
 $S:1}
 A.bnD.prototype={
-$0(){return this.a.w=this.b},
+$0(){return this.a.x=this.b},
 $S:0}
 A.bnM.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnC(s,a))},
 $S:678}
 A.bnC.prototype={
-$0(){return this.a.y.push(this.b)},
+$0(){return this.a.z.push(this.b)},
 $S:0}
 A.bnN.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnB(s,a))},
 $S:13}
 A.bnB.prototype={
-$0(){return B.f.eo(this.a.y,this.b)},
+$0(){return B.f.eo(this.a.z,this.b)},
 $S:0}
 A.bnO.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnA(s,a))},
 $S:1}
 A.bnA.prototype={
-$0(){var s=this.a.z,r=this.b
+$0(){var s=this.a.Q,r=this.b
 if(s.n(0,r))s.G(0,r)
 else s.D(0,r)},
 $S:0}
@@ -125103,7 +125105,7 @@ $0(){var s=this.a
 return s.v(new A.bnz(s))},
 $S:0}
 A.bnz.prototype={
-$0(){var s,r=this.a.z
+$0(){var s,r=this.a.Q
 r.a0(0)
 s=$.axT()
 r.u(0,new A.a1(s,new A.bnv(),A.a4(s).i("a1<1,c>")))},
@@ -125112,7 +125114,7 @@ A.bnv.prototype={
 $1(a){return a.a[0]},
 $S:679}
 A.bnQ.prototype={
-$0(){var s=this.a,r=s.z
+$0(){var s=this.a,r=s.Q
 return s.v(r.gK7(r))},
 $S:0}
 A.bnR.prototype={
@@ -125120,14 +125122,14 @@ $1(a){var s=this.a
 return s.v(new A.bny(s,a))},
 $S:266}
 A.bny.prototype={
-$0(){return this.a.Q.push(this.b)},
+$0(){return this.a.as.push(this.b)},
 $S:0}
 A.bnS.prototype={
 $1(a){var s=this.a
 return s.v(new A.bnx(s,a))},
 $S:266}
 A.bnx.prototype={
-$0(){return this.a.as.push(this.b)},
+$0(){return this.a.at.push(this.b)},
 $S:0}
 A.bnK.prototype={
 $1(a){var s=this.a
