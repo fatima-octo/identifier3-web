@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9H(){return new B.yz(null)},
+c9K(){return new B.yz(null)},
 yz:function yz(d){this.a=d},
 aGk:function aGk(d){this.a=d},
 aGl:function aGl(d,e){this.a=d
@@ -45,10 +45,10 @@ v=A.ad(x.d)
 u=A.aO(o.ch,1)
 t=q.c
 s=t.a
-s=A.qo(A.mZ(d,s),F.KI(d,s),t.d,x.k4,p,40)
+s=A.qp(A.mZ(d,s),F.KI(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.d(p,x.Q,p)
-return A.a5(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
+return A.a3(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
 B.aGk.prototype={
@@ -75,10 +75,10 @@ D.bBf=new B.l2("materials","Materials","Manage raw materials, components, and fi
 D.bBm=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kO)
 D.bBe=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fM)
 D.bBn=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kQ)
-D.bBk=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nU)
+D.bBk=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nV)
 D.bBh=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kP)
 D.bBd=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kN)
 D.bBj=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBc=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBl,D.bBi,D.bBg,D.bBf,D.bBm,D.bBe,D.bBn,D.bBk,D.bBh,D.bBd,D.bBj,D.bBc],A.a8("u<l2>"))})()};
-(a=>{a["fGG53wNoxr4hHNJ0th2VSGg4ids="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["kMb9Ogl4n3Q/7nWWt1dJnci1x28="]=a.current})($__dart_deferred_initializers__);
