@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-caM(){return new B.yD(null)},
-yD:function yD(d){this.a=d},
+caN(){return new B.yE(null)},
+yE:function yE(d){this.a=d},
 aGB:function aGB(d){this.a=d},
 aGC:function aGC(d,e){this.a=d
 this.b=e},
@@ -24,7 +24,7 @@ E=c[17]
 B=a.updateHolder(c[4],B)
 D=c[33]
 F=c[18]
-B.yD.prototype={
+B.yE.prototype={
 p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.e(d).c.h(0,A.j(y.D)))
 q.toString
 x=A.aA(d).a
@@ -62,11 +62,11 @@ $0(){var x,w=D.wJ[this.b],v=this.a.y
 if(v!=null){x=y.w
 v.alv("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.M,[B.yD,B.amX])
+x(A.M,[B.yE,B.amX])
 x(A.kn,[B.aGB,B.aGD])
 w(B.aGC,A.it)
 w(B.l1,A.P)})()
-A.lZ(b.typeUniverse,JSON.parse('{"yD":{"M":[],"f":[],"i":[]},"amX":{"M":[],"f":[],"i":[]}}'))
+A.lZ(b.typeUniverse,JSON.parse('{"yE":{"M":[],"f":[],"i":[]},"amX":{"M":[],"f":[],"i":[]}}'))
 var y={C:A.a7("e9"),D:A.a7("ey"),u:A.a7("u<f>"),w:A.a7("c"),F:A.a7("e9?"),y:A.a7("ey?")};(function constants(){var x=a.makeConstList
 D.bBt=new B.l1("people","People","Track employees, contractors, and visitors in your factory",C.dF)
 D.bBq=new B.l1("machines","Machines","Monitor and manage industrial equipment and machinery",C.iY)
@@ -81,4 +81,4 @@ D.bBl=new B.l1("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBr=new B.l1("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBk=new B.l1("products","Products","Catalog finished products, variants, and SKUs",C.ey)
 D.wJ=x([D.bBt,D.bBq,D.bBo,D.bBn,D.bBu,D.bBm,D.bBv,D.bBs,D.bBp,D.bBl,D.bBr,D.bBk],A.a7("u<l1>"))})()};
-(a=>{a["JeCORDU9YUhsa8GRaIG4uA6QLi4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["UkU2c7boqZ2sWloGFWsuihC9FrQ="]=a.current})($__dart_deferred_initializers__);
