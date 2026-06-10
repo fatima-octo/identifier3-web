@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-cab(){return new B.yz(null)},
+cac(){return new B.yz(null)},
 yz:function yz(d){this.a=d},
 aGt:function aGt(d){this.a=d},
 aGu:function aGu(d,e){this.a=d
@@ -75,10 +75,10 @@ D.bBg=new B.l2("materials","Materials","Manage raw materials, components, and fi
 D.bBn=new B.l2("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kP)
 D.bBf=new B.l2("locations","Locations","Define physical locations and facilities within your factory",C.fM)
 D.bBo=new B.l2("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kR)
-D.bBl=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nV)
+D.bBl=new B.l2("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
 D.bBi=new B.l2("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kQ)
 D.bBe=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kO)
 D.bBk=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBd=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ey)
 D.wI=x([D.bBm,D.bBj,D.bBh,D.bBg,D.bBn,D.bBf,D.bBo,D.bBl,D.bBi,D.bBe,D.bBk,D.bBd],A.a8("u<l2>"))})()};
-(a=>{a["tfdeJEyemK/XRcYL/NGIcaiDVio="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["y2zZ3UUrklJ3BmqPQRYvFp5l4K4="]=a.current})($__dart_deferred_initializers__);
