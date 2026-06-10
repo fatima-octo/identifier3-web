@@ -1,13 +1,13 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-c9K(){return new B.yz(null)},
+c9J(){return new B.yz(null)},
 yz:function yz(d){this.a=d},
-aGn:function aGn(d){this.a=d},
-aGo:function aGo(d,e){this.a=d
+aGk:function aGk(d){this.a=d},
+aGl:function aGl(d,e){this.a=d
 this.b=e},
-aGp:function aGp(d,e){this.a=d
+aGm:function aGm(d,e){this.a=d
 this.b=e},
-amL:function amL(d,e,f,g,h){var _=this
+amO:function amO(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
 _.e=f
@@ -29,13 +29,13 @@ p(d){var x,w,v,u,t,s,r=null,q=y.y.a(A.e(d).c.h(0,A.j(y.D)))
 q.toString
 x=A.az(d).a
 w=y.u
-v=A.a([A.Gn(C.aa,new B.aGn(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
+v=A.a([A.Gn(C.aa,new B.aGk(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.aR(r,q,r,r))
 s=D.wH[u]
-t.push(new B.amL(s,!x.f.n(0,s.a),new B.aGo(x,u),new B.aGp(x,u),r))
+t.push(new B.amO(s,!x.f.n(0,s.a),new B.aGl(x,u),new B.aGm(x,u),r))
 C.f.t(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
-B.amL.prototype={
+B.amO.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.e(d).c.h(0,A.j(y.C)))
 o.toString
 x=y.y.a(A.e(d).c.h(0,A.j(y.D)))
@@ -45,29 +45,29 @@ v=A.ad(x.d)
 u=A.aO(o.ch,1)
 t=q.c
 s=t.a
-s=A.qo(A.mZ(d,s),F.KG(d,s),t.d,x.k4,p,40)
+s=A.qo(A.mZ(d,s),F.KI(d,s),t.d,x.k4,p,40)
 r=q.d
 x=A.d(p,x.Q,p)
-return A.a5(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.aa(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
+return A.a5(p,A.t(A.a([new E.jQ(s,t.b,t.c,r,q.e,p),x,new A.cG(C.ek,p,p,A.aA(p,!1,C.G,p,p,!1,"Configure",p,p,r?q.f:p,p,C.a6,p,C.aa,120),p)],y.u),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,u,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)}}
 B.l2.prototype={}
 var z=a.updateTypes([])
-B.aGn.prototype={
+B.aGk.prototype={
 $0(){return this.a.hA(0,"settings")},
 $S:0}
-B.aGo.prototype={
-$1(d){return this.a.alN(D.wH[this.b].a,!d)},
+B.aGl.prototype={
+$1(d){return this.a.alQ(D.wH[this.b].a,!d)},
 $S:3}
-B.aGp.prototype={
+B.aGm.prototype={
 $0(){var x,w=D.wH[this.b],v=this.a.y
 if(v!=null){x=y.w
-v.al0("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
+v.al3("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.M,[B.yz,B.amL])
-x(A.kn,[B.aGn,B.aGp])
-w(B.aGo,A.it)
+x(A.M,[B.yz,B.amO])
+x(A.kn,[B.aGk,B.aGm])
+w(B.aGl,A.is)
 w(B.l2,A.P)})()
-A.lX(b.typeUniverse,JSON.parse('{"yz":{"M":[],"f":[],"i":[]},"amL":{"M":[],"f":[],"i":[]}}'))
-var y={C:A.a8("e9"),D:A.a8("ey"),u:A.a8("u<f>"),w:A.a8("c"),F:A.a8("e9?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
+A.lX(b.typeUniverse,JSON.parse('{"yz":{"M":[],"f":[],"i":[]},"amO":{"M":[],"f":[],"i":[]}}'))
+var y={C:A.a8("e7"),D:A.a8("ey"),u:A.a8("u<f>"),w:A.a8("c"),F:A.a8("e7?"),y:A.a8("ey?")};(function constants(){var x=a.makeConstList
 D.bBl=new B.l2("people","People","Track employees, contractors, and visitors in your factory",C.dF)
 D.bBi=new B.l2("machines","Machines","Monitor and manage industrial equipment and machinery",C.iW)
 D.bBg=new B.l2("tools","Tools","Track hand tools, measuring equipment, and other instruments",C.iT)
@@ -81,4 +81,4 @@ D.bBd=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBj=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBc=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBl,D.bBi,D.bBg,D.bBf,D.bBm,D.bBe,D.bBn,D.bBk,D.bBh,D.bBd,D.bBj,D.bBc],A.a8("u<l2>"))})()};
-(a=>{a["YlO2Gz9IQH1250sFxZtzimjXnys="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["a5gkiHRLGOU93gZYmT1K53sORGw="]=a.current})($__dart_deferred_initializers__);
