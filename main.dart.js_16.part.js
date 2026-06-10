@@ -44,11 +44,11 @@ _.d=g},
 cqM(d){switch(d.a){case 0:return C.xG
 case 2:return C.ZA
 case 1:return C.Zz
-case 3:return D.bln
+case 3:return D.blo
 case 4:return C.ZB}},
 bEM(d,e){var x=0,w=B.D(y.e),v,u
 var $async$bEM=B.z(function(f,g){if(f===1)return B.A(g,w)
-for(;;)switch(x){case 0:if(e===D.afm||e===D.afn)u=!(d.gdR()==="https"||d.gdR()==="http")
+for(;;)switch(x){case 0:if(e===D.afn||e===D.afo)u=!(d.gdR()==="https"||d.gdR()==="http")
 else u=!1
 if(u)throw B.k(B.fi(d,"url","To use an in-app web view, you must provide an http(s) URL."))
 v=$.bSS().E7(d.j(0),new B.a8u(A.cqM(e),new B.a84(!0,!0,C.a4),null))
@@ -160,11 +160,11 @@ w(A.F9,B.tM)
 v(B.P,[A.b4u,A.aAb,A.acI])
 x(A.arM,B.bz)})()
 B.m_(b.typeUniverse,JSON.parse('{"Ri":{"a2":[],"bz":["a2"],"Z":[],"i":[],"b7":[]},"wa":{"bM":[],"ba":[],"f":[],"i":[]},"agX":{"cX":["bJ"],"ax":[]}}'))
-var y={a:B.a7("aF"),d:B.a7("hc"),i:B.a7("wD"),e:B.a7("K")};(function constants(){D.bDc=new A.aAb()
-D.bDk=new A.b4u()
-D.bDA=new A.F9(0,"platformDefault")
-D.afm=new A.F9(1,"inAppWebView")
-D.afn=new A.F9(2,"inAppBrowserView")
+var y={a:B.a7("aF"),d:B.a7("hc"),i:B.a7("wD"),e:B.a7("K")};(function constants(){D.bDd=new A.aAb()
+D.bDl=new A.b4u()
+D.bDB=new A.F9(0,"platformDefault")
+D.afn=new A.F9(1,"inAppWebView")
+D.afo=new A.F9(2,"inAppBrowserView")
 D.Dy=new A.F9(3,"externalApplication")
-D.bln=new B.Al(3,"externalApplication")})()};
-(a=>{a["X+d0XOk/xhfEyEJfWadpkhe5IR8="]=a.current})($__dart_deferred_initializers__);
+D.blo=new B.Al(3,"externalApplication")})()};
+(a=>{a["qYjYX6y+TSeMIvygFOn2bZFLohA="]=a.current})($__dart_deferred_initializers__);

@@ -228,7 +228,7 @@ u=w.b
 t=o.f
 s=x.Q
 r=x.x
-return A.t(A.a([A.af("ID Format",p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.X),p,p,A.q(C.C),p,p,!0,p,p,p,p,p,p,p,p).a4(C.O),p),A.d(p,x.f,p),A.af("Configure how IDs are generated",p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p),A.d(p,s,p),A.b_(!1,12,A.bh(p,!1,p,"EMP-",!1,!1,"Prefix",new B.bil(q),p,C.ah,C.ab,p,C.a9,v),A.bh(p,!1,p,"1000",!1,!1,"Starting Number",new B.bim(q),p,C.ah,C.bY,p,C.a9,C.t.j(u))),A.d(p,r,p),A.a_(A.h(d,"Example: "+(v+u+", "+v+(u+1)+"\u2026")),p,p,p,p,p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),A.d(p,s,p),A.cH(p,"Standard",!1,D.b6j,"Label Template",new B.bin(q),C.aC,w.d,y.L),A.d(p,s,p),A.cH(p,"Default Printer",!1,D.aZu,"Printer Mapping",new B.bio(q),C.aC,w.e,y.N),A.d(p,s,p),new A.kp(w.f,new B.bip(q),"Include QR Code",p,!1,p),A.d(p,r,p),new A.kp(w.r,new B.biq(q),"Include Barcode",p,!1,p)],y.p),C.v,C.n,C.p,0,C.q)}}
+return A.t(A.a([A.af("ID Format",p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.X),p,p,A.q(C.C),p,p,!0,p,p,p,p,p,p,p,p).a4(C.O),p),A.d(p,x.f,p),A.af("Configure how IDs are generated",p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p),A.d(p,s,p),A.b_(!1,12,A.bi(p,!1,p,"EMP-",!1,!1,"Prefix",new B.bil(q),p,C.ah,C.ab,p,C.a9,v),A.bi(p,!1,p,"1000",!1,!1,"Starting Number",new B.bim(q),p,C.ah,C.bY,p,C.a9,C.t.j(u))),A.d(p,r,p),A.a_(A.h(d,"Example: "+(v+u+", "+v+(u+1)+"\u2026")),p,p,p,p,p,p,A.r(p,p,t,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),A.d(p,s,p),A.cH(p,"Standard",!1,D.b6k,"Label Template",new B.bin(q),C.aC,w.d,y.L),A.d(p,s,p),A.cH(p,"Default Printer",!1,D.aZv,"Printer Mapping",new B.bio(q),C.aC,w.e,y.N),A.d(p,s,p),new A.kp(w.f,new B.bip(q),"Include QR Code",p,!1,p),A.d(p,r,p),new A.kp(w.r,new B.biq(q),"Include Barcode",p,!1,p)],y.p),C.v,C.n,C.p,0,C.q)}}
 B.aoM.prototype={
 p(d){var x,w,v,u,t,s,r,q=null,p=y.a.a(A.e(d).c.h(0,A.j(y.S)))
 p.toString
@@ -273,7 +273,7 @@ B.al8.prototype={
 ga1T(){var x=this.d
 return x===$?this.d=this.a.c:x},
 p(d){var x=null
-return A.bOn(A.bh(x,!1,x,"New name",!1,!1,"Category",new B.b8h(this),new B.b8i(d),C.ah,C.ab,x,C.a9,this.ga1T()),"Cancel","Save",C.aP,x,480,new B.b8j(d),new B.b8k(this,d),!0,"Rename category")}}
+return A.bOn(A.bi(x,!1,x,"New name",!1,!1,"Category",new B.b8h(this),new B.b8i(d),C.ah,C.ab,x,C.a9,this.ga1T()),"Cancel","Save",C.aP,x,480,new B.b8j(d),new B.b8k(this,d),!0,"Rename category")}}
 B.yn.prototype={
 U(){return new B.Vg()}}
 B.Vg.prototype={
@@ -349,22 +349,22 @@ i=i.f
 t=A.af("Define the properties of your custom field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)
 x=x.Q
 s=A.d(j,x,j)
-r=A.bh(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.baX(k),j,C.ah,C.ab,j,C.a9,k.gxJ())
+r=A.bi(j,!1,j,"e.g., Employee ID, Serial Number",!1,!0,"Field Label",new B.baX(k),j,C.ah,C.ab,j,C.a9,k.gxJ())
 q=A.d(j,x,j)
 p=k.goq()
 o=A.a([],y.d)
 for(n=y.z,m=0;m<9;++m){l=C.NQ[m]
 o.push(new A.b9(l,new A.bs(B.bOo(l),j,j,j,j,j),C.a1,j,n))}n=y.p
-i=A.a([w,u,t,s,r,q,A.cH(j,"Single-line Text",!0,o,"Field Type",new B.baY(k),C.aC,p,y.T),A.d(j,x,j),new A.kp(k.ga8m(),new B.baZ(k),"Required",j,!1,j),A.d(j,x,j),A.cH(j,"Select group or leave ungrouped",!1,D.b5g,"Group Assignment",j,C.aC,j,y.N),A.d(j,v,j),A.af("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
-if(k.goq()===C.kv)C.f.u(i,A.a([A.d(j,x,j),A.bh(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bb_(k),j,C.ah,C.ab,j,C.a9,k.ga7e())],n))
+i=A.a([w,u,t,s,r,q,A.cH(j,"Single-line Text",!0,o,"Field Type",new B.baY(k),C.aC,p,y.T),A.d(j,x,j),new A.kp(k.ga8m(),new B.baZ(k),"Required",j,!1,j),A.d(j,x,j),A.cH(j,"Select group or leave ungrouped",!1,D.b5h,"Group Assignment",j,C.aC,j,y.N),A.d(j,v,j),A.af("Currently set to: Individual Field",j,j,A.r(j,j,i,j,j,j,j,j,j,j,j,A.p(C.E),j,j,A.q(C.A),j,j,!0,j,j,j,j,j,j,j,j),j)],n)
+if(k.goq()===C.kv)C.f.u(i,A.a([A.d(j,x,j),A.bi(j,!1,"Separate each option with a comma","Enter options separated by commas (e.g., Option 1, Option 2, Option 3)",!0,!0,"Dropdown Options",new B.bb_(k),j,C.ah,C.ab,j,C.a9,k.ga7e())],n))
 i.push(A.d(j,x,j))
 if(k.goq()===C.kv)i.push(k.aur(d))
 else if(k.goq()===C.Bu)i.push(k.auo(d))
 else if(k.goq()===C.Bv)i.push(k.auS(d))
 else if(k.goq()===C.uw||k.goq()===C.kw)i.push(C.aR)
-else i.push(A.bh(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.bb0(k),j,C.ah,C.ab,j,C.a9,k.gpG()))
+else i.push(A.bi(j,!1,j,"Optional default value",!1,!1,"Default Value",new B.bb0(k),j,C.ah,C.ab,j,C.a9,k.gpG()))
 i.push(A.d(j,x,j))
-i.push(A.bh(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.bb1(k),j,C.ah,C.ab,j,C.a9,k.ga5D()))
+i.push(A.bi(j,!1,j,"Optional helper text to guide users",!0,!1,"Help Text",new B.bb1(k),j,C.ah,C.ab,j,C.a9,k.ga5D()))
 return A.t(i,C.v,C.n,C.M,0,C.q)},
 auo(d){var x,w=null,v=y.a.a(A.e(d).c.h(0,A.j(y.S)))
 v.toString
@@ -413,7 +413,7 @@ o=A.a([A.R(o,C.z,C.n,C.p,0,m)],p)
 if(x===C.kv&&q.d.length!==0)C.f.u(o,A.a([A.d(m,v.f,m),A.a_(A.h(d,"Options: "+C.f.bd(q.d,", ")),m,m,m,m,m,m,A.r(m,m,l.f,m,m,m,m,m,m,m,m,A.p(C.E),m,m,A.q(C.A),m,m,!0,m,m,m,m,m,m,m,m),m,m,m,m,m)],p))
 x=v.k3
 w=l.f
-return A.a3(m,A.R(A.a([new B.adA(n.d,n.e,n.f,n.r,m),r,A.a9(A.t(o,C.R,C.n,C.p,0,C.q),1),A.jY(m,m,A.aN(C.ex,w,m,x),m,m,n.w,m,m,m,m,m),A.jY(m,m,A.aN(D.adJ,w,m,x),m,m,n.x,m,m,m,m,m),A.jY(m,m,A.aN(C.fM,l.db,m,x),m,m,n.y,m,m,m,m,m)],p),C.z,C.n,C.p,0,m),C.y,m,m,new A.ab(l.r,m,s,t,m,m,C.H),m,m,m,m,new A.H(u,u,u,u),m,m,m)}}
+return A.a3(m,A.R(A.a([new B.adA(n.d,n.e,n.f,n.r,m),r,A.a9(A.t(o,C.R,C.n,C.p,0,C.q),1),A.jY(m,m,A.aN(C.ex,w,m,x),m,m,n.w,m,m,m,m,m),A.jY(m,m,A.aN(D.adK,w,m,x),m,m,n.x,m,m,m,m,m),A.jY(m,m,A.aN(C.fM,l.db,m,x),m,m,n.y,m,m,m,m,m)],p),C.z,C.n,C.p,0,m),C.y,m,m,new A.ab(l.r,m,s,t,m,m,C.H),m,m,m,m,new A.H(u,u,u,u),m,m,m)}}
 B.a4Y.prototype={
 Go(d){return this.atk(d)},
 atk(d){var x=0,w=A.D(y.H),v,u=this,t,s,r
@@ -507,7 +507,7 @@ x.toString
 w=x.x
 v=y.p
 u=p.f
-p=A.a([A.R(A.a([A.a9(A.bh(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaPn(),C.ah,C.ab,q,C.a9,r.f),1),A.d(q,q,w),new A.ap(new A.H(0,0,0,x.r),A.aw(q,!1,C.G,q,q,!1,"Add",q,q,new B.aGi(r),q,C.a6,q,C.aP,q),q)],v),C.fh,C.n,C.p,0,q),A.d(q,x.f,q),A.af("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.af("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.C),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
+p=A.a([A.R(A.a([A.a9(A.bi(q,!1,q,"Type and press Enter to add, or use commas for bulk entry",!1,!1,"Add Category",r.r,r.gaPn(),C.ah,C.ab,q,C.a9,r.f),1),A.d(q,q,w),new A.ap(new A.H(0,0,0,x.r),A.aw(q,!1,C.G,q,q,!1,"Add",q,q,new B.aGi(r),q,C.a6,q,C.aP,q),q)],v),C.fh,C.n,C.p,0,q),A.d(q,x.f,q),A.af("Tip: You can enter multiple categories separated by commas",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,x.Q,q),A.af("Current Categories",q,q,A.r(q,q,p.d,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.C),q,q,!0,q,q,q,q,q,q,q,q),q),A.d(q,w,q)],v)
 x=r.d.w
 if(x.length===0)p.push(A.af("No categories yet \u2014 add one above.",q,q,A.r(q,q,u,q,q,q,q,q,q,q,q,A.p(C.E),q,q,A.q(C.A),q,q,!0,q,q,q,q,q,q,q,q),q))
 else{v=A.a([],v)
@@ -736,16 +736,16 @@ A.m_(b.typeUniverse,JSON.parse('{"uU":{"aa":[],"f":[],"i":[]},"VU":{"ac":["uU"]}
 var y=(function rtii(){var x=A.a7
 return{S:x("e9"),K:x("ez"),I:x("i1"),T:x("hJ"),z:x("b9<hJ>"),q:x("b9<kD>"),O:x("b9<c>"),A:x("u<i1>"),d:x("u<b9<hJ>>"),t:x("u<b9<c>>"),s:x("u<c>"),p:x("u<f>"),L:x("kD"),e:x("a1<c,c>"),N:x("c"),a:x("e9?"),r:x("ez?"),H:x("~")}})();(function constants(){var x=a.makeConstList
 D.a3f=new A.aF(0,280,0,1/0)
-D.adJ=new A.aG(61311,"MaterialIcons",null,!1)
-D.b9Z=new A.bs("Default Printer",null,null,null,null,null)
-D.a9n=new A.b9("Default Printer",D.b9Z,C.a1,null,y.O)
-D.aZu=x([D.a9n],y.t)
-D.b5g=x([],y.t)
-D.bab=new A.bs("Standard",null,null,null,null,null)
-D.a9P=new A.b9(C.d_,D.bab,C.a1,null,y.q)
-D.bai=new A.bs("Compact",null,null,null,null,null)
-D.a9z=new A.b9(C.Dw,D.bai,C.a1,null,y.q)
-D.bav=new A.bs("Detailed",null,null,null,null,null)
-D.a9Y=new A.b9(C.Dx,D.bav,C.a1,null,y.q)
-D.b6j=x([D.a9P,D.a9z,D.a9Y],A.a7("u<b9<kD>>"))})()};
-(a=>{a["RVFx7QkBqVdgwZxl+ppzHNSNEPE="]=a.current})($__dart_deferred_initializers__);
+D.adK=new A.aG(61311,"MaterialIcons",null,!1)
+D.ba_=new A.bs("Default Printer",null,null,null,null,null)
+D.a9n=new A.b9("Default Printer",D.ba_,C.a1,null,y.O)
+D.aZv=x([D.a9n],y.t)
+D.b5h=x([],y.t)
+D.bac=new A.bs("Standard",null,null,null,null,null)
+D.a9P=new A.b9(C.d_,D.bac,C.a1,null,y.q)
+D.baj=new A.bs("Compact",null,null,null,null,null)
+D.a9z=new A.b9(C.Dw,D.baj,C.a1,null,y.q)
+D.baw=new A.bs("Detailed",null,null,null,null,null)
+D.a9Y=new A.b9(C.Dx,D.baw,C.a1,null,y.q)
+D.b6k=x([D.a9P,D.a9z,D.a9Y],A.a7("u<b9<kD>>"))})()};
+(a=>{a["tClerQaO827M0YeuDi7RtUgtuy8="]=a.current})($__dart_deferred_initializers__);

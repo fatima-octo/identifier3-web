@@ -115,7 +115,7 @@ t.toString
 x=D.KZ[this.d]
 w=y.u
 v=t.Q
-return A.t(A.a([A.R(A.a([A.aw(u,!1,C.G,u,u,!1,"Back to Help Center",C.iQ,u,new B.bgK(d),u,C.a6,u,C.bz,u)],w),C.z,C.n,C.p,0,u),A.d(u,v,u),D.acM,A.d(u,v,u),A.ek(new B.bgL(this,x,t)),A.d(u,v,u),D.bn_],w),C.v,C.n,C.p,0,C.q)}}
+return A.t(A.a([A.R(A.a([A.aw(u,!1,C.G,u,u,!1,"Back to Help Center",C.iQ,u,new B.bgK(d),u,C.a6,u,C.bz,u)],w),C.z,C.n,C.p,0,u),A.d(u,v,u),D.acN,A.d(u,v,u),A.ek(new B.bgL(this,x,t)),A.d(u,v,u),D.bn0],w),C.v,C.n,C.p,0,C.q)}}
 B.asJ.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(A.e(d).c.h(0,A.j(y.C)))
 o.toString
@@ -129,10 +129,10 @@ s=q.d
 r=y.u
 x=x.Q
 return A.a3(p,A.t(A.a([A.R(A.a([A.a9(A.a_(s.b,p,p,p,p,p,p,A.r(p,p,o.d,p,p,p,p,p,p,p,p,A.p(C.eN),p,p,A.q(C.C),p,p,!0,p,p,p,p,p,p,p,p).a4(C.O),p,p,p,p,p),1),new B.a8V(q.e,q.f,p)],r),C.z,C.n,C.p,0,p),A.d(p,x,p),q.aBc(d,s.a),A.d(p,x,p),A.fc(u,1),A.d(p,x,p),A.R(A.a([A.aw(p,!1,C.G,p,p,!1,"Previous",C.iQ,p,q.r,p,C.aW,p,C.a7,p),C.c0,A.a_(A.h(d,""+(q.c+1)+" of 4"),p,p,p,p,p,p,A.r(p,p,o.f,p,p,p,p,p,p,p,p,A.p(C.E),p,p,A.q(C.A),p,p,!0,p,p,p,p,p,p,p,p),p,p,p,p,p),C.c0,A.aw(p,!1,C.G,p,p,!1,"Next",p,p,q.w,p,C.aW,C.CR,C.a7,p)],r),C.z,C.n,C.p,0,p)],r),C.v,C.n,C.p,0,C.q),C.y,p,p,new A.ab(o.r,p,t,v,p,p,C.H),p,p,p,p,new A.H(w,w,w,w),p,p,p)},
-aBc(d,e){switch(e){case"overview":return D.bjR
-case"getting-started":return D.acK
+aBc(d,e){switch(e){case"overview":return D.bjS
+case"getting-started":return D.acL
 case"best-practices":return D.a2J
-case"troubleshooting":return D.bwK}return C.aR}}
+case"troubleshooting":return D.bwL}return C.aR}}
 B.a7e.prototype={
 p(d){var x=null
 return A.t(A.a([new B.ry("Getting Started Steps",x),new B.eD("Follow these essential steps to set up your Identifier platform:",x),new B.nC("1. Initial Setup",x),new B.eD("Complete the onboarding wizard",x),new B.eD("Configure your company information",x),new B.eD("Set up initial user accounts and roles",x),new B.eD("Define your factory locations and working areas",x),new B.nC("2. Entity Configuration",x),new B.eD("Enable the entity types you need (People, Machines, Tools, Materials)",x),new B.eD("Configure ID formats and numbering schemes",x),new B.eD("Set up custom fields for your specific requirements",x),new B.eD("Import existing data if migrating from another system",x),new B.nC("3. User Management",x),new B.eD("Create user accounts for your team members",x),new B.eD("Assign appropriate roles and permissions",x),new B.eD("Configure access levels for different areas",x),new B.eD("Set up approval workflows if needed",x)],y.u),C.v,C.n,C.p,0,C.q)}}
@@ -359,15 +359,15 @@ A.m_(b.typeUniverse,JSON.parse('{"v0":{"aa":[],"f":[],"i":[]},"Wd":{"ac":["v0"]}
 var y={C:A.a7("e9"),D:A.a7("ez"),c:A.a7("u<he>"),l:A.a7("u<I<QW>>"),u:A.a7("u<f>"),w:A.a7("c"),F:A.a7("e9?"),y:A.a7("ez?")};(function constants(){var x=a.makeConstList
 D.a2J=new B.a1H(null)
 D.a8s=new A.de("beginner",C.iz,C.b1,null,null)
-D.acK=new B.a7e(null)
-D.acM=new B.a7p(null)
-D.acP=new B.z6("overview","Overview")
-D.acN=new B.z6("getting-started","Getting Started")
-D.acO=new B.z6("best-practices","Best Practices")
-D.acQ=new B.z6("troubleshooting","Troubleshooting")
-D.KZ=x([D.acP,D.acN,D.acO,D.acQ],A.a7("u<z6>"))
-D.bjR=new B.abA(null)
-D.bn_=new B.acZ(null)
-D.bwK=new B.ah_(null)})();(function lazyInitializers(){var x=a.lazyFinal
+D.acL=new B.a7e(null)
+D.acN=new B.a7p(null)
+D.acQ=new B.z6("overview","Overview")
+D.acO=new B.z6("getting-started","Getting Started")
+D.acP=new B.z6("best-practices","Best Practices")
+D.acR=new B.z6("troubleshooting","Troubleshooting")
+D.KZ=x([D.acQ,D.acO,D.acP,D.acR],A.a7("u<z6>"))
+D.bjS=new B.abA(null)
+D.bn0=new B.acZ(null)
+D.bwL=new B.ah_(null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"cBy","c4t",()=>A.a([B.bPT("Entity Management Guide","entity-management","intermediate"),B.bPT("User Roles & Permissions","user-management","beginner"),B.bPT("Advanced Reporting Features","compliance","advanced")],A.a7("u<QW>")))})()};
-(a=>{a["vZ09QsO94YMhiYs8IPPaDfjpN7E="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["d+6AFL9N54pwL9kbxymkevDCahM="]=a.current})($__dart_deferred_initializers__);

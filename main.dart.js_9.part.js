@@ -204,7 +204,7 @@ A.EE.prototype={}
 A.lt.prototype={}
 A.a5G.prototype={
 p(d){var x=this
-return A.bYj(new A.aE5(),D.lC,x.d,new A.aE6(),D.Um,x.e,new A.aE7(),new A.aE8(),D.aOm,x.r,x.w,x.f,x.c,new A.aE9(),!1,y.l)}}
+return A.bYj(new A.aE5(),D.lC,x.d,new A.aE6(),D.Um,x.e,new A.aE7(),new A.aE8(),D.aOn,x.r,x.w,x.f,x.c,new A.aE9(),!1,y.l)}}
 A.a8d.prototype={
 p(d){return B.ek(new A.aL8(this))}}
 A.abB.prototype={
@@ -254,7 +254,7 @@ s.push(new B.ap(new B.H(t,x.Q,t,t),p.x,o))
 return B.a3(o,B.t(s,C.v,C.n,C.p,0,C.q),C.y,o,o,new B.ab(l.r,o,u,v,o,o,C.H),o,o,o,o,o,o,o,o)}}
 A.ahv.prototype={
 p(d){var x=this
-return A.bYj(new A.b3Z(),D.lC,x.d,new A.b4_(),D.Um,x.e,new A.b40(),new A.b41(),D.b2Q,x.r,x.w,x.f,x.c,new A.b42(),!1,y.h)}}
+return A.bYj(new A.b3Z(),D.lC,x.d,new A.b4_(),D.Um,x.e,new A.b40(),new A.b41(),D.b2R,x.r,x.w,x.f,x.c,new A.b42(),!1,y.h)}}
 A.Qa.prototype={
 p(d){var x,w,v,u,t,s,r,q=this,p=null,o=y.F.a(B.e(d).c.h(0,B.j(y.C)))
 o.toString
@@ -402,7 +402,7 @@ $1(d){return d>=720?2:1},
 $S:241}
 A.aL8.prototype={
 $2(d,e){var x,w,v,u,t,s=null,r=e.b>=720?2:1,q=y.u,p=B.a([],q)
-for(x=this.a.c,w=0;w<3;++w){v=D.b3c[w]
+for(x=this.a.c,w=0;w<3;++w){v=D.b3d[w]
 u=v.e
 t=x.h(0,u)
 u=t==null?u:t
@@ -507,26 +507,26 @@ return{C:x("e9"),D:x("ez"),p:x("aC<c,c>"),l:x("ls"),h:x("lt"),c:x("u<An>"),x:x("
 D.D3=new B.aG(58874,"MaterialIcons",null,!1)
 D.Dd=new B.aG(61890,"MaterialIcons",null,!1)
 D.nX=new B.aG(62126,"MaterialIcons",null,!1)
-D.acY=new A.ls("Getting Started with Identifier","Complete guide to setting up your factory identity management system","getting-started","beginner","15 min","PDF Guide","4.8","1240 views","2.3 MB","2024-01-15")
-D.acX=new A.ls("Entity Management Best Practices","Learn how to effectively organize and manage people, machines, tools, and materials","entity-management","intermediate","25 min","PDF Manual","4.9","980 views","4.1 MB","2024-01-12")
-D.acT=new A.ls("Label Printing & QR Code Setup","Step-by-step instructions for configuring label printing and QR code generation","getting-started","beginner","10 min","Quick Guide","4.7","756 views","1.8 MB","2024-01-10")
-D.acU=new A.ls("Compliance Reporting Configuration","Advanced configuration for compliance tracking and automated reporting","compliance","advanced","45 min","Technical Manual","4.6","432 views","6.2 MB","2024-01-08")
-D.acV=new A.ls("User Roles & Permissions Guide","Comprehensive guide to setting up user roles and managing permissions","user-management","intermediate","20 min","Configuration Guide","4.8","612 views","3.4 MB","2024-01-05")
-D.acW=new A.ls("API Integration Handbook","Developer guide for integrating Identifier with external systems","integrations","advanced","60 min","API Documentation","4.5","287 views","8.7 MB","2024-01-03")
-D.aOm=x([D.acY,D.acX,D.acT,D.acU,D.acV,D.acW],B.a7("u<ls>"))
-D.ad1=new A.lt("Platform Overview & Quick Tour","Get familiar with the Identifier interface and main features","getting-started","beginner","8:32","Overview","4.9","2340 views","2024-01-18")
-D.ad6=new A.lt("Creating Your First Working Area","Learn how to set up departments, floors, and zones in your factory","entity-management","beginner","12:15","Tutorial","4.8","1890 views","2024-01-16")
-D.ad5=new A.lt("Advanced Machine Management","Deep dive into machine tracking, maintenance scheduling, and performance monitoring","entity-management","intermediate","18:45","Deep Dive","4.7","1456 views","2024-01-14")
-D.ad2=new A.lt("Setting Up User Permissions","Configure role-based access control and manage user permissions effectively","user-management","intermediate","15:20","Configuration","4.6","1123 views","2024-01-12")
-D.ad4=new A.lt("Compliance Dashboard Walkthrough","Navigate the compliance features and generate audit reports","compliance","intermediate","22:10","Walkthrough","4.8","834 views","2024-01-10")
-D.ad3=new A.lt("Troubleshooting Common Issues","Solutions to frequently encountered problems and error messages","troubleshooting","beginner","16:55","Troubleshooting","4.9","1678 views","2024-01-08")
-D.b2Q=x([D.ad1,D.ad6,D.ad5,D.ad2,D.ad4,D.ad3],B.a7("u<lt>"))
-D.ad_=new A.EE("Interactive Onboarding","Complete guided tour of the platform with hands-on exercises","Interactive Guide","beginner","getting-started","30 min","12 steps")
-D.ad0=new A.EE("Entity Setup Wizard","Step-by-step tutorial for creating your first entities","Wizard","beginner","entity-management","20 min","8 steps")
-D.acZ=new A.EE("Advanced Reporting Tutorial","Learn to create custom reports and dashboards","Advanced Tutorial","advanced","compliance","45 min","15 steps")
-D.b3c=x([D.ad_,D.ad0,D.acZ],B.a7("u<EE>"))
-D.bfq={all:0,beginner:1,intermediate:2,advanced:3}
-D.Um=new B.aC(D.bfq,["All levels","Beginner","Intermediate","Advanced"],y.p)
-D.bfG={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
-D.lC=new B.aC(D.bfG,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)})()};
-(a=>{a["rjRzsHwDjAJPHbqedah53qoxd4c="]=a.current})($__dart_deferred_initializers__);
+D.acZ=new A.ls("Getting Started with Identifier","Complete guide to setting up your factory identity management system","getting-started","beginner","15 min","PDF Guide","4.8","1240 views","2.3 MB","2024-01-15")
+D.acY=new A.ls("Entity Management Best Practices","Learn how to effectively organize and manage people, machines, tools, and materials","entity-management","intermediate","25 min","PDF Manual","4.9","980 views","4.1 MB","2024-01-12")
+D.acU=new A.ls("Label Printing & QR Code Setup","Step-by-step instructions for configuring label printing and QR code generation","getting-started","beginner","10 min","Quick Guide","4.7","756 views","1.8 MB","2024-01-10")
+D.acV=new A.ls("Compliance Reporting Configuration","Advanced configuration for compliance tracking and automated reporting","compliance","advanced","45 min","Technical Manual","4.6","432 views","6.2 MB","2024-01-08")
+D.acW=new A.ls("User Roles & Permissions Guide","Comprehensive guide to setting up user roles and managing permissions","user-management","intermediate","20 min","Configuration Guide","4.8","612 views","3.4 MB","2024-01-05")
+D.acX=new A.ls("API Integration Handbook","Developer guide for integrating Identifier with external systems","integrations","advanced","60 min","API Documentation","4.5","287 views","8.7 MB","2024-01-03")
+D.aOn=x([D.acZ,D.acY,D.acU,D.acV,D.acW,D.acX],B.a7("u<ls>"))
+D.ad2=new A.lt("Platform Overview & Quick Tour","Get familiar with the Identifier interface and main features","getting-started","beginner","8:32","Overview","4.9","2340 views","2024-01-18")
+D.ad7=new A.lt("Creating Your First Working Area","Learn how to set up departments, floors, and zones in your factory","entity-management","beginner","12:15","Tutorial","4.8","1890 views","2024-01-16")
+D.ad6=new A.lt("Advanced Machine Management","Deep dive into machine tracking, maintenance scheduling, and performance monitoring","entity-management","intermediate","18:45","Deep Dive","4.7","1456 views","2024-01-14")
+D.ad3=new A.lt("Setting Up User Permissions","Configure role-based access control and manage user permissions effectively","user-management","intermediate","15:20","Configuration","4.6","1123 views","2024-01-12")
+D.ad5=new A.lt("Compliance Dashboard Walkthrough","Navigate the compliance features and generate audit reports","compliance","intermediate","22:10","Walkthrough","4.8","834 views","2024-01-10")
+D.ad4=new A.lt("Troubleshooting Common Issues","Solutions to frequently encountered problems and error messages","troubleshooting","beginner","16:55","Troubleshooting","4.9","1678 views","2024-01-08")
+D.b2R=x([D.ad2,D.ad7,D.ad6,D.ad3,D.ad5,D.ad4],B.a7("u<lt>"))
+D.ad0=new A.EE("Interactive Onboarding","Complete guided tour of the platform with hands-on exercises","Interactive Guide","beginner","getting-started","30 min","12 steps")
+D.ad1=new A.EE("Entity Setup Wizard","Step-by-step tutorial for creating your first entities","Wizard","beginner","entity-management","20 min","8 steps")
+D.ad_=new A.EE("Advanced Reporting Tutorial","Learn to create custom reports and dashboards","Advanced Tutorial","advanced","compliance","45 min","15 steps")
+D.b3d=x([D.ad0,D.ad1,D.ad_],B.a7("u<EE>"))
+D.bfr={all:0,beginner:1,intermediate:2,advanced:3}
+D.Um=new B.aC(D.bfr,["All levels","Beginner","Intermediate","Advanced"],y.p)
+D.bfH={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
+D.lC=new B.aC(D.bfH,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)})()};
+(a=>{a["BY/jbW5VmwEpezNpf15OGVx2glY="]=a.current})($__dart_deferred_initializers__);
