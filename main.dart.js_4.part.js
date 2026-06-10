@@ -31,7 +31,7 @@ x=A.ay(d).a
 w=y.u
 v=A.a([A.Gn(C.aa,new B.aGk(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
-if(u>0)t.push(new A.aR(r,q,r,r))
+if(u>0)t.push(new A.aS(r,q,r,r))
 s=D.wH[u]
 t.push(new B.amO(s,!x.f.n(0,s.a),new B.aGl(x,u),new B.aGm(x,u),r))
 C.f.t(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
@@ -81,4 +81,4 @@ D.bBd=new B.l2("projects","Projects","Plan and track ongoing manufacturing proje
 D.bBj=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBc=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wH=x([D.bBl,D.bBi,D.bBg,D.bBf,D.bBm,D.bBe,D.bBn,D.bBk,D.bBh,D.bBd,D.bBj,D.bBc],A.a8("u<l2>"))})()};
-(a=>{a["3iwQRaAVJLyY7aA5RF0vKijZnE8="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["fGG53wNoxr4hHNJ0th2VSGg4ids="]=a.current})($__dart_deferred_initializers__);
