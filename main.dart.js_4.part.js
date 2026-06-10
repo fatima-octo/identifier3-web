@@ -32,7 +32,7 @@ w=y.u
 v=A.a([A.Gt(C.a9,new B.aGt(x),r,r,r,r,r,r,"Print",r,"Enable or disable the entities you want to manage in your factory. Configure details for each enabled entity.","Manage Entities to Track",!0),A.d(r,q.at,r)],w)
 for(q=q.Q,u=0;u<12;++u){t=A.a([],w)
 if(u>0)t.push(new A.aR(r,q,r,r))
-s=D.wH[u]
+s=D.wI[u]
 t.push(new B.amT(s,!x.f.n(0,s.a),new B.aGu(x,u),new B.aGv(x,u),r))
 C.f.t(v,t)}return A.t(v,C.v,C.n,C.p,0,C.q)}}
 B.amT.prototype={
@@ -55,10 +55,10 @@ B.aGt.prototype={
 $0(){return this.a.hA(0,"settings")},
 $S:0}
 B.aGu.prototype={
-$1(d){return this.a.am0(D.wH[this.b].a,!d)},
+$1(d){return this.a.am0(D.wI[this.b].a,!d)},
 $S:3}
 B.aGv.prototype={
-$0(){var x,w=D.wH[this.b],v=this.a.y
+$0(){var x,w=D.wI[this.b],v=this.a.y
 if(v!=null){x=y.w
 v.ale("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
@@ -80,5 +80,5 @@ D.bBi=new B.l2("workstations","Workstations","Manage operator workstations and s
 D.bBe=new B.l2("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kO)
 D.bBk=new B.l2("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBd=new B.l2("products","Products","Catalog finished products, variants, and SKUs",C.ey)
-D.wH=x([D.bBm,D.bBj,D.bBh,D.bBg,D.bBn,D.bBf,D.bBo,D.bBl,D.bBi,D.bBe,D.bBk,D.bBd],A.a8("u<l2>"))})()};
-(a=>{a["SF/gVUGWzsjQtdHwGLAh4+sOaIg="]=a.current})($__dart_deferred_initializers__);
+D.wI=x([D.bBm,D.bBj,D.bBh,D.bBg,D.bBn,D.bBf,D.bBo,D.bBl,D.bBi,D.bBe,D.bBk,D.bBd],A.a8("u<l2>"))})()};
+(a=>{a["N/CCt/7CFv9987ZLHfqshjsq5no="]=a.current})($__dart_deferred_initializers__);

@@ -116,13 +116,13 @@ b3Q:function b3Q(){},
 b3N:function b3N(){},
 b3O:function b3O(){},
 b3P:function b3P(){},
-cp4(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=B.h(d,f),t=y.u,s=B.R(B.a([B.a9(A.F3(C.vw,e.e),1),B.a9(A.F3(D.CZ,e.r+" ("+e.w+")"),1)],t),C.z,C.n,C.p,0,x),r=y.D,q=y.y,p=q.a(B.e(d).c.h(0,B.j(r)))
+cp4(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=B.h(d,f),t=y.u,s=B.R(B.a([B.a9(A.F3(C.vx,e.e),1),B.a9(A.F3(D.CZ,e.r+" ("+e.w+")"),1)],t),C.z,C.n,C.p,0,x),r=y.D,q=y.y,p=q.a(B.e(d).c.h(0,B.j(r)))
 p.toString
 p=B.t(B.a([s,B.d(x,p.w,x),B.R(B.a([B.a9(A.F3(C.dG,e.x),1),B.a9(A.F3(C.e5,e.y),1)],t),C.z,C.n,C.p,0,x)],t),C.R,C.n,C.p,0,C.q)
 s=B.a9(B.ay(x,!1,C.G,x,x,!1,B.h(d,"View Document"),C.dw,x,new A.byd(),x,C.a6,x,C.aO,1/0),1)
 r=q.a(B.e(d).c.h(0,B.j(r)))
 r.toString
-return A.bVf(B.R(B.a([s,B.d(x,x,r.x),B.ay(x,!1,C.G,x,x,!1,"",C.vD,x,new A.bye(),"Download",C.bK,x,C.a9,x)],t),C.z,C.n,C.p,0,x),u,v,e.d,x,p,w,e.f)},
+return A.bVf(B.R(B.a([s,B.d(x,x,r.x),B.ay(x,!1,C.G,x,x,!1,"",C.vE,x,new A.bye(),"Download",C.bK,x,C.a9,x)],t),C.z,C.n,C.p,0,x),u,v,e.d,x,p,w,e.f)},
 byd:function byd(){},
 bye:function bye(){},
 Q6:function Q6(d,e,f,g,h){var _=this
@@ -168,7 +168,7 @@ aXJ:function aXJ(d,e){this.a=d
 this.b=e},
 cpm(d,e,f){var x=null,w=B.h(d,e.a),v=B.h(d,e.b),u=e.f,t=B.h(d,f),s=A.F3(D.CZ,e.r),r=y.y.a(B.e(d).c.h(0,B.j(y.D)))
 r.toString
-r=B.R(B.a([s,B.d(x,x,r.z),new B.fK(1,C.cr,A.F3(C.vI,e.w),x),C.c_,A.F3(C.e5,e.x)],y.u),C.z,C.n,C.p,0,x)
+r=B.R(B.a([s,B.d(x,x,r.z),new B.fK(1,C.cr,A.F3(C.vJ,e.w),x),C.c_,A.F3(C.e5,e.x)],y.u),C.z,C.n,C.p,0,x)
 return A.bVf(B.ay(x,!1,C.G,x,x,!1,B.h(d,"Watch Video"),D.nW,x,new A.bBf(),x,C.a6,x,C.aO,1/0),t,v,e.d,new A.ahm(u,e.e,x),r,w,u)},
 bBf:function bBf(){},
 ahm:function ahm(d,e,f){this.c=d
@@ -193,8 +193,8 @@ p(d){var x,w=y.y.a(B.e(d).c.h(0,B.j(y.D)))
 w.toString
 w=B.d(null,w.Q,null)
 x=B.a(["Overview","Documents (6)","Videos (6)","Interactive (3)"],y.x)
-return B.t(B.a([w,B.MA(this.d,this.aFJ(),null,x,new A.bhO(this),!1)],y.u),C.v,C.n,C.p,0,C.q)},
-aFJ(){var x=this,w=null
+return B.t(B.a([w,B.MA(this.d,this.aFK(),null,x,new A.bhO(this),!1)],y.u),C.v,C.n,C.p,0,C.q)},
+aFK(){var x=this,w=null
 switch(x.d){case 0:return new A.abx(new A.bhG(x),w)
 case 1:return new A.a5C(x.e,x.f,x.r,new A.bhH(x),new A.bhI(x),new A.bhJ(x),w)
 case 2:return new A.ahq(x.e,x.f,x.r,new A.bhK(x),new A.bhL(x),new A.bhM(x),w)
@@ -321,7 +321,7 @@ r=C.a7.bT(0.7)
 v=u.a(B.e(d).c.h(0,B.j(v)))
 v.toString
 v=B.ad(v.a)
-return B.d(B.fq(C.bQ,B.a([x,w,p,B.kJ(10,B.a3(q,B.a1(this.d,q,q,q,q,q,q,B.r(q,q,C.Y,q,q,q,q,q,q,q,q,B.p(C.ag),q,q,B.q(C.C),q,q,!0,q,q,q,q,q,q,q,q).a3(C.hB),q,q,q,q,q),C.y,q,q,new B.ab(r,q,q,v,q,q,C.H),q,q,q,q,new B.H(t,s,t,s),q,q,q),q,q,q,10,q,q)],y.u),C.au,C.yq),160,q)}}
+return B.d(B.fq(C.bQ,B.a([x,w,p,B.kJ(10,B.a3(q,B.a1(this.d,q,q,q,q,q,q,B.r(q,q,C.Y,q,q,q,q,q,q,q,q,B.p(C.ag),q,q,B.q(C.C),q,q,!0,q,q,q,q,q,q,q,q).a3(C.hB),q,q,q,q,q),C.y,q,q,new B.ab(r,q,q,v,q,q,C.H),q,q,q,q,new B.H(t,s,t,s),q,q,q),q,q,q,10,q,q)],y.u),C.au,C.yr),160,q)}}
 A.F2.prototype={
 p(d){var x=null,w=y.F.a(B.e(d).c.h(0,B.j(y.C)))
 w.toString
@@ -406,7 +406,7 @@ for(x=this.a.c,w=0;w<3;++w){v=D.b35[w]
 u=v.e
 t=x.h(0,u)
 u=t==null?u:t
-p.push(new A.Oj(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cr(1,C.aE,new A.F2(C.vw,v.f,s),s),new B.cr(1,C.aE,new A.F2(D.D8,v.r,s),s)],q),C.z,C.n,C.p,0,s),new B.oh("Start Tutorial",new A.aKZ(),C.aO,C.a6,D.nW,s,s,!1,!1,s,s,1/0,C.G,s,s,s),s,s))}return new E.mH(r,16,p,!0,s)},
+p.push(new A.Oj(v.a,v.b,v.c,v.d,u,B.R(B.a([new B.cr(1,C.aE,new A.F2(C.vx,v.f,s),s),new B.cr(1,C.aE,new A.F2(D.D8,v.r,s),s)],q),C.z,C.n,C.p,0,s),new B.oh("Start Tutorial",new A.aKZ(),C.aO,C.a6,D.nW,s,s,!1,!1,s,s,1/0,C.G,s,s,s),s,s))}return new E.mH(r,16,p,!0,s)},
 $S:z+0}
 A.aKZ.prototype={
 $0(){},
@@ -529,4 +529,4 @@ D.bfj={all:0,beginner:1,intermediate:2,advanced:3}
 D.Ug=new B.aC(D.bfj,["All levels","Beginner","Intermediate","Advanced"],y.p)
 D.bfz={all:0,"getting-started":1,"entity-management":2,"user-management":3,compliance:4,settings:5,troubleshooting:6,integrations:7,advanced:8}
 D.lA=new B.aC(D.bfz,["All Categories","Getting Started","Entity Management","User Management","Compliance & Reporting","Settings & Configuration","Troubleshooting","Integrations","Advanced Features"],y.p)})()};
-(a=>{a["Zp0+/78J7cK0GzG6mxzEofDDWiA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["IysrX5GuFHHnedtH48/G1YsNbLA="]=a.current})($__dart_deferred_initializers__);
