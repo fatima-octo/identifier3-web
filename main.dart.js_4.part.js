@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-caN(){return new B.yB(null)},
+caP(){return new B.yB(null)},
 yB:function yB(d){this.a=d},
 aGz:function aGz(d){this.a=d},
 aGA:function aGA(d,e){this.a=d
@@ -60,7 +60,7 @@ $S:3}
 B.aGB.prototype={
 $0(){var x,w=D.wI[this.b],v=this.a.y
 if(v!=null){x=y.w
-v.alu("settings-entity-configure",A.ah(["entityKey",w.a],x,x))}return null},
+v.alu("settings-entity-configure",A.ag(["entityKey",w.a],x,x))}return null},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.M,[B.yB,B.amV])
 x(A.kn,[B.aGz,B.aGB])
@@ -75,10 +75,10 @@ D.bBn=new B.l1("materials","Materials","Manage raw materials, components, and fi
 D.bBu=new B.l1("workingAreas","Working Areas","Organize departments, floors, zones, and production areas",C.kQ)
 D.bBm=new B.l1("locations","Locations","Define physical locations and facilities within your factory",C.fM)
 D.bBv=new B.l1("devices","Devices","Manage IoT devices, sensors, and connected equipment",C.kS)
-D.bBs=new B.l1("clients","Clients","Track client accounts, contacts, and engagement history",C.nW)
+D.bBs=new B.l1("clients","Clients","Track client accounts, contacts, and engagement history",C.nX)
 D.bBp=new B.l1("workstations","Workstations","Manage operator workstations and shop-floor terminals",C.kR)
 D.bBl=new B.l1("projects","Projects","Plan and track ongoing manufacturing projects and milestones",C.kP)
 D.bBr=new B.l1("software","Software","Manage software licenses, applications, and tooling",C.dw)
 D.bBk=new B.l1("products","Products","Catalog finished products, variants, and SKUs",C.ex)
 D.wI=x([D.bBt,D.bBq,D.bBo,D.bBn,D.bBu,D.bBm,D.bBv,D.bBs,D.bBp,D.bBl,D.bBr,D.bBk],A.a7("u<l1>"))})()};
-(a=>{a["WEJEOMBBhvbhn8myXhjj8gsdBPo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Pw6gsf4ir7tr9W/01VczKJwDGHc="]=a.current})($__dart_deferred_initializers__);
